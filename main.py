@@ -16,7 +16,9 @@ fail_bug_list = []
 
 
 def create_temp_directory():
-    temp_dir = tempfile.mkdtemp()
+    if not os.path.exists("tmp"):
+        os.makedirs("tmp")
+    temp_dir = tempfile.mkdtemp(dir="tmp")
     return temp_dir
 
 
@@ -44,6 +46,8 @@ def task_main(r, temperature, model_type, bug,bug_info,codebase_path,try_count,o
 
 
 def main(meta_path, agent_number, model_type, temperature, r, output_dir):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
     with open(meta_path,"r") as f:
         data = json.load(f)
     for n in range(1,agent_number+1):
@@ -64,7 +68,7 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
 
                 try:
                     task_main(r-1, temperature, model_type, bug, bug_info, codebase_path, try_count, output)
-                    print(f"agent_{agent_number+1}: Finish {bug}")
+                    # print(f"agent_{agent_number+1}: Finish {bug}")
                     break
 
                 except TaskMainNormalExit as e:
@@ -80,6 +84,7 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
                     break
 
                 except Exception as e:
+                    print(e)
                     if (("Connection error" in str(e)) or ("Request timed out" in str(e)) or ("request contained invalid JSON: Expecting value:" in str(e))) and try_count < 3:
                         time.sleep(30)
                         with open(os.path.join(output_dir, "fail_bug_list.txt"), "a+") as f:

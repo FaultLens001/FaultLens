@@ -207,8 +207,10 @@ def run(parsed_dir, FL_round_upperbound, temperature, model_type, bug_id, bug_ou
 
     proj_main_pattern, proj_test_pattern = recognize_pattern(codebase_path)
     if (not proj_main_pattern) or (not proj_test_pattern):
-        print_and_log("Failed to recognize the source and test folders.\n")
-        raise TaskMainErrorExit(f"Error exit for {bug_id}: Failed to recognize the source and test folders.\n")
+        print_and_log(
+            "Failed to recognize the source and test folders. The codebase for this bug may not have been checked out correctly. You may need to check if Defects4J can check out correctly.\n")
+        raise TaskMainErrorExit(
+            f"Error exit for {bug_id}: Failed to recognize the source and test folders. The codebase for this bug may not have been checked out correctly. You may need to check if Defects4J can check out correctly.\n")
     else:
         proj_test_pattern_begin = proj_test_pattern
         proj_main_pattern += "..."

@@ -14,8 +14,8 @@ import json
 
 from src.tools.utils import validate_function_name
 
-os.environ['http_proxy'] = 'http://127.0.0.1:7890'
-os.environ['https_proxy'] = 'http://127.0.0.1:7890'
+# os.environ['http_proxy'] = 'http://127.0.0.1:7890'
+# os.environ['https_proxy'] = 'http://127.0.0.1:7890'
 
 
 def rectify_tool_calls(raw_tool_calls):
