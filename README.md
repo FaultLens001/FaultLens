@@ -106,7 +106,7 @@ result_save_path: Provide the path where results should be saved.
 
 ### Evaluate Accuracy
 
-To evaluate the accuracy of FaultLens results, use the following command:
+Run the following command to evaluate the accuracy of FaultLens results based on Top-N metrics (N=1, 3, 5):
 
 ```
 python3 evaluation/evaluate.py -d {result_save_path} -o {evaluation_result_path} -v {location_extraction_validation}
