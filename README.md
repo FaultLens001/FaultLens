@@ -19,6 +19,7 @@ After completing the setup, switch Defects4J to version 1.4.0 by running the fol
 
 ```
 git checkout v1.4.0
+./init.sh
 ```
 
 Then, return to the root directory of this repository and run the following commands to clone the four bugs deprecated in version 2.0 to the local environment:
