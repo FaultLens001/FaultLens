@@ -96,7 +96,7 @@ python3 main.py -n {agent_count} -m {model_type} -t {temperature} -l {upper_limi
 agent_count: Specify the number of agents.
 
 
-m: Specify the model type, such as gpt-4o-mini or gpt-4o-2024-08-06.
+model_type: Specify the model type, such as gpt-4o-mini or gpt-4o-2024-08-06.
 
 
 temperature: Set the temperature for the model.
