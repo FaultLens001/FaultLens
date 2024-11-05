@@ -43,7 +43,7 @@ In addition to the `tree-sitter` dependency listed in `requirements.txt`, you wi
 
 #### Steps to Install `libtree_sitter_java.so`
 
-1. **Clone the Tree-Sitter Java repository** (if not already available):
+1. Clone the Tree-Sitter Java repository (if not already available):
    
 ```
 git clone https://github.com/tree-sitter/tree-sitter-java.git
