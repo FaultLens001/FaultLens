@@ -1,0 +1,2879 @@
+[
+    {
+        "file": "source/org/jfree/data/general/Series.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "Series",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/Series.java",
+        "start_line": 111,
+        "end_line": 120,
+        "name": "Series",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/Series.java",
+        "start_line": 294,
+        "end_line": 296,
+        "name": "addChangeListener",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/Series.java",
+        "start_line": 312,
+        "end_line": 316,
+        "name": "fireSeriesChanged",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/Series.java",
+        "start_line": 324,
+        "end_line": 334,
+        "name": "notifyListeners",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 142,
+        "end_line": 144,
+        "name": "XYSeries",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 168,
+        "end_line": 178,
+        "name": "XYSeries",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 191,
+        "end_line": 193,
+        "name": "getMinX",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 206,
+        "end_line": 208,
+        "name": "getMaxX",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 247,
+        "end_line": 256,
+        "name": "updateBoundsForAddedItem",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 343,
+        "end_line": 345,
+        "name": "getItemCount",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 411,
+        "end_line": 413,
+        "name": "add",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 488,
+        "end_line": 492,
+        "name": "add",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 503,
+        "end_line": 552,
+        "name": "add",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 698,
+        "end_line": 710,
+        "name": "minIgnoreNaN",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeries.java",
+        "start_line": 721,
+        "end_line": 733,
+        "name": "maxIgnoreNaN",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 83,
+        "end_line": 90,
+        "name": "XYDataItem",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 107,
+        "end_line": 109,
+        "name": "getX",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 121,
+        "end_line": 124,
+        "name": "getXValue",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 131,
+        "end_line": 133,
+        "name": "getY",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 145,
+        "end_line": 151,
+        "name": "getYValue",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 212,
+        "end_line": 244,
+        "name": "compareTo",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYDataItem.java",
+        "start_line": 251,
+        "end_line": 260,
+        "name": "clone",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/general/SeriesChangeEvent.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "SeriesChangeEvent",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/SeriesChangeEvent.java",
+        "start_line": 80,
+        "end_line": 83,
+        "name": "SeriesChangeEvent",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 92,
+        "end_line": 95,
+        "name": "AbstractDataset",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 129,
+        "end_line": 131,
+        "name": "addChangeListener",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 167,
+        "end_line": 169,
+        "name": "fireDatasetChanged",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 180,
+        "end_line": 190,
+        "name": "notifyListeners",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractSeriesDataset.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "AbstractSeriesDataset",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/xy/AbstractXYDataset.java",
+        "start_line": 126,
+        "end_line": 129,
+        "name": "setSelectionState",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 113,
+        "end_line": 122,
+        "name": "XYSeriesCollection",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 212,
+        "end_line": 214,
+        "name": "getSeriesCount",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 252,
+        "end_line": 257,
+        "name": "getSeries",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 576,
+        "end_line": 602,
+        "name": "getDomainBounds",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetGroup.java",
+        "start_line": 62,
+        "end_line": 65,
+        "name": "DatasetGroup",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 132,
+        "end_line": 141,
+        "name": "IntervalXYDelegate",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 149,
+        "end_line": 151,
+        "name": "isAutoWidth",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 176,
+        "end_line": 178,
+        "name": "getIntervalPositionFactor",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 239,
+        "end_line": 249,
+        "name": "getIntervalWidth",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 364,
+        "end_line": 375,
+        "name": "getDomainBounds",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 383,
+        "end_line": 392,
+        "name": "datasetChanged",
+        "failing_tests_count": 20
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetChangeEvent.java",
+        "start_line": 70,
+        "end_line": 73,
+        "name": "DatasetChangeEvent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PlotOrientation.java",
+        "start_line": 72,
+        "end_line": 74,
+        "name": "PlotOrientation",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1478,
+        "end_line": 1512,
+        "name": "createScatterPlot",
+        "failing_tests_count": 8
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 303,
+        "end_line": 337,
+        "name": "StandardChartTheme",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 307,
+        "end_line": 341,
+        "name": "Axis",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 1029,
+        "end_line": 1031,
+        "name": "getPlot",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 1042,
+        "end_line": 1045,
+        "name": "setPlot",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 1221,
+        "end_line": 1228,
+        "name": "notifyListeners",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 100,
+        "end_line": 103,
+        "name": "RectangleInsets",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 115,
+        "end_line": 125,
+        "name": "RectangleInsets",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/UnitType.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "UnitType",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 275,
+        "end_line": 328,
+        "name": "ValueAxis",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 950,
+        "end_line": 952,
+        "name": "isAutoRange",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 86,
+        "end_line": 94,
+        "name": "Range",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "getLowerBound",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 110,
+        "end_line": 112,
+        "name": "getUpperBound",
+        "failing_tests_count": 21
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 213,
+        "end_line": 229,
+        "name": "combine",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 200,
+        "end_line": 208,
+        "name": "NumberAxis",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 259,
+        "end_line": 267,
+        "name": "setAutoRangeIncludesZero",
+        "failing_tests_count": 19
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 415,
+        "end_line": 419,
+        "name": "configure",
+        "failing_tests_count": 15
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 424,
+        "end_line": 510,
+        "name": "autoAdjustRange",
+        "failing_tests_count": 19
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 701,
+        "end_line": 780,
+        "name": "createStandardTickUnits",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnit.java",
+        "start_line": 83,
+        "end_line": 85,
+        "name": "TickUnit",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnit.java",
+        "start_line": 95,
+        "end_line": 98,
+        "name": "TickUnit",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnit.java",
+        "start_line": 105,
+        "end_line": 107,
+        "name": "getSize",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnit.java",
+        "start_line": 142,
+        "end_line": 160,
+        "name": "compareTo",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberTickUnit.java",
+        "start_line": 81,
+        "end_line": 87,
+        "name": "NumberTickUnit",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberTickUnit.java",
+        "start_line": 99,
+        "end_line": 106,
+        "name": "NumberTickUnit",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 148,
+        "end_line": 156,
+        "name": "DefaultDrawingSupplier",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 194,
+        "end_line": 205,
+        "name": "DefaultDrawingSupplier",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 287,
+        "end_line": 337,
+        "name": "createStandardSeriesShapes",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 516,
+        "end_line": 518,
+        "name": "intArray",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 531,
+        "end_line": 533,
+        "name": "intArray",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/ChartColor.java",
+        "start_line": 149,
+        "end_line": 187,
+        "name": "createDefaultPaintArray",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PieLabelLinkStyle.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "PieLabelLinkStyle",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/category/GradientBarPainter.java",
+        "start_line": 77,
+        "end_line": 79,
+        "name": "GradientBarPainter",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/category/GradientBarPainter.java",
+        "start_line": 88,
+        "end_line": 92,
+        "name": "GradientBarPainter",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/GradientXYBarPainter.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "GradientXYBarPainter",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/GradientXYBarPainter.java",
+        "start_line": 87,
+        "end_line": 91,
+        "name": "GradientXYBarPainter",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnits.java",
+        "start_line": 79,
+        "end_line": 81,
+        "name": "TickUnits",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/axis/TickUnits.java",
+        "start_line": 89,
+        "end_line": 95,
+        "name": "add",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/RangeType.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "RangeType",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/ChartChangeEvent.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "ChartChangeEvent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/ChartChangeEvent.java",
+        "start_line": 91,
+        "end_line": 96,
+        "name": "ChartChangeEvent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/ChartChangeEvent.java",
+        "start_line": 130,
+        "end_line": 132,
+        "name": "setType",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/AxisChangeEvent.java",
+        "start_line": 60,
+        "end_line": 63,
+        "name": "AxisChangeEvent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/ChartChangeEventType.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "ChartChangeEventType",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 299,
+        "end_line": 320,
+        "name": "Plot",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 448,
+        "end_line": 450,
+        "name": "getParent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 959,
+        "end_line": 971,
+        "name": "notifyListeners",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 616,
+        "end_line": 710,
+        "name": "XYPlot",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 968,
+        "end_line": 975,
+        "name": "configureDomainAxes",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1268,
+        "end_line": 1275,
+        "name": "configureRangeAxes",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1381,
+        "end_line": 1387,
+        "name": "getDataset",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1462,
+        "end_line": 1466,
+        "name": "mapDatasetToDomainAxis",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1478,
+        "end_line": 1487,
+        "name": "mapDatasetToDomainAxes",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1532,
+        "end_line": 1555,
+        "name": "checkAxisIndices",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1575,
+        "end_line": 1577,
+        "name": "getRenderer",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1588,
+        "end_line": 1595,
+        "name": "getRenderer",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1743,
+        "end_line": 1755,
+        "name": "getRendererForDataset",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4322,
+        "end_line": 4342,
+        "name": "getDatasetsMappedToDomainAxis",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4383,
+        "end_line": 4394,
+        "name": "getDomainAxisIndex",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4405,
+        "end_line": 4416,
+        "name": "getRangeAxisIndex",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4425,
+        "end_line": 4519,
+        "name": "getDataRange",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4528,
+        "end_line": 4539,
+        "name": "datasetChanged",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/ResourceBundleWrapper.java",
+        "start_line": 118,
+        "end_line": 130,
+        "name": "getBundle",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DatasetRenderingOrder.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "DatasetRenderingOrder",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/plot/SeriesRenderingOrder.java",
+        "start_line": 78,
+        "end_line": 80,
+        "name": "SeriesRenderingOrder",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "AbstractObjectList",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "AbstractObjectList",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 95,
+        "end_line": 98,
+        "name": "AbstractObjectList",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 108,
+        "end_line": 114,
+        "name": "get",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 122,
+        "end_line": 133,
+        "name": "set",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 148,
+        "end_line": 150,
+        "name": "size",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 160,
+        "end_line": 167,
+        "name": "indexOf",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/ObjectList.java",
+        "start_line": 58,
+        "end_line": 59,
+        "name": "ObjectList",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/ObjectList.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "get",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/ObjectList.java",
+        "start_line": 94,
+        "end_line": 96,
+        "name": "set",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/util/ObjectList.java",
+        "start_line": 106,
+        "end_line": 108,
+        "name": "indexOf",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/event/PlotChangeEvent.java",
+        "start_line": 63,
+        "end_line": 66,
+        "name": "PlotChangeEvent",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 646,
+        "end_line": 648,
+        "name": "findDomainBounds",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 660,
+        "end_line": 678,
+        "name": "findDomainBounds",
+        "failing_tests_count": 22
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 327,
+        "end_line": 346,
+        "name": "createPieChart",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1880,
+        "end_line": 1917,
+        "name": "createTimeSeriesChart",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1100,
+        "end_line": 1112,
+        "name": "getDrawingSupplier",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1133,
+        "end_line": 1155,
+        "name": "apply",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1162,
+        "end_line": 1199,
+        "name": "applyToTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1235,
+        "end_line": 1278,
+        "name": "applyToPlot",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1287,
+        "end_line": 1303,
+        "name": "applyToPiePlot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 180,
+        "end_line": 204,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1008,
+        "end_line": 1010,
+        "name": "setAutoRangeMinimumSize",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1022,
+        "end_line": 1037,
+        "name": "setAutoRangeMinimumSize",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1095,
+        "end_line": 1101,
+        "name": "setLowerMargin",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1128,
+        "end_line": 1134,
+        "name": "setUpperMargin",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1256,
+        "end_line": 1268,
+        "name": "setRange",
+        "failing_tests_count": 8
+    },
+    {
+        "file": "source/org/jfree/chart/plot/DefaultDrawingSupplier.java",
+        "start_line": 543,
+        "end_line": 546,
+        "name": "clone",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/event/ChartChangeEvent.java",
+        "start_line": 112,
+        "end_line": 114,
+        "name": "setChart",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 517,
+        "end_line": 519,
+        "name": "setInsets",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 532,
+        "end_line": 543,
+        "name": "setInsets",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 552,
+        "end_line": 554,
+        "name": "getBackgroundPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 564,
+        "end_line": 582,
+        "name": "setBackgroundPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 617,
+        "end_line": 627,
+        "name": "getDrawingSupplier",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 641,
+        "end_line": 644,
+        "name": "setDrawingSupplier",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 845,
+        "end_line": 861,
+        "name": "setOutlinePaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 939,
+        "end_line": 941,
+        "name": "addChangeListener",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 978,
+        "end_line": 980,
+        "name": "fireChangeEvent",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/data/general/DefaultPieDataset.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "DefaultPieDataset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DefaultPieDataset.java",
+        "start_line": 196,
+        "end_line": 199,
+        "name": "setValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/DefaultKeyedValues.java",
+        "start_line": 97,
+        "end_line": 101,
+        "name": "DefaultKeyedValues",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/DefaultKeyedValues.java",
+        "start_line": 148,
+        "end_line": 157,
+        "name": "getIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/DefaultKeyedValues.java",
+        "start_line": 227,
+        "end_line": 241,
+        "name": "setValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 538,
+        "end_line": 591,
+        "name": "PiePlot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 988,
+        "end_line": 993,
+        "name": "clearSectionPaints",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1031,
+        "end_line": 1033,
+        "name": "getAutoPopulateSectionPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1241,
+        "end_line": 1243,
+        "name": "getAutoPopulateSectionOutlinePaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1424,
+        "end_line": 1426,
+        "name": "getAutoPopulateSectionOutlineStroke",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1603,
+        "end_line": 1606,
+        "name": "setLabelGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1709,
+        "end_line": 1715,
+        "name": "setLabelLinkStyle",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1763,
+        "end_line": 1769,
+        "name": "setLabelLinkPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 1832,
+        "end_line": 1838,
+        "name": "setLabelFont",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PiePlot.java",
+        "start_line": 2101,
+        "end_line": 2104,
+        "name": "setToolTipGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/Rotation.java",
+        "start_line": 81,
+        "end_line": 84,
+        "name": "Rotation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/PaintMap.java",
+        "start_line": 78,
+        "end_line": 80,
+        "name": "PaintMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/PaintMap.java",
+        "start_line": 133,
+        "end_line": 135,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/StrokeMap.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "StrokeMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/AbstractPieItemLabelGenerator.java",
+        "start_line": 82,
+        "end_line": 100,
+        "name": "AbstractPieItemLabelGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieSectionLabelGenerator.java",
+        "start_line": 92,
+        "end_line": 95,
+        "name": "StandardPieSectionLabelGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieSectionLabelGenerator.java",
+        "start_line": 142,
+        "end_line": 146,
+        "name": "StandardPieSectionLabelGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/AbstractPieLabelDistributor.java",
+        "start_line": 60,
+        "end_line": 62,
+        "name": "AbstractPieLabelDistributor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/PieLabelDistributor.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "PieLabelDistributor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieToolTipGenerator.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "StandardPieToolTipGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieToolTipGenerator.java",
+        "start_line": 111,
+        "end_line": 113,
+        "name": "StandardPieToolTipGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieToolTipGenerator.java",
+        "start_line": 123,
+        "end_line": 126,
+        "name": "StandardPieToolTipGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardPieToolTipGenerator.java",
+        "start_line": 138,
+        "end_line": 141,
+        "name": "StandardPieToolTipGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 376,
+        "end_line": 430,
+        "name": "JFreeChart",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 569,
+        "end_line": 571,
+        "name": "getTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 724,
+        "end_line": 726,
+        "name": "getSubtitleCount",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 737,
+        "end_line": 742,
+        "name": "getSubtitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 819,
+        "end_line": 821,
+        "name": "getPlot",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 970,
+        "end_line": 985,
+        "name": "setBackgroundPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 1513,
+        "end_line": 1523,
+        "name": "notifyListeners",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 1571,
+        "end_line": 1574,
+        "name": "titleChanged",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/JFreeChart.java",
+        "start_line": 1582,
+        "end_line": 1585,
+        "name": "plotChanged",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Library.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "Library",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Library.java",
+        "start_line": 127,
+        "end_line": 129,
+        "name": "setInfo",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Library.java",
+        "start_line": 136,
+        "end_line": 138,
+        "name": "setLicenceName",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Library.java",
+        "start_line": 145,
+        "end_line": 147,
+        "name": "setName",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Library.java",
+        "start_line": 154,
+        "end_line": 156,
+        "name": "setVersion",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 145,
+        "end_line": 148,
+        "name": "BasicProjectInfo",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 197,
+        "end_line": 199,
+        "name": "setCopyright",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 206,
+        "end_line": 208,
+        "name": "setInfo",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 215,
+        "end_line": 217,
+        "name": "setLicenceName",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 224,
+        "end_line": 226,
+        "name": "setName",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/BasicProjectInfo.java",
+        "start_line": 233,
+        "end_line": 235,
+        "name": "setVersion",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/ProjectInfo.java",
+        "start_line": 67,
+        "end_line": 69,
+        "name": "ProjectInfo",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/ProjectInfo.java",
+        "start_line": 110,
+        "end_line": 112,
+        "name": "setLogo",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/ProjectInfo.java",
+        "start_line": 128,
+        "end_line": 130,
+        "name": "setLicenceText",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/ProjectInfo.java",
+        "start_line": 146,
+        "end_line": 148,
+        "name": "setContributors",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/resources/JFreeChartResources.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "getContents",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Licences.java",
+        "start_line": 798,
+        "end_line": 803,
+        "name": "getInstance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Licences.java",
+        "start_line": 821,
+        "end_line": 823,
+        "name": "getLGPL",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/ui/Contributor.java",
+        "start_line": 63,
+        "end_line": 66,
+        "name": "Contributor",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 109,
+        "end_line": 117,
+        "name": "AbstractBlock",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 208,
+        "end_line": 213,
+        "name": "setMargin",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 250,
+        "end_line": 255,
+        "name": "setFrame",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 276,
+        "end_line": 281,
+        "name": "setPadding",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/Title.java",
+        "start_line": 138,
+        "end_line": 142,
+        "name": "Title",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/Title.java",
+        "start_line": 177,
+        "end_line": 207,
+        "name": "Title",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/Title.java",
+        "start_line": 253,
+        "end_line": 261,
+        "name": "setPosition",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/Title.java",
+        "start_line": 373,
+        "end_line": 375,
+        "name": "addChangeListener",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/Title.java",
+        "start_line": 393,
+        "end_line": 403,
+        "name": "notifyListeners",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleEdge.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "RectangleEdge",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/util/HorizontalAlignment.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "HorizontalAlignment",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/util/VerticalAlignment.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "VerticalAlignment",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 176,
+        "end_line": 178,
+        "name": "LegendTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 189,
+        "end_line": 203,
+        "name": "LegendTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 233,
+        "end_line": 235,
+        "name": "getBackgroundPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 243,
+        "end_line": 246,
+        "name": "setBackgroundPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 347,
+        "end_line": 353,
+        "name": "setItemFont",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 369,
+        "end_line": 375,
+        "name": "setItemPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/LegendTitle.java",
+        "start_line": 569,
+        "end_line": 571,
+        "name": "getWrapper",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/FlowArrangement.java",
+        "start_line": 79,
+        "end_line": 81,
+        "name": "FlowArrangement",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/FlowArrangement.java",
+        "start_line": 91,
+        "end_line": 97,
+        "name": "FlowArrangement",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/ColumnArrangement.java",
+        "start_line": 78,
+        "end_line": 79,
+        "name": "ColumnArrangement",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockBorder.java",
+        "start_line": 128,
+        "end_line": 137,
+        "name": "BlockBorder",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 93,
+        "end_line": 99,
+        "name": "BlockContainer",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleAnchor.java",
+        "start_line": 106,
+        "end_line": 108,
+        "name": "RectangleAnchor",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/LineBorder.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "LineBorder",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/block/LineBorder.java",
+        "start_line": 96,
+        "end_line": 109,
+        "name": "LineBorder",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/event/TitleChangeEvent.java",
+        "start_line": 63,
+        "end_line": 66,
+        "name": "TitleChangeEvent",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/TextTitle.java",
+        "start_line": 200,
+        "end_line": 204,
+        "name": "TextTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/TextTitle.java",
+        "start_line": 219,
+        "end_line": 248,
+        "name": "TextTitle",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/TextTitle.java",
+        "start_line": 322,
+        "end_line": 330,
+        "name": "setFont",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/chart/title/TextTitle.java",
+        "start_line": 351,
+        "end_line": 359,
+        "name": "setPaint",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 112,
+        "end_line": 114,
+        "name": "Day",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 133,
+        "end_line": 139,
+        "name": "Day",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 149,
+        "end_line": 152,
+        "name": "Day",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 160,
+        "end_line": 175,
+        "name": "Day",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 186,
+        "end_line": 188,
+        "name": "getSerialDate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 253,
+        "end_line": 256,
+        "name": "peg",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 285,
+        "end_line": 298,
+        "name": "next",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 305,
+        "end_line": 307,
+        "name": "getSerialIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 320,
+        "end_line": 329,
+        "name": "getFirstMillisecond",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 342,
+        "end_line": 351,
+        "name": "getLastMillisecond",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/Day.java",
+        "start_line": 402,
+        "end_line": 429,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 210,
+        "end_line": 211,
+        "name": "SerialDate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 497,
+        "end_line": 512,
+        "name": "isLeapYear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 524,
+        "end_line": 531,
+        "name": "leapYearCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 542,
+        "end_line": 555,
+        "name": "lastDayOfMonth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 790,
+        "end_line": 793,
+        "name": "createInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SerialDate.java",
+        "start_line": 803,
+        "end_line": 805,
+        "name": "createInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 107,
+        "end_line": 138,
+        "name": "SpreadsheetDate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 146,
+        "end_line": 201,
+        "name": "SpreadsheetDate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 210,
+        "end_line": 212,
+        "name": "toSerial",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 230,
+        "end_line": 232,
+        "name": "getYYYY",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 239,
+        "end_line": 241,
+        "name": "getMonth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 248,
+        "end_line": 250,
+        "name": "getDayOfMonth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 307,
+        "end_line": 309,
+        "name": "compare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/SpreadsheetDate.java",
+        "start_line": 448,
+        "end_line": 458,
+        "name": "calcSerial",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 167,
+        "end_line": 169,
+        "name": "TimeSeries",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 184,
+        "end_line": 194,
+        "name": "TimeSeries",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 252,
+        "end_line": 254,
+        "name": "getItemCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 427,
+        "end_line": 429,
+        "name": "getRawDataItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 461,
+        "end_line": 463,
+        "name": "getTimePeriod",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 574,
+        "end_line": 641,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 650,
+        "end_line": 653,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 663,
+        "end_line": 667,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 873,
+        "end_line": 891,
+        "name": "removeAgedItems",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 1211,
+        "end_line": 1218,
+        "name": "updateBoundsForAddedItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 1265,
+        "end_line": 1277,
+        "name": "minIgnoreNaN",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeries.java",
+        "start_line": 1288,
+        "end_line": 1300,
+        "name": "maxIgnoreNaN",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesDataItem.java",
+        "start_line": 105,
+        "end_line": 112,
+        "name": "TimeSeriesDataItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesDataItem.java",
+        "start_line": 120,
+        "end_line": 122,
+        "name": "TimeSeriesDataItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesDataItem.java",
+        "start_line": 129,
+        "end_line": 131,
+        "name": "getPeriod",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesDataItem.java",
+        "start_line": 140,
+        "end_line": 142,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesDataItem.java",
+        "start_line": 265,
+        "end_line": 274,
+        "name": "clone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesCollection.java",
+        "start_line": 143,
+        "end_line": 145,
+        "name": "TimeSeriesCollection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesCollection.java",
+        "start_line": 177,
+        "end_line": 191,
+        "name": "TimeSeriesCollection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesCollection.java",
+        "start_line": 318,
+        "end_line": 325,
+        "name": "addSeries",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimeSeriesCollection.java",
+        "start_line": 635,
+        "end_line": 657,
+        "name": "getDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/time/TimePeriodAnchor.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "TimePeriodAnchor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 348,
+        "end_line": 350,
+        "name": "DateAxis",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 365,
+        "end_line": 367,
+        "name": "DateAxis",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 382,
+        "end_line": 392,
+        "name": "DateAxis",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 493,
+        "end_line": 504,
+        "name": "setTickUnit",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 549,
+        "end_line": 560,
+        "name": "setRange",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 717,
+        "end_line": 721,
+        "name": "configure",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 1147,
+        "end_line": 1270,
+        "name": "createStandardDateTickUnits",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateAxis.java",
+        "start_line": 1275,
+        "end_line": 1326,
+        "name": "autoAdjustRange",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/data/time/DateRange.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "DateRange",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/data/time/DateRange.java",
+        "start_line": 81,
+        "end_line": 85,
+        "name": "DateRange",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnit.java",
+        "start_line": 120,
+        "end_line": 123,
+        "name": "DateTickUnit",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnit.java",
+        "start_line": 136,
+        "end_line": 154,
+        "name": "DateTickUnit",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnit.java",
+        "start_line": 301,
+        "end_line": 329,
+        "name": "getMillisecondCount",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnitType.java",
+        "start_line": 97,
+        "end_line": 100,
+        "name": "DateTickUnitType",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnitType.java",
+        "start_line": 116,
+        "end_line": 118,
+        "name": "toString",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickUnitType.java",
+        "start_line": 128,
+        "end_line": 140,
+        "name": "equals",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/axis/DateTickMarkPosition.java",
+        "start_line": 75,
+        "end_line": 77,
+        "name": "DateTickMarkPosition",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 104,
+        "end_line": 106,
+        "name": "XYSeriesCollection",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 146,
+        "end_line": 153,
+        "name": "addSeries",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/data/xy/XYSeriesCollection.java",
+        "start_line": 620,
+        "end_line": 626,
+        "name": "setIntervalWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/xy/IntervalXYDelegate.java",
+        "start_line": 224,
+        "end_line": 230,
+        "name": "setFixedIntervalWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1604,
+        "end_line": 1640,
+        "name": "createXYAreaChart",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1764,
+        "end_line": 1802,
+        "name": "createXYStepChart",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1409,
+        "end_line": 1412,
+        "name": "setStandardTickUnits",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 790,
+        "end_line": 826,
+        "name": "createIntegerTickUnits",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 391,
+        "end_line": 458,
+        "name": "AbstractRenderer",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2884,
+        "end_line": 2896,
+        "name": "fireChangeEvent",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2903,
+        "end_line": 2910,
+        "name": "notifyListeners",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/labels/AbstractXYItemLabelGenerator.java",
+        "start_line": 111,
+        "end_line": 128,
+        "name": "AbstractXYItemLabelGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardXYToolTipGenerator.java",
+        "start_line": 81,
+        "end_line": 84,
+        "name": "StandardXYToolTipGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardXYToolTipGenerator.java",
+        "start_line": 96,
+        "end_line": 101,
+        "name": "StandardXYToolTipGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/urls/StandardXYURLGenerator.java",
+        "start_line": 88,
+        "end_line": 90,
+        "name": "StandardXYURLGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/urls/StandardXYURLGenerator.java",
+        "start_line": 112,
+        "end_line": 129,
+        "name": "StandardXYURLGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 231,
+        "end_line": 241,
+        "name": "AbstractXYItemRenderer",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 500,
+        "end_line": 502,
+        "name": "setBaseToolTipGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 515,
+        "end_line": 521,
+        "name": "setBaseToolTipGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 619,
+        "end_line": 621,
+        "name": "setBaseURLGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 634,
+        "end_line": 639,
+        "name": "setBaseURLGenerator",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "source/org/jfree/chart/util/BooleanList.java",
+        "start_line": 60,
+        "end_line": 61,
+        "name": "BooleanList",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/util/PaintList.java",
+        "start_line": 58,
+        "end_line": 60,
+        "name": "PaintList",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/util/StrokeList.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "StrokeList",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/util/ShapeList.java",
+        "start_line": 58,
+        "end_line": 60,
+        "name": "ShapeList",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/labels/ItemLabelPosition.java",
+        "start_line": 88,
+        "end_line": 91,
+        "name": "ItemLabelPosition",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/labels/ItemLabelPosition.java",
+        "start_line": 106,
+        "end_line": 128,
+        "name": "ItemLabelPosition",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/labels/ItemLabelAnchor.java",
+        "start_line": 167,
+        "end_line": 169,
+        "name": "ItemLabelAnchor",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/text/TextAnchor.java",
+        "start_line": 124,
+        "end_line": 126,
+        "name": "TextAnchor",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/labels/StandardXYSeriesLabelGenerator.java",
+        "start_line": 86,
+        "end_line": 91,
+        "name": "StandardXYSeriesLabelGenerator",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/event/RendererChangeEvent.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "RendererChangeEvent",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/event/RendererChangeEvent.java",
+        "start_line": 80,
+        "end_line": 85,
+        "name": "RendererChangeEvent",
+        "failing_tests_count": 7
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java",
+        "start_line": 174,
+        "end_line": 176,
+        "name": "XYLineAndShapeRenderer",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java",
+        "start_line": 184,
+        "end_line": 201,
+        "name": "XYLineAndShapeRenderer",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java",
+        "start_line": 440,
+        "end_line": 443,
+        "name": "setBaseShapesVisible",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/XYStepRenderer.java",
+        "start_line": 135,
+        "end_line": 141,
+        "name": "XYStepRenderer",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1819,
+        "end_line": 1857,
+        "name": "createXYStepAreaChart",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/XYStepAreaRenderer.java",
+        "start_line": 153,
+        "end_line": 172,
+        "name": "XYStepAreaRenderer",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "source/org/jfree/chart/ChartFactory.java",
+        "start_line": 1717,
+        "end_line": 1747,
+        "name": "createXYLineChart",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1379,
+        "end_line": 1441,
+        "name": "applyToXYPlot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1541,
+        "end_line": 1552,
+        "name": "applyToValueAxis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1587,
+        "end_line": 1594,
+        "name": "applyToAbstractRenderer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/StandardChartTheme.java",
+        "start_line": 1653,
+        "end_line": 1667,
+        "name": "applyToXYItemRenderer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 430,
+        "end_line": 438,
+        "name": "setLabelFont",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 459,
+        "end_line": 465,
+        "name": "setLabelPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 759,
+        "end_line": 770,
+        "name": "setTickLabelFont",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 791,
+        "end_line": 797,
+        "name": "setTickLabelPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 1186,
+        "end_line": 1188,
+        "name": "addChangeListener",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/Axis.java",
+        "start_line": 1235,
+        "end_line": 1237,
+        "name": "fireChangeEvent",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 996,
+        "end_line": 998,
+        "name": "getAutoRangeMinimumSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1048,
+        "end_line": 1050,
+        "name": "getDefaultAutoRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1080,
+        "end_line": 1082,
+        "name": "getLowerMargin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1113,
+        "end_line": 1115,
+        "name": "getUpperMargin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1143,
+        "end_line": 1145,
+        "name": "getFixedAutoRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/ValueAxis.java",
+        "start_line": 1225,
+        "end_line": 1227,
+        "name": "getRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 242,
+        "end_line": 244,
+        "name": "getAutoRangeIncludesZero",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/NumberAxis.java",
+        "start_line": 277,
+        "end_line": 279,
+        "name": "getAutoRangeStickyZero",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 798,
+        "end_line": 803,
+        "name": "clearSeriesPaints",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 855,
+        "end_line": 857,
+        "name": "getAutoPopulateSeriesPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 1296,
+        "end_line": 1301,
+        "name": "clearSeriesStrokes",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 1356,
+        "end_line": 1358,
+        "name": "getAutoPopulateSeriesStroke",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 1913,
+        "end_line": 1918,
+        "name": "setBaseItemLabelFont",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 1930,
+        "end_line": 1935,
+        "name": "setBaseItemLabelFont",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2022,
+        "end_line": 2025,
+        "name": "setBaseItemLabelPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2037,
+        "end_line": 2045,
+        "name": "setBaseItemLabelPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2693,
+        "end_line": 2695,
+        "name": "getDataBoundsIncludesVisibleSeriesOnly",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2843,
+        "end_line": 2848,
+        "name": "addChangeListener",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/AbstractRenderer.java",
+        "start_line": 2858,
+        "end_line": 2863,
+        "name": "removeChangeListener",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/Plot.java",
+        "start_line": 1200,
+        "end_line": 1202,
+        "name": "axisChanged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 740,
+        "end_line": 748,
+        "name": "setOrientation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 769,
+        "end_line": 775,
+        "name": "setAxisOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 800,
+        "end_line": 813,
+        "name": "getDomainAxis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 944,
+        "end_line": 946,
+        "name": "getDomainAxisCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1164,
+        "end_line": 1177,
+        "name": "getRangeAxis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1242,
+        "end_line": 1244,
+        "name": "getRangeAxisCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1430,
+        "end_line": 1432,
+        "name": "getDatasetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1498,
+        "end_line": 1502,
+        "name": "mapDatasetToRangeAxis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1514,
+        "end_line": 1523,
+        "name": "mapDatasetToRangeAxes",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1564,
+        "end_line": 1566,
+        "name": "getRendererCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1606,
+        "end_line": 1608,
+        "name": "setRenderer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1619,
+        "end_line": 1621,
+        "name": "setRenderer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1633,
+        "end_line": 1649,
+        "name": "setRenderer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1730,
+        "end_line": 1732,
+        "name": "getIndexOf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 1936,
+        "end_line": 1942,
+        "name": "setDomainGridlinePaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 2057,
+        "end_line": 2063,
+        "name": "setRangeGridlinePaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 2248,
+        "end_line": 2254,
+        "name": "setDomainZeroBaselinePaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 2329,
+        "end_line": 2335,
+        "name": "setRangeZeroBaselinePaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 3013,
+        "end_line": 3015,
+        "name": "getAnnotations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 3808,
+        "end_line": 3826,
+        "name": "getDomainAxisForDataset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4352,
+        "end_line": 4372,
+        "name": "getDatasetsMappedToRangeAxis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4546,
+        "end_line": 4554,
+        "name": "rendererChanged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4702,
+        "end_line": 4708,
+        "name": "setDomainCrosshairPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 4859,
+        "end_line": 4865,
+        "name": "setRangeCrosshairPaint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/plot/XYPlot.java",
+        "start_line": 5309,
+        "end_line": 5510,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/AbstractObjectList.java",
+        "start_line": 138,
+        "end_line": 141,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 695,
+        "end_line": 710,
+        "name": "findDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 737,
+        "end_line": 782,
+        "name": "iterateDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 906,
+        "end_line": 922,
+        "name": "findRangeBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 1292,
+        "end_line": 1349,
+        "name": "iterateToFindDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetUtilities.java",
+        "start_line": 1368,
+        "end_line": 1480,
+        "name": "iterateToFindRangeBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 259,
+        "end_line": 261,
+        "name": "getPlot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 268,
+        "end_line": 270,
+        "name": "setPlot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 715,
+        "end_line": 719,
+        "name": "getAnnotations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 808,
+        "end_line": 810,
+        "name": "findDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 824,
+        "end_line": 843,
+        "name": "findDomainBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 856,
+        "end_line": 858,
+        "name": "findRangeBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java",
+        "start_line": 872,
+        "end_line": 909,
+        "name": "findRangeBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/event/RendererChangeEvent.java",
+        "start_line": 104,
+        "end_line": 106,
+        "name": "getSeriesVisibilityChanged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/xy/DefaultXYDataset.java",
+        "start_line": 81,
+        "end_line": 84,
+        "name": "DefaultXYDataset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/xy/DefaultXYDataset.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getSeriesCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/axis/AxisLocation.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "AxisLocation",
+        "failing_tests_count": 1
+    }
+]

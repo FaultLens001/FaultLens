@@ -1,0 +1,387 @@
+[
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#NoJUnitDependenciesTest():12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#pure_mockito_should_not_depend_JUnit():29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#checkDependency(java.lang.ClassLoader,java.lang.String):34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#checkDependency(java.lang.ClassLoader,java.lang.String):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#checkDependency(java.lang.ClassLoader,java.lang.String):35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#checkDependency(java.lang.ClassLoader,java.lang.String):36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockitointegration.NoJUnitDependenciesTest",
+        "rest": "#checkDependency(java.lang.ClassLoader,java.lang.String):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#ClassLoaders():21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#ClassLoaders():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#excludingClassLoader():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#in(java.lang.ClassLoader):36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#jdkClassLoader():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#currentClassLoader():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#obtainClassPathOf(java.lang.String):259",
+        "line_number": "259"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#obtainClassPathOf(java.lang.String):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "#obtainClassPathOf(java.lang.String):263",
+        "line_number": "263"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#ClassLoaders$ExcludingURLClassLoaderBuilder():110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#ClassLoaders$ExcludingURLClassLoaderBuilder():111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#ClassLoaders$ExcludingURLClassLoaderBuilder():112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#without(java.lang.String[]):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#without(java.lang.String[]):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#withCodeSourceUrlOf(java.lang.Class[]):125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#withCodeSourceUrlOf(java.lang.Class[]):126",
+        "line_number": "126"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#withCodeSourceUrlOf(java.lang.Class[]):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#build():137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#build():138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ExcludingURLClassLoaderBuilder#build():139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#ClassLoaders$LocalExcludingURLClassLoader(java.lang.ClassLoader,java.net.URL[],java.util.ArrayList):149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#ClassLoaders$LocalExcludingURLClassLoader(java.lang.ClassLoader,java.net.URL[],java.util.ArrayList):150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#ClassLoaders$LocalExcludingURLClassLoader(java.lang.ClassLoader,java.net.URL[],java.util.ArrayList):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#findClass(java.lang.String):155",
+        "line_number": "155"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#findClass(java.lang.String):156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#classShouldBePrivate(java.lang.String):160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#classShouldBePrivate(java.lang.String):161",
+        "line_number": "161"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#classShouldBePrivate(java.lang.String):162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$LocalExcludingURLClassLoader#classShouldBePrivate(java.lang.String):163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#ClassLoaders$ReachableClassesFinder(java.lang.ClassLoader):294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#ClassLoaders$ReachableClassesFinder(java.lang.ClassLoader):292",
+        "line_number": "292"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#ClassLoaders$ReachableClassesFinder(java.lang.ClassLoader):295",
+        "line_number": "295"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#ClassLoaders$ReachableClassesFinder(java.lang.ClassLoader):296",
+        "line_number": "296"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#omit(java.lang.String[]):299",
+        "line_number": "299"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#omit(java.lang.String[]):300",
+        "line_number": "300"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():304",
+        "line_number": "304"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():306",
+        "line_number": "306"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():307",
+        "line_number": "307"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():308",
+        "line_number": "308"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():310",
+        "line_number": "310"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():311",
+        "line_number": "311"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():317",
+        "line_number": "317"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#listOwnedClasses():318",
+        "line_number": "318"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#addFromFileBasedClassLoader(java.util.Set,java.net.URI):322",
+        "line_number": "322"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#addFromFileBasedClassLoader(java.util.Set,java.net.URI):323",
+        "line_number": "323"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#addFromFileBasedClassLoader(java.util.Set,java.net.URI):324",
+        "line_number": "324"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):335",
+        "line_number": "335"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):337",
+        "line_number": "337"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):338",
+        "line_number": "338"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):339",
+        "line_number": "339"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):341",
+        "line_number": "341"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):344",
+        "line_number": "344"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):345",
+        "line_number": "345"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):346",
+        "line_number": "346"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#findClassQualifiedNames(java.io.File,java.io.File,java.util.Set):350",
+        "line_number": "350"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#excludes(java.lang.String,java.util.Set):354",
+        "line_number": "354"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#excludes(java.lang.String,java.util.Set):355",
+        "line_number": "355"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#excludes(java.lang.String,java.util.Set):356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#excludes(java.lang.String,java.util.Set):357",
+        "line_number": "357"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#classNameFor(java.io.File,java.io.File):361",
+        "line_number": "361"
+    },
+    {
+        "class_name": "org.mockitoutil.ClassLoaders",
+        "rest": "$ReachableClassesFinder#classNameFor(java.io.File,java.io.File):362",
+        "line_number": "362"
+    }
+]

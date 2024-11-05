@@ -1,0 +1,2752 @@
+[
+    {
+        "class_name": "org.mockito.Matchers",
+        "rest": "#<clinit>():107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#ThreadSafeMockingProgress():16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#<clinit>():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#threadSafely():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#threadSafely():23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#threadSafely():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#reportOngoingStubbing(org.mockito.internal.progress.IOngoingStubbing):29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#reportOngoingStubbing(org.mockito.internal.progress.IOngoingStubbing):30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#pullVerificationMode():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#validateState():49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#validateState():50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#stubbingCompleted(org.mockito.invocation.Invocation):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#stubbingCompleted(org.mockito.invocation.Invocation):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#getArgumentMatcherStorage():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#mockingStarted(java.lang.Object,java.lang.Class):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#mockingStarted(java.lang.Object,java.lang.Class):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():932",
+        "line_number": "932"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():943",
+        "line_number": "943"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():975",
+        "line_number": "975"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():988",
+        "line_number": "988"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1075",
+        "line_number": "1075"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1109",
+        "line_number": "1109"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#mock(java.lang.Class,org.mockito.stubbing.Answer):1216",
+        "line_number": "1216"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):1243",
+        "line_number": "1243"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#withSettings():2161",
+        "line_number": "2161"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#mock(java.lang.Class,org.mockito.MockSettings):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.exceptions.Reporter",
+        "rest": "#Reporter():44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#MockUtil():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#<clinit>():21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings):28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings):29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#getMockHandler(java.lang.Object):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#getMockHandler(java.lang.Object):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#getMockHandler(java.lang.Object):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#isMockitoMock(java.lang.Object):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#ClassPathLoader():58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#<clinit>():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#<clinit>():60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#<clinit>():61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadConfiguration():72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadConfiguration():76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadConfiguration():79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#getMockMaker():94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#getStackTraceCleanerProvider():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#findPlatformMockMaker():107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#findPluginImplementation(java.lang.Class,java.lang.Object):111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#findPluginImplementation(java.lang.Class,java.lang.Object):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):132",
+        "line_number": "132"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.ClassPathLoader",
+        "rest": "#loadImplementations(java.lang.Class):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#CglibMockMaker():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings,org.mockito.invocation.MockHandler):22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings,org.mockito.invocation.MockHandler):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#createMock(org.mockito.mock.MockCreationSettings,org.mockito.invocation.MockHandler):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#cast(org.mockito.invocation.MockHandler):28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#cast(org.mockito.invocation.MockHandler):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#getHandler(java.lang.Object):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#getHandler(java.lang.Object):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#getHandler(java.lang.Object):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#getHandler(java.lang.Object):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.CglibMockMaker",
+        "rest": "#getHandler(java.lang.Object):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider",
+        "rest": "#DefaultStackTraceCleanerProvider():9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider",
+        "rest": "#getStackTraceCleaner(org.mockito.exceptions.stacktrace.StackTraceCleaner):12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#get():81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.GloballyConfiguredAnswer",
+        "rest": "#GloballyConfiguredAnswer():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls",
+        "rest": "#ReturnsSmartNulls():36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls",
+        "rest": "#ReturnsSmartNulls():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues",
+        "rest": "#ReturnsMoreEmptyValues():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues",
+        "rest": "#ReturnsMoreEmptyValues():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues",
+        "rest": "#ReturnsEmptyValues():42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues",
+        "rest": "#ReturnsEmptyValues():45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.util.ObjectMethodsGuru",
+        "rest": "#ObjectMethodsGuru():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.util.ObjectMethodsGuru",
+        "rest": "#isEqualsMethod(java.lang.reflect.Method):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.util.ObjectMethodsGuru",
+        "rest": "#isHashCodeMethod(java.lang.reflect.Method):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#ReturnsDeepStubs():38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#ReturnsDeepStubs():42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#answer(org.mockito.invocation.InvocationOnMock):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#answer(org.mockito.invocation.InvocationOnMock):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#answer(org.mockito.invocation.InvocationOnMock):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#answer(org.mockito.invocation.InvocationOnMock):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#answer(org.mockito.invocation.InvocationOnMock):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#getMock(org.mockito.invocation.InvocationOnMock):57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#getMock(org.mockito.invocation.InvocationOnMock):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#getMock(org.mockito.invocation.InvocationOnMock):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#getMock(org.mockito.invocation.InvocationOnMock):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#recordDeepStubMock(org.mockito.invocation.InvocationOnMock,org.mockito.internal.stubbing.InvocationContainerImpl):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#recordDeepStubMock(org.mockito.invocation.InvocationOnMock,org.mockito.internal.stubbing.InvocationContainerImpl):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#recordDeepStubMock(org.mockito.invocation.InvocationOnMock,org.mockito.internal.stubbing.InvocationContainerImpl):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#recordDeepStubMock(org.mockito.invocation.InvocationOnMock,org.mockito.internal.stubbing.InvocationContainerImpl):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#actualParameterizedType(java.lang.Object):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#actualParameterizedType(java.lang.Object):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.CallsRealMethods",
+        "rest": "#CallsRealMethods():32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#CreationSettings(org.mockito.internal.creation.settings.CreationSettings):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getTypeToMock():50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setTypeToMock(java.lang.Class):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setTypeToMock(java.lang.Class):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getExtraInterfaces():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setExtraInterfaces(java.util.Set):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setExtraInterfaces(java.util.Set):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getName():68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getSpiedInstance():72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getDefaultAnswer():76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setMockName(org.mockito.mock.MockName):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#setMockName(org.mockito.mock.MockName):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#isSerializable():89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#getInvocationListeners():93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.settings.CreationSettings",
+        "rest": "#isStubOnly():97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#MockSettingsImpl():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#getExtraInterfaces():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#getSpiedInstance():61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#defaultAnswer(org.mockito.stubbing.Answer):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#defaultAnswer(org.mockito.stubbing.Answer):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#defaultAnswer(org.mockito.stubbing.Answer):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#isSerializable():87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#confirm(java.lang.Class):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):148",
+        "line_number": "148"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):157",
+        "line_number": "157"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):158",
+        "line_number": "158"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#validatedSettings(java.lang.Class,org.mockito.internal.creation.settings.CreationSettings):160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#prepareExtraInterfaces(org.mockito.internal.creation.settings.CreationSettings):164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#prepareExtraInterfaces(org.mockito.internal.creation.settings.CreationSettings):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#prepareExtraInterfaces(org.mockito.internal.creation.settings.CreationSettings):168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MockSettingsImpl",
+        "rest": "#prepareExtraInterfaces(org.mockito.internal.creation.settings.CreationSettings):171",
+        "line_number": "171"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#MockCreationValidator():14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#isTypeMockable(java.lang.Class):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateType(java.lang.Class):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateType(java.lang.Class):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateExtraInterfaces(java.lang.Class,java.util.Collection):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateExtraInterfaces(java.lang.Class,java.util.Collection):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateExtraInterfaces(java.lang.Class,java.util.Collection):36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateMockedType(java.lang.Class,java.lang.Object):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateMockedType(java.lang.Class,java.lang.Object):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateSerializable(java.lang.Class,boolean):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockCreationValidator",
+        "rest": "#validateSerializable(java.lang.Class,boolean):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#ClassImposterizer():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#ClassImposterizer():36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#<clinit>():29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#<clinit>():38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#<clinit>():45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#canImposterise(java.lang.Class):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#imposterise(org.mockito.cglib.proxy.MethodInterceptor,java.lang.Class,java.util.Collection):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#imposterise(org.mockito.cglib.proxy.MethodInterceptor,java.lang.Class,java.lang.Class[]):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#imposterise(org.mockito.cglib.proxy.MethodInterceptor,java.lang.Class,java.lang.Class[]):62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#imposterise(org.mockito.cglib.proxy.MethodInterceptor,java.lang.Class,java.lang.Class[]):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#imposterise(org.mockito.cglib.proxy.MethodInterceptor,java.lang.Class,java.lang.Class[]):70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#setConstructorsAccessible(java.lang.Class,boolean):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#setConstructorsAccessible(java.lang.Class,boolean):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxyClass(java.lang.Class,java.lang.Class[]):110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxy(java.lang.Class,org.mockito.cglib.proxy.MethodInterceptor):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxy(java.lang.Class,org.mockito.cglib.proxy.MethodInterceptor):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#createProxy(java.lang.Class,org.mockito.cglib.proxy.MethodInterceptor):130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#prepend(java.lang.Class,java.lang.Class[]):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#prepend(java.lang.Class,java.lang.Class[]):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#prepend(java.lang.Class,java.lang.Class[]):136",
+        "line_number": "136"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "#prepend(java.lang.Class,java.lang.Class[]):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#GlobalConfiguration():29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#GlobalConfiguration():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#GlobalConfiguration():32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#GlobalConfiguration():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#<clinit>():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#createConfig():37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#createConfig():38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#createConfig():39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#createConfig():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#validate():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#validate():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.GlobalConfiguration",
+        "rest": "#enableClassCache():63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.configuration.DefaultMockitoConfiguration",
+        "rest": "#DefaultMockitoConfiguration():20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.MockitoNamingPolicy",
+        "rest": "#MockitoNamingPolicy():9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.MockitoNamingPolicy",
+        "rest": "#<clinit>():11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.MockitoNamingPolicy",
+        "rest": "#getTag():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "$2#accept(java.lang.reflect.Method):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#MockNameImpl(java.lang.String,java.lang.Class):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#MockNameImpl(java.lang.String,java.lang.Class):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#MockNameImpl(java.lang.String,java.lang.Class):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#MockNameImpl(java.lang.String,java.lang.Class):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#MockNameImpl(java.lang.String,java.lang.Class):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#toInstanceName(java.lang.Class):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#toInstanceName(java.lang.Class):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockNameImpl",
+        "rest": "#toInstanceName(java.lang.Class):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerFactory",
+        "rest": "#MockHandlerFactory():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerFactory",
+        "rest": "#create(org.mockito.mock.MockCreationSettings):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerFactory",
+        "rest": "#create(org.mockito.mock.MockCreationSettings):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerFactory",
+        "rest": "#create(org.mockito.mock.MockCreationSettings):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerFactory",
+        "rest": "#create(org.mockito.mock.MockCreationSettings):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#MockHandlerImpl(org.mockito.mock.MockCreationSettings):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#handle(org.mockito.invocation.Invocation):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#getMockSettings():110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.MockHandlerImpl",
+        "rest": "#getInvocationContainer():119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#MatchersBinder():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#bindMatchers(org.mockito.internal.progress.ArgumentMatcherStorage,org.mockito.invocation.Invocation):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#bindMatchers(org.mockito.internal.progress.ArgumentMatcherStorage,org.mockito.invocation.Invocation):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#bindMatchers(org.mockito.internal.progress.ArgumentMatcherStorage,org.mockito.invocation.Invocation):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#bindMatchers(org.mockito.internal.progress.ArgumentMatcherStorage,org.mockito.invocation.Invocation):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#validateMatchers(org.mockito.invocation.Invocation,java.util.List):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.MatchersBinder",
+        "rest": "#validateMatchers(org.mockito.invocation.Invocation,java.util.List):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#InvocationContainerImpl(org.mockito.internal.progress.MockingProgress,org.mockito.mock.MockCreationSettings):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#<clinit>():23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#setInvocationForPotentialStubbing(org.mockito.internal.invocation.InvocationMatcher):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#setInvocationForPotentialStubbing(org.mockito.internal.invocation.InvocationMatcher):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#setInvocationForPotentialStubbing(org.mockito.internal.invocation.InvocationMatcher):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#resetInvocationForPotentialStubbing(org.mockito.internal.invocation.InvocationMatcher):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#resetInvocationForPotentialStubbing(org.mockito.internal.invocation.InvocationMatcher):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#addAnswer(org.mockito.stubbing.Answer,boolean):70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#findAnswerFor(org.mockito.invocation.Invocation):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#findAnswerFor(org.mockito.invocation.Invocation):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#findAnswerFor(org.mockito.invocation.Invocation):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#findAnswerFor(org.mockito.invocation.Invocation):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#hasAnswersForStubbing():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#getStubbedInvocations():125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.InvocationContainerImpl",
+        "rest": "#createRegisteredInvocations(org.mockito.mock.MockCreationSettings):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#DefaultRegisteredInvocations():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#DefaultRegisteredInvocations():21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#add(org.mockito.invocation.Invocation):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#add(org.mockito.invocation.Invocation):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#add(org.mockito.invocation.Invocation):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.DefaultRegisteredInvocations",
+        "rest": "#add(org.mockito.invocation.Invocation):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#NullResultGuardian(org.mockito.internal.InternalMockHandler):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#NullResultGuardian(org.mockito.internal.InternalMockHandler):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#NullResultGuardian(org.mockito.internal.InternalMockHandler):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#handle(org.mockito.invocation.Invocation):29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#handle(org.mockito.invocation.Invocation):30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#handle(org.mockito.invocation.Invocation):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#handle(org.mockito.invocation.Invocation):35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#getMockSettings():42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.NullResultGuardian",
+        "rest": "#getInvocationContainer():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#InvocationNotifierHandler(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#InvocationNotifierHandler(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#InvocationNotifierHandler(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#InvocationNotifierHandler(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#handle(org.mockito.invocation.Invocation):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#handle(org.mockito.invocation.Invocation):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#handle(org.mockito.invocation.Invocation):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#notifyMethodCall(org.mockito.invocation.Invocation,java.lang.Object):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#notifyMethodCall(org.mockito.invocation.Invocation,java.lang.Object):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#getMockSettings():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.mockito.internal.handler.InvocationNotifierHandler",
+        "rest": "#getInvocationContainer():81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#MethodInterceptorFilter(org.mockito.internal.InternalMockHandler,org.mockito.mock.MockCreationSettings):34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#intercept(java.lang.Object,java.lang.reflect.Method,java.lang.Object[],org.mockito.cglib.proxy.MethodProxy):51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#getHandler():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#createMockitoMethodProxy(org.mockito.cglib.proxy.MethodProxy):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#createMockitoMethodProxy(org.mockito.cglib.proxy.MethodProxy):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#createMockitoMethod(java.lang.reflect.Method):69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.MethodInterceptorFilter",
+        "rest": "#createMockitoMethod(java.lang.reflect.Method):72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#CGLIBHacker():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#setMockitoNamingPolicy(org.mockito.internal.creation.MockitoMethodProxy):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#reflectOnCreateInfo(org.mockito.cglib.proxy.MethodProxy):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#reflectOnCreateInfo(org.mockito.cglib.proxy.MethodProxy):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CGLIBHacker",
+        "rest": "#reflectOnCreateInfo(org.mockito.cglib.proxy.MethodProxy):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.ClassImposterizer",
+        "rest": "$3#filterConstructors(java.lang.Class,java.util.List):90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class[]):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combineLoadersOf(java.lang.Class,java.lang.Class[]):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combine(java.util.List):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combine(java.util.List):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#combine(java.util.List):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#addIfNewElement(java.util.List,java.lang.ClassLoader):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#addIfNewElement(java.util.List,java.lang.ClassLoader):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SearchingClassLoader",
+        "rest": "#addIfNewElement(java.util.List,java.lang.ClassLoader):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SerializableNoOp",
+        "rest": "#SerializableNoOp():12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.jmock.SerializableNoOp",
+        "rest": "#<clinit>():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#MockingProgressImpl():20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#MockingProgressImpl():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#MockingProgressImpl():23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#MockingProgressImpl():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#reportOngoingStubbing(org.mockito.internal.progress.IOngoingStubbing):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#reportOngoingStubbing(org.mockito.internal.progress.IOngoingStubbing):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#pullVerificationMode():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#pullVerificationMode():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateState():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateState():72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateState():77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateMostStuff():82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateMostStuff():84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateMostStuff():90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#validateMostStuff():91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#stubbingCompleted(org.mockito.invocation.Invocation):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#stubbingCompleted(org.mockito.invocation.Invocation):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#getArgumentMatcherStorage():110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#mockingStarted(java.lang.Object,java.lang.Class):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#mockingStarted(java.lang.Object,java.lang.Class):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.MockingProgressImpl",
+        "rest": "#mockingStarted(java.lang.Object,java.lang.Class):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#ArgumentMatcherStorageImpl():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#ArgumentMatcherStorageImpl():26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#pullLocalizedMatchers():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#pullLocalizedMatchers():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#validateState():112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ArgumentMatcherStorageImpl",
+        "rest": "#validateState():117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.AbstractMockitoMethodProxy",
+        "rest": "#AbstractMockitoMethodProxy():7",
+        "line_number": "7"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMockitoMethodProxy",
+        "rest": "#DelegatingMockitoMethodProxy(org.mockito.cglib.proxy.MethodProxy):13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMockitoMethodProxy",
+        "rest": "#DelegatingMockitoMethodProxy(org.mockito.cglib.proxy.MethodProxy):14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMockitoMethodProxy",
+        "rest": "#DelegatingMockitoMethodProxy(org.mockito.cglib.proxy.MethodProxy):15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMockitoMethodProxy",
+        "rest": "#getMethodProxy():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#DelegatingMethod(java.lang.reflect.Method):15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#DelegatingMethod(java.lang.reflect.Method):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#DelegatingMethod(java.lang.reflect.Method):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#DelegatingMethod(java.lang.reflect.Method):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#<clinit>():11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#getJavaMethod():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.DelegatingMethod",
+        "rest": "#isVarArgs():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod",
+        "rest": "#FilteredCGLIBProxyRealMethod(org.mockito.internal.creation.MockitoMethodProxy):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod",
+        "rest": "#FilteredCGLIBProxyRealMethod(org.mockito.internal.creation.MockitoMethodProxy):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod",
+        "rest": "#FilteredCGLIBProxyRealMethod(org.mockito.internal.invocation.realmethod.RealMethod):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod",
+        "rest": "#FilteredCGLIBProxyRealMethod(org.mockito.internal.invocation.realmethod.RealMethod):22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.FilteredCGLIBProxyRealMethod",
+        "rest": "#FilteredCGLIBProxyRealMethod(org.mockito.internal.invocation.realmethod.RealMethod):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.CGLIBProxyRealMethod",
+        "rest": "#CGLIBProxyRealMethod(org.mockito.internal.creation.MockitoMethodProxy):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.CGLIBProxyRealMethod",
+        "rest": "#CGLIBProxyRealMethod(org.mockito.internal.creation.MockitoMethodProxy):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.realmethod.CGLIBProxyRealMethod",
+        "rest": "#CGLIBProxyRealMethod(org.mockito.internal.creation.MockitoMethodProxy):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#InvocationImpl(java.lang.Object,org.mockito.internal.invocation.MockitoMethod,java.lang.Object[],int,org.mockito.internal.invocation.realmethod.RealMethod):51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#getMock():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#getMethod():58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationImpl",
+        "rest": "#getArguments():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.SequenceNumber",
+        "rest": "#<clinit>():9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.SequenceNumber",
+        "rest": "#next():12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.ArgumentsProcessor",
+        "rest": "#expandVarArgs(boolean,java.lang.Object[]):22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.ArgumentsProcessor",
+        "rest": "#expandVarArgs(boolean,java.lang.Object[]):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.ArgumentsProcessor",
+        "rest": "#argumentsToMatchers(java.lang.Object[]):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.ArgumentsProcessor",
+        "rest": "#argumentsToMatchers(java.lang.Object[]):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.ArgumentsProcessor",
+        "rest": "#argumentsToMatchers(java.lang.Object[]):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl():20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl(org.mockito.internal.exceptions.stacktrace.StackTraceFilter):22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl(org.mockito.internal.exceptions.stacktrace.StackTraceFilter):23",
+        "line_number": "23"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl(org.mockito.internal.exceptions.stacktrace.StackTraceFilter):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.debugging.LocationImpl",
+        "rest": "#LocationImpl(org.mockito.internal.exceptions.stacktrace.StackTraceFilter):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.StackTraceFilter",
+        "rest": "#StackTraceFilter():17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.StackTraceFilter",
+        "rest": "#<clinit>():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.StackTraceFilter",
+        "rest": "#<clinit>():21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleaner",
+        "rest": "#DefaultStackTraceCleaner():8",
+        "line_number": "8"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#InvocationMatcher(org.mockito.invocation.Invocation,java.util.List):30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#InvocationMatcher(org.mockito.invocation.Invocation,java.util.List):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#InvocationMatcher(org.mockito.invocation.Invocation,java.util.List):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#InvocationMatcher(org.mockito.invocation.Invocation,java.util.List):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#InvocationMatcher(org.mockito.invocation.Invocation,java.util.List):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#getInvocation():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.invocation.InvocationMatcher",
+        "rest": "#getMatchers():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.BaseStubbing",
+        "rest": "#BaseStubbing():14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.OngoingStubbingImpl",
+        "rest": "#OngoingStubbingImpl(org.mockito.internal.stubbing.InvocationContainerImpl):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.OngoingStubbingImpl",
+        "rest": "#OngoingStubbingImpl(org.mockito.internal.stubbing.InvocationContainerImpl):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.OngoingStubbingImpl",
+        "rest": "#OngoingStubbingImpl(org.mockito.internal.stubbing.InvocationContainerImpl):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#GenericMetadataSupport():64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#GenericMetadataSupport():71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeVariablesOn(java.lang.reflect.Type):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeParametersOn(java.lang.reflect.TypeVariable[]):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeParametersOn(java.lang.reflect.TypeVariable[]):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#registerTypeParametersOn(java.lang.reflect.TypeVariable[]):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#boundsOf(java.lang.reflect.TypeVariable):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#boundsOf(java.lang.reflect.TypeVariable):110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#getActualTypeArgumentFor(java.lang.reflect.TypeVariable):177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#getActualTypeArgumentFor(java.lang.reflect.TypeVariable):178",
+        "line_number": "178"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#getActualTypeArgumentFor(java.lang.reflect.TypeVariable):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#resolveGenericReturnType(java.lang.reflect.Method):195",
+        "line_number": "195"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#resolveGenericReturnType(java.lang.reflect.Method):198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#resolveGenericReturnType(java.lang.reflect.Method):201",
+        "line_number": "201"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#resolveGenericReturnType(java.lang.reflect.Method):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#resolveGenericReturnType(java.lang.reflect.Method):205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#inferFrom(java.lang.reflect.Type):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#inferFrom(java.lang.reflect.Type):225",
+        "line_number": "225"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "#inferFrom(java.lang.reflect.Type):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Checks",
+        "rest": "#checkNotNull(java.lang.Object,java.lang.String):14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Checks",
+        "rest": "#checkNotNull(java.lang.Object,java.lang.String):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#GenericMetadataSupport$FromClassGenericMetadataSupport(java.lang.Class):249",
+        "line_number": "249"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#GenericMetadataSupport$FromClassGenericMetadataSupport(java.lang.Class):250",
+        "line_number": "250"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#GenericMetadataSupport$FromClassGenericMetadataSupport(java.lang.Class):251",
+        "line_number": "251"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#GenericMetadataSupport$FromClassGenericMetadataSupport(java.lang.Class):252",
+        "line_number": "252"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#readActualTypeParametersOnDeclaringClass():255",
+        "line_number": "255"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#readActualTypeParametersOnDeclaringClass():256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#readActualTypeParametersOnDeclaringClass():257",
+        "line_number": "257"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#readActualTypeParametersOnDeclaringClass():258",
+        "line_number": "258"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$FromClassGenericMetadataSupport#readActualTypeParametersOnDeclaringClass():260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVarBoundedType#GenericMetadataSupport$TypeVarBoundedType(java.lang.reflect.TypeVariable):499",
+        "line_number": "499"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVarBoundedType#GenericMetadataSupport$TypeVarBoundedType(java.lang.reflect.TypeVariable):500",
+        "line_number": "500"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVarBoundedType#GenericMetadataSupport$TypeVarBoundedType(java.lang.reflect.TypeVariable):501",
+        "line_number": "501"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVarBoundedType#firstBound():507",
+        "line_number": "507"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):342",
+        "line_number": "342"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):344",
+        "line_number": "344"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):345",
+        "line_number": "345"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):347",
+        "line_number": "347"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):348",
+        "line_number": "348"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#GenericMetadataSupport$TypeVariableReturnType(org.mockito.internal.util.reflection.GenericMetadataSupport,java.lang.reflect.TypeVariable[],java.lang.reflect.TypeVariable):349",
+        "line_number": "349"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeParameters():352",
+        "line_number": "352"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeParameters():353",
+        "line_number": "353"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeVariables():356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeVariables():357",
+        "line_number": "357"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeVariables():359",
+        "line_number": "359"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#readTypeVariables():360",
+        "line_number": "360"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#rawType():364",
+        "line_number": "364"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#rawType():365",
+        "line_number": "365"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#rawType():367",
+        "line_number": "367"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):371",
+        "line_number": "371"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):374",
+        "line_number": "374"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):375",
+        "line_number": "375"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):377",
+        "line_number": "377"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):378",
+        "line_number": "378"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):380",
+        "line_number": "380"
+    },
+    {
+        "class_name": "org.mockito.internal.util.reflection.GenericMetadataSupport",
+        "rest": "$TypeVariableReturnType#extractRawTypeOf(java.lang.reflect.Type):385",
+        "line_number": "385"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#AnswersValidator():11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#AnswersValidator():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):29",
+        "line_number": "29"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.AnswersValidator",
+        "rest": "#validate(org.mockito.stubbing.Answer,org.mockito.invocation.Invocation):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.MethodInfo",
+        "rest": "#MethodInfo(org.mockito.invocation.Invocation):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.MethodInfo",
+        "rest": "#MethodInfo(org.mockito.invocation.Invocation):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.MethodInfo",
+        "rest": "#MethodInfo(org.mockito.invocation.Invocation):21",
+        "line_number": "21"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.StubbedInvocationMatcher",
+        "rest": "#StubbedInvocationMatcher(org.mockito.internal.invocation.InvocationMatcher,org.mockito.stubbing.Answer):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.StubbedInvocationMatcher",
+        "rest": "#StubbedInvocationMatcher(org.mockito.internal.invocation.InvocationMatcher,org.mockito.stubbing.Answer):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.StubbedInvocationMatcher",
+        "rest": "#StubbedInvocationMatcher(org.mockito.internal.invocation.InvocationMatcher,org.mockito.stubbing.Answer):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.StubbedInvocationMatcher",
+        "rest": "#StubbedInvocationMatcher(org.mockito.internal.invocation.InvocationMatcher,org.mockito.stubbing.Answer):26",
+        "line_number": "26"
+    }
+]

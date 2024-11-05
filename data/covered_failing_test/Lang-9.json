@@ -1,0 +1,233 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 104,
+        "end_line": 109,
+        "name": "FastDateParser",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 115,
+        "end_line": 150,
+        "name": "init",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 179,
+        "end_line": 181,
+        "name": "getParsePattern",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 248,
+        "end_line": 261,
+        "name": "parse",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 274,
+        "end_line": 291,
+        "name": "parse",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 303,
+        "end_line": 334,
+        "name": "escapeRegex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 484,
+        "end_line": 486,
+        "name": "isNextNumber",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 534,
+        "end_line": 591,
+        "name": "getStrategy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 701,
+        "end_line": 703,
+        "name": "NumberStrategy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 716,
+        "end_line": 725,
+        "name": "addRegex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 730,
+        "end_line": 733,
+        "name": "setCalendar",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 740,
+        "end_line": 742,
+        "name": "modify",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 646,
+        "end_line": 648,
+        "name": "TextStrategy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 603,
+        "end_line": 605,
+        "name": "CopyQuotedStrategy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateParser.java",
+        "start_line": 622,
+        "end_line": 626,
+        "name": "addRegex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "start_line": 368,
+        "end_line": 371,
+        "name": "FastDateFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "start_line": 164,
+        "end_line": 166,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "start_line": 470,
+        "end_line": 473,
+        "name": "parse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+        "start_line": 69,
+        "end_line": 91,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDateFormat.java",
+        "start_line": 89,
+        "end_line": 92,
+        "name": "createInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+        "start_line": 179,
+        "end_line": 181,
+        "name": "MultipartKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FormatCache.java",
+        "start_line": 197,
+        "end_line": 209,
+        "name": "hashCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 136,
+        "end_line": 142,
+        "name": "FastDatePrinter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 147,
+        "end_line": 157,
+        "name": "init",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 167,
+        "end_line": 288,
+        "name": "parsePattern",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 297,
+        "end_line": 347,
+        "name": "parseToken",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 356,
+        "end_line": 365,
+        "name": "selectNumberRule",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 599,
+        "end_line": 601,
+        "name": "CharacterLiteral",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 606,
+        "end_line": 609,
+        "name": "estimateLength",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 707,
+        "end_line": 709,
+        "name": "UnpaddedNumberField",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 714,
+        "end_line": 717,
+        "name": "estimateLength",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 632,
+        "end_line": 634,
+        "name": "StringLiteral",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/time/FastDatePrinter.java",
+        "start_line": 639,
+        "end_line": 642,
+        "name": "estimateLength",
+        "failing_tests_count": 1
+    }
+]

@@ -1,0 +1,1407 @@
+[
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl():78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#getIterationCount():82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setAbsoluteAccuracy(double):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setAbsoluteAccuracy(double):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#getAbsoluteAccuracy():92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setMaximalIterationCount(int):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setMaximalIterationCount(int):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setRelativeAccuracy(double):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setRelativeAccuracy(double):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#getRelativeAccuracy():122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#AbstractUnivariateRealOptimizer():82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setResult(double,double,int):126",
+        "line_number": "126"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setResult(double,double,int):127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setResult(double,double,int):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setResult(double,double,int):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setResult(double,double,int):130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#clearResult():137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#clearResult():138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setMaxEvaluations(int):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#setMaxEvaluations(int):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#getEvaluations():152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#getGoalType():159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#computeObjectiveValue(org.apache.commons.math.analysis.UnivariateRealFunction,double):193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.AbstractUnivariateRealOptimizer",
+        "rest": "#computeObjectiveValue(org.apache.commons.math.analysis.UnivariateRealFunction,double):197",
+        "line_number": "197"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#BrentOptimizer():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#<clinit>():38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):126",
+        "line_number": "126"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):133",
+        "line_number": "133"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):136",
+        "line_number": "136"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):146",
+        "line_number": "146"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):148",
+        "line_number": "148"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):158",
+        "line_number": "158"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):175",
+        "line_number": "175"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):181",
+        "line_number": "181"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):182",
+        "line_number": "182"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):186",
+        "line_number": "186"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):190",
+        "line_number": "190"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):191",
+        "line_number": "191"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):192",
+        "line_number": "192"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):194",
+        "line_number": "194"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):197",
+        "line_number": "197"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):200",
+        "line_number": "200"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):201",
+        "line_number": "201"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):206",
+        "line_number": "206"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):207",
+        "line_number": "207"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):210",
+        "line_number": "210"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):214",
+        "line_number": "214"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):219",
+        "line_number": "219"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):222",
+        "line_number": "222"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):227",
+        "line_number": "227"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):228",
+        "line_number": "228"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):229",
+        "line_number": "229"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):230",
+        "line_number": "230"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):233",
+        "line_number": "233"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):234",
+        "line_number": "234"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):238",
+        "line_number": "238"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):239",
+        "line_number": "239"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):241",
+        "line_number": "241"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.univariate.BrentOptimizer",
+        "rest": "#localMin(boolean,org.apache.commons.math.analysis.UnivariateRealFunction,org.apache.commons.math.optimization.GoalType,double,double,double,double,double):242",
+        "line_number": "242"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.GoalType",
+        "rest": "#GoalType(java.lang.String,int):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.GoalType",
+        "rest": "#<clinit>():30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.GoalType",
+        "rest": "#<clinit>():33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.GoalType",
+        "rest": "#<clinit>():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():105",
+        "line_number": "105"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#DescriptiveStatistics():114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#addValue(double):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#addValue(double):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#addValue(double):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#getMean():179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#getPercentile(double):380",
+        "line_number": "380"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#getPercentile(double):381",
+        "line_number": "381"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#getPercentile(double):399",
+        "line_number": "399"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.DescriptiveStatistics",
+        "rest": "#apply(org.apache.commons.math.stat.descriptive.UnivariateStatistic):432",
+        "line_number": "432"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():131",
+        "line_number": "131"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#ResizableDoubleArray():144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):267",
+        "line_number": "267"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):268",
+        "line_number": "268"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):271",
+        "line_number": "271"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):272",
+        "line_number": "272"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):273",
+        "line_number": "273"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#addElement(double):275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#contract():382",
+        "line_number": "382"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#contract():385",
+        "line_number": "385"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#contract():386",
+        "line_number": "386"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#contract():389",
+        "line_number": "389"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#contract():390",
+        "line_number": "390"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():480",
+        "line_number": "480"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():481",
+        "line_number": "481"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():482",
+        "line_number": "482"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():486",
+        "line_number": "486"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():489",
+        "line_number": "489"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():490",
+        "line_number": "490"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#expand():491",
+        "line_number": "491"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#getNumElements():603",
+        "line_number": "603"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#getInternalValues():636",
+        "line_number": "636"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#shouldContract():771",
+        "line_number": "771"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#shouldContract():772",
+        "line_number": "772"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.ResizableDoubleArray",
+        "rest": "#start():788",
+        "line_number": "788"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#AbstractUnivariateStatistic():35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractUnivariateStatistic",
+        "rest": "#test(double[],int,int):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.AbstractStorelessUnivariateStatistic",
+        "rest": "#AbstractStorelessUnivariateStatistic():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#Mean():77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#Mean():78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#Mean():79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#Mean():80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):155",
+        "line_number": "155"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):157",
+        "line_number": "157"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Mean",
+        "rest": "#evaluate(double[],int,int):167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FirstMoment",
+        "rest": "#FirstMoment():81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.GeometricMean",
+        "rest": "#GeometricMean():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.GeometricMean",
+        "rest": "#GeometricMean():63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.GeometricMean",
+        "rest": "#GeometricMean():64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfLogs",
+        "rest": "#SumOfLogs():60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfLogs",
+        "rest": "#SumOfLogs():61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfLogs",
+        "rest": "#SumOfLogs():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfLogs",
+        "rest": "#SumOfLogs():63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Kurtosis",
+        "rest": "#Kurtosis():65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Kurtosis",
+        "rest": "#Kurtosis():66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Kurtosis",
+        "rest": "#Kurtosis():67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Kurtosis",
+        "rest": "#Kurtosis():68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.SecondMoment",
+        "rest": "#SecondMoment():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.SecondMoment",
+        "rest": "#SecondMoment():58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.SecondMoment",
+        "rest": "#SecondMoment():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.ThirdMoment",
+        "rest": "#ThirdMoment():66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.ThirdMoment",
+        "rest": "#ThirdMoment():67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.ThirdMoment",
+        "rest": "#ThirdMoment():68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.ThirdMoment",
+        "rest": "#ThirdMoment():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FourthMoment",
+        "rest": "#FourthMoment():65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FourthMoment",
+        "rest": "#FourthMoment():66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.FourthMoment",
+        "rest": "#FourthMoment():67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Max",
+        "rest": "#Max():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Max",
+        "rest": "#Max():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Max",
+        "rest": "#Max():56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Max",
+        "rest": "#Max():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Min",
+        "rest": "#Min():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Min",
+        "rest": "#Min():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Min",
+        "rest": "#Min():56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Min",
+        "rest": "#Min():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile():83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile():84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile(double):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile(double):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile(double):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#Percentile(double):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int):163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):199",
+        "line_number": "199"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):201",
+        "line_number": "201"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):214",
+        "line_number": "214"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):223",
+        "line_number": "223"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):227",
+        "line_number": "227"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#evaluate(double[],int,int,double):228",
+        "line_number": "228"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#setQuantile(double):250",
+        "line_number": "250"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#setQuantile(double):254",
+        "line_number": "254"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.rank.Percentile",
+        "rest": "#setQuantile(double):255",
+        "line_number": "255"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Skewness",
+        "rest": "#Skewness():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Skewness",
+        "rest": "#Skewness():46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Skewness",
+        "rest": "#Skewness():60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Skewness",
+        "rest": "#Skewness():61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Skewness",
+        "rest": "#Skewness():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.moment.Variance",
+        "rest": "#Variance():96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfSquares",
+        "rest": "#SumOfSquares():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfSquares",
+        "rest": "#SumOfSquares():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfSquares",
+        "rest": "#SumOfSquares():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.SumOfSquares",
+        "rest": "#SumOfSquares():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#Sum():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#Sum():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#Sum():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#Sum():56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.apache.commons.math.stat.descriptive.summary.Sum",
+        "rest": "#evaluate(double[],int,int):128",
+        "line_number": "128"
+    }
+]

@@ -1,0 +1,917 @@
+[
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Line,org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Line,org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Line,org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Line,org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#SubLine(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#intersection(org.apache.commons.math3.geometry.euclidean.threed.SubLine,boolean):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#intersection(org.apache.commons.math3.geometry.euclidean.threed.SubLine,boolean):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#buildIntervalSet(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.SubLine",
+        "rest": "#buildIntervalSet(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,double,double):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,double,double):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,double,double):97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,double,double):98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,double,double):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D,double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D,double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D,double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D,double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#Vector3D(double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D,double,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):155",
+        "line_number": "155"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#<clinit>():71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#getNorm():243",
+        "line_number": "243"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#getNormSq():249",
+        "line_number": "249"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#subtract(org.apache.commons.math3.geometry.Vector):286",
+        "line_number": "286"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#subtract(org.apache.commons.math3.geometry.Vector):287",
+        "line_number": "287"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#dotProduct(org.apache.commons.math3.geometry.Vector):453",
+        "line_number": "453"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Vector3D",
+        "rest": "#dotProduct(org.apache.commons.math3.geometry.Vector):454",
+        "line_number": "454"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#Line(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#Line(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#Line(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#reset(org.apache.commons.math3.geometry.euclidean.threed.Vector3D,org.apache.commons.math3.geometry.euclidean.threed.Vector3D):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#getAbscissa(org.apache.commons.math3.geometry.euclidean.threed.Vector3D):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#toSubSpace(org.apache.commons.math3.geometry.Vector):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#contains(org.apache.commons.math3.geometry.euclidean.threed.Vector3D):156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#distance(org.apache.commons.math3.geometry.euclidean.threed.Vector3D):164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#distance(org.apache.commons.math3.geometry.euclidean.threed.Vector3D):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#distance(org.apache.commons.math3.geometry.euclidean.threed.Vector3D):166",
+        "line_number": "166"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):195",
+        "line_number": "195"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):196",
+        "line_number": "196"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):197",
+        "line_number": "197"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):203",
+        "line_number": "203"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#closestPoint(org.apache.commons.math3.geometry.euclidean.threed.Line):206",
+        "line_number": "206"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#intersection(org.apache.commons.math3.geometry.euclidean.threed.Line):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.threed.Line",
+        "rest": "#intersection(org.apache.commons.math3.geometry.euclidean.threed.Line):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():277",
+        "line_number": "277"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():285",
+        "line_number": "285"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#sqrt(double):385",
+        "line_number": "385"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):896",
+        "line_number": "896"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):897",
+        "line_number": "897"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):898",
+        "line_number": "898"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):899",
+        "line_number": "899"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):900",
+        "line_number": "900"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):901",
+        "line_number": "901"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):904",
+        "line_number": "904"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):905",
+        "line_number": "905"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):908",
+        "line_number": "908"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):909",
+        "line_number": "909"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):910",
+        "line_number": "910"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):911",
+        "line_number": "911"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):912",
+        "line_number": "912"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):913",
+        "line_number": "913"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):916",
+        "line_number": "916"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):917",
+        "line_number": "917"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):920",
+        "line_number": "920"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):921",
+        "line_number": "921"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):922",
+        "line_number": "922"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):926",
+        "line_number": "926"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):928",
+        "line_number": "928"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double):934",
+        "line_number": "934"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):976",
+        "line_number": "976"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):977",
+        "line_number": "977"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):978",
+        "line_number": "978"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):979",
+        "line_number": "979"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):980",
+        "line_number": "980"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):981",
+        "line_number": "981"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):984",
+        "line_number": "984"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):985",
+        "line_number": "985"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):988",
+        "line_number": "988"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):989",
+        "line_number": "989"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):990",
+        "line_number": "990"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):991",
+        "line_number": "991"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):992",
+        "line_number": "992"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):993",
+        "line_number": "993"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):996",
+        "line_number": "996"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):997",
+        "line_number": "997"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1000",
+        "line_number": "1000"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1001",
+        "line_number": "1001"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1002",
+        "line_number": "1002"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1003",
+        "line_number": "1003"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1004",
+        "line_number": "1004"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1005",
+        "line_number": "1005"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1008",
+        "line_number": "1008"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1009",
+        "line_number": "1009"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1012",
+        "line_number": "1012"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1013",
+        "line_number": "1013"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1014",
+        "line_number": "1014"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1017",
+        "line_number": "1017"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1018",
+        "line_number": "1018"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1019",
+        "line_number": "1019"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1023",
+        "line_number": "1023"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1025",
+        "line_number": "1025"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathArrays",
+        "rest": "#linearCombination(double,double,double,double,double,double):1031",
+        "line_number": "1031"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractRegion",
+        "rest": "#AbstractRegion(org.apache.commons.math3.geometry.partitioning.BSPTree):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractRegion",
+        "rest": "#AbstractRegion(org.apache.commons.math3.geometry.partitioning.BSPTree):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractRegion",
+        "rest": "#AbstractRegion(org.apache.commons.math3.geometry.partitioning.BSPTree):69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#IntervalsSet(double,double):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#IntervalsSet(double,double):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#buildTree(double,double):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#buildTree(double,double):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#buildTree(double,double):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#buildTree(double,double):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet",
+        "rest": "#buildTree(double,double):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#Vector1D(double):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#Vector1D(double):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#Vector1D(double):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#<clinit>():36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#<clinit>():39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#<clinit>():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#<clinit>():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#<clinit>():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.Vector1D",
+        "rest": "#getX():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint",
+        "rest": "#OrientedPoint(org.apache.commons.math3.geometry.euclidean.oned.Vector1D,boolean):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint",
+        "rest": "#OrientedPoint(org.apache.commons.math3.geometry.euclidean.oned.Vector1D,boolean):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint",
+        "rest": "#OrientedPoint(org.apache.commons.math3.geometry.euclidean.oned.Vector1D,boolean):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint",
+        "rest": "#OrientedPoint(org.apache.commons.math3.geometry.euclidean.oned.Vector1D,boolean):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.OrientedPoint",
+        "rest": "#wholeHyperplane():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane",
+        "rest": "#AbstractSubHyperplane(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane",
+        "rest": "#AbstractSubHyperplane(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane",
+        "rest": "#AbstractSubHyperplane(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane",
+        "rest": "#AbstractSubHyperplane(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.SubOrientedPoint",
+        "rest": "#SubOrientedPoint(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.euclidean.oned.SubOrientedPoint",
+        "rest": "#SubOrientedPoint(org.apache.commons.math3.geometry.partitioning.Hyperplane,org.apache.commons.math3.geometry.partitioning.Region):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(java.lang.Object):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math3.geometry.partitioning.BSPTree",
+        "rest": "#BSPTree(org.apache.commons.math3.geometry.partitioning.SubHyperplane,org.apache.commons.math3.geometry.partitioning.BSPTree,org.apache.commons.math3.geometry.partitioning.BSPTree,java.lang.Object):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():78",
+        "line_number": "78"
+    }
+]

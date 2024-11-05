@@ -1,0 +1,114 @@
+[
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 37,
+        "end_line": 39,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 49,
+        "end_line": 53,
+        "name": "NormalDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 75,
+        "end_line": 77,
+        "name": "setMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 92,
+        "end_line": 98,
+        "name": "setStandardDeviation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 108,
+        "end_line": 111,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Erf.java",
+        "start_line": 55,
+        "end_line": 61,
+        "name": "erf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 87,
+        "end_line": 107,
+        "name": "logGamma",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 150,
+        "end_line": 187,
+        "name": "regularizedGammaP",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MathException.java",
+        "start_line": 150,
+        "end_line": 155,
+        "name": "MathException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MathException.java",
+        "start_line": 81,
+        "end_line": 102,
+        "name": "translate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MathException.java",
+        "start_line": 111,
+        "end_line": 116,
+        "name": "buildMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MathException.java",
+        "start_line": 234,
+        "end_line": 236,
+        "name": "getCause",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MathException.java",
+        "start_line": 264,
+        "end_line": 272,
+        "name": "printStackTrace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/ConvergenceException.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "ConvergenceException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/MaxIterationsExceededException.java",
+        "start_line": 35,
+        "end_line": 39,
+        "name": "MaxIterationsExceededException",
+        "failing_tests_count": 1
+    }
+]

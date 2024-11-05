@@ -1,0 +1,2107 @@
+[
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#AbstractRealVector():42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#AbstractRealVector():577",
+        "line_number": "577"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#checkVectorDimensions(int):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#checkVectorDimensions(int):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#checkVectorDimensions(int):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#checkIndex(int):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.AbstractRealVector",
+        "rest": "#checkIndex(int):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(int,double):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(int,double):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(int,double):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(int,double):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(int,double):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(org.apache.commons.math.linear.OpenMapRealVector):179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(org.apache.commons.math.linear.OpenMapRealVector):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(org.apache.commons.math.linear.OpenMapRealVector):181",
+        "line_number": "181"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(org.apache.commons.math.linear.OpenMapRealVector):182",
+        "line_number": "182"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#OpenMapRealVector(org.apache.commons.math.linear.OpenMapRealVector):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#getEntries():208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#isDefaultValue(double):220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):368",
+        "line_number": "368"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):369",
+        "line_number": "369"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):370",
+        "line_number": "370"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):371",
+        "line_number": "371"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):372",
+        "line_number": "372"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#ebeMultiply(org.apache.commons.math.linear.RealVector):373",
+        "line_number": "373"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#getDimension():422",
+        "line_number": "422"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#getEntry(int):479",
+        "line_number": "479"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#getEntry(int):480",
+        "line_number": "480"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):663",
+        "line_number": "663"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):664",
+        "line_number": "664"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):665",
+        "line_number": "665"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):666",
+        "line_number": "666"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):667",
+        "line_number": "667"
+    },
+    {
+        "class_name": "org.apache.commons.math.linear.OpenMapRealVector",
+        "rest": "#setEntry(int,double):669",
+        "line_number": "669"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(double):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(double):104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):126",
+        "line_number": "126"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(int,double):127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):133",
+        "line_number": "133"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):136",
+        "line_number": "136"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#OpenIntToDoubleHashMap(org.apache.commons.math.util.OpenIntToDoubleHashMap):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#computeCapacity(int):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#computeCapacity(int):156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#computeCapacity(int):157",
+        "line_number": "157"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#computeCapacity(int):158",
+        "line_number": "158"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#computeCapacity(int):159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#get(int):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#get(int):181",
+        "line_number": "181"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#get(int):182",
+        "line_number": "182"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#get(int):186",
+        "line_number": "186"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#get(int):187",
+        "line_number": "187"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):210",
+        "line_number": "210"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#iterator():241",
+        "line_number": "241"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#findInsertionIndex(int):259",
+        "line_number": "259"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#findInsertionIndex(int[],byte[],int,int):272",
+        "line_number": "272"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#findInsertionIndex(int[],byte[],int,int):273",
+        "line_number": "273"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#findInsertionIndex(int[],byte[],int,int):274",
+        "line_number": "274"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#findInsertionIndex(int[],byte[],int,int):275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#remove(int):354",
+        "line_number": "354"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#remove(int):355",
+        "line_number": "355"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#remove(int):356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#remove(int):357",
+        "line_number": "357"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#containsKey(int,int):385",
+        "line_number": "385"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):394",
+        "line_number": "394"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):395",
+        "line_number": "395"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):396",
+        "line_number": "396"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):397",
+        "line_number": "397"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):398",
+        "line_number": "398"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):399",
+        "line_number": "399"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#doRemove(int):400",
+        "line_number": "400"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):410",
+        "line_number": "410"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):411",
+        "line_number": "411"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):412",
+        "line_number": "412"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):413",
+        "line_number": "413"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):418",
+        "line_number": "418"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):419",
+        "line_number": "419"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):420",
+        "line_number": "420"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):421",
+        "line_number": "421"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):422",
+        "line_number": "422"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):423",
+        "line_number": "423"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):426",
+        "line_number": "426"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#put(int,double):428",
+        "line_number": "428"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#shouldGrowTable():469",
+        "line_number": "469"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#hashOf(int):478",
+        "line_number": "478"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "#hashOf(int):479",
+        "line_number": "479"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():156",
+        "line_number": "156"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():171",
+        "line_number": "171"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():192",
+        "line_number": "192"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():200",
+        "line_number": "200"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():203",
+        "line_number": "203"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():233",
+        "line_number": "233"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():234",
+        "line_number": "234"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():238",
+        "line_number": "238"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():239",
+        "line_number": "239"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():242",
+        "line_number": "242"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():243",
+        "line_number": "243"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():244",
+        "line_number": "244"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():245",
+        "line_number": "245"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():247",
+        "line_number": "247"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():249",
+        "line_number": "249"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():250",
+        "line_number": "250"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():251",
+        "line_number": "251"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():257",
+        "line_number": "257"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():258",
+        "line_number": "258"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():259",
+        "line_number": "259"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():263",
+        "line_number": "263"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():264",
+        "line_number": "264"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():265",
+        "line_number": "265"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():270",
+        "line_number": "270"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1012",
+        "line_number": "1012"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1013",
+        "line_number": "1013"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1014",
+        "line_number": "1014"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1015",
+        "line_number": "1015"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1016",
+        "line_number": "1016"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1017",
+        "line_number": "1017"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1019",
+        "line_number": "1019"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1020",
+        "line_number": "1020"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1021",
+        "line_number": "1021"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1022",
+        "line_number": "1022"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1024",
+        "line_number": "1024"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1025",
+        "line_number": "1025"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1027",
+        "line_number": "1027"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1028",
+        "line_number": "1028"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1029",
+        "line_number": "1029"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1032",
+        "line_number": "1032"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1033",
+        "line_number": "1033"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1034",
+        "line_number": "1034"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowexp(double,double[]):1037",
+        "line_number": "1037"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1046",
+        "line_number": "1046"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1047",
+        "line_number": "1047"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1048",
+        "line_number": "1048"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1049",
+        "line_number": "1049"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1050",
+        "line_number": "1050"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#split(double,double[]):1055",
+        "line_number": "1055"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1062",
+        "line_number": "1062"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1063",
+        "line_number": "1063"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1065",
+        "line_number": "1065"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1066",
+        "line_number": "1066"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1067",
+        "line_number": "1067"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1068",
+        "line_number": "1068"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1069",
+        "line_number": "1069"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1070",
+        "line_number": "1070"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1071",
+        "line_number": "1071"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1072",
+        "line_number": "1072"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#resplit(double[]):1074",
+        "line_number": "1074"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitMult(double[],double[],double[]):1082",
+        "line_number": "1082"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitMult(double[],double[],double[]):1083",
+        "line_number": "1083"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitMult(double[],double[],double[]):1086",
+        "line_number": "1086"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitMult(double[],double[],double[]):1087",
+        "line_number": "1087"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitAdd(double[],double[],double[]):1095",
+        "line_number": "1095"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitAdd(double[],double[],double[]):1096",
+        "line_number": "1096"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitAdd(double[],double[],double[]):1098",
+        "line_number": "1098"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitAdd(double[],double[],double[]):1099",
+        "line_number": "1099"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1120",
+        "line_number": "1120"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1121",
+        "line_number": "1121"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1123",
+        "line_number": "1123"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1128",
+        "line_number": "1128"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1129",
+        "line_number": "1129"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1131",
+        "line_number": "1131"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1132",
+        "line_number": "1132"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1136",
+        "line_number": "1136"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1138",
+        "line_number": "1138"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1140",
+        "line_number": "1140"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1143",
+        "line_number": "1143"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1145",
+        "line_number": "1145"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#splitReciprocal(double[],double[]):1147",
+        "line_number": "1147"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1155",
+        "line_number": "1155"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1156",
+        "line_number": "1156"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1157",
+        "line_number": "1157"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1160",
+        "line_number": "1160"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1161",
+        "line_number": "1161"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1162",
+        "line_number": "1162"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1164",
+        "line_number": "1164"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1165",
+        "line_number": "1165"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1168",
+        "line_number": "1168"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1169",
+        "line_number": "1169"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1171",
+        "line_number": "1171"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1172",
+        "line_number": "1172"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1173",
+        "line_number": "1173"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1174",
+        "line_number": "1174"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1175",
+        "line_number": "1175"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1176",
+        "line_number": "1176"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1179",
+        "line_number": "1179"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1180",
+        "line_number": "1180"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1181",
+        "line_number": "1181"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1183",
+        "line_number": "1183"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1184",
+        "line_number": "1184"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1185",
+        "line_number": "1185"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1186",
+        "line_number": "1186"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1187",
+        "line_number": "1187"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1188",
+        "line_number": "1188"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1191",
+        "line_number": "1191"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1192",
+        "line_number": "1192"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1193",
+        "line_number": "1193"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1195",
+        "line_number": "1195"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1196",
+        "line_number": "1196"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1197",
+        "line_number": "1197"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1198",
+        "line_number": "1198"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1199",
+        "line_number": "1199"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1200",
+        "line_number": "1200"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#quadMult(double[],double[],double[]):1201",
+        "line_number": "1201"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1210",
+        "line_number": "1210"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1211",
+        "line_number": "1211"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1212",
+        "line_number": "1212"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1221",
+        "line_number": "1221"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1222",
+        "line_number": "1222"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1224",
+        "line_number": "1224"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1226",
+        "line_number": "1226"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1227",
+        "line_number": "1227"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1228",
+        "line_number": "1228"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1229",
+        "line_number": "1229"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1232",
+        "line_number": "1232"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1233",
+        "line_number": "1233"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1235",
+        "line_number": "1235"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1238",
+        "line_number": "1238"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1239",
+        "line_number": "1239"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1240",
+        "line_number": "1240"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1242",
+        "line_number": "1242"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#expint(int,double[]):1245",
+        "line_number": "1245"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1743",
+        "line_number": "1743"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1744",
+        "line_number": "1744"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1745",
+        "line_number": "1745"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1746",
+        "line_number": "1746"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1748",
+        "line_number": "1748"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1751",
+        "line_number": "1751"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1752",
+        "line_number": "1752"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1753",
+        "line_number": "1753"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1754",
+        "line_number": "1754"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1755",
+        "line_number": "1755"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1756",
+        "line_number": "1756"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1757",
+        "line_number": "1757"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1758",
+        "line_number": "1758"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1761",
+        "line_number": "1761"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1767",
+        "line_number": "1767"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1768",
+        "line_number": "1768"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1770",
+        "line_number": "1770"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1771",
+        "line_number": "1771"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1772",
+        "line_number": "1772"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1773",
+        "line_number": "1773"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1774",
+        "line_number": "1774"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1775",
+        "line_number": "1775"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1776",
+        "line_number": "1776"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1779",
+        "line_number": "1779"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1780",
+        "line_number": "1780"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1781",
+        "line_number": "1781"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowLog(double):1783",
+        "line_number": "1783"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1793",
+        "line_number": "1793"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1794",
+        "line_number": "1794"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1795",
+        "line_number": "1795"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1796",
+        "line_number": "1796"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1797",
+        "line_number": "1797"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1798",
+        "line_number": "1798"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1800",
+        "line_number": "1800"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1801",
+        "line_number": "1801"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1802",
+        "line_number": "1802"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1804",
+        "line_number": "1804"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1805",
+        "line_number": "1805"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1808",
+        "line_number": "1808"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1809",
+        "line_number": "1809"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1811",
+        "line_number": "1811"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1812",
+        "line_number": "1812"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1813",
+        "line_number": "1813"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1816",
+        "line_number": "1816"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1817",
+        "line_number": "1817"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1820",
+        "line_number": "1820"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1821",
+        "line_number": "1821"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1822",
+        "line_number": "1822"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowSin(double,double[]):1825",
+        "line_number": "1825"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1836",
+        "line_number": "1836"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1837",
+        "line_number": "1837"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1838",
+        "line_number": "1838"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1839",
+        "line_number": "1839"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1840",
+        "line_number": "1840"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1841",
+        "line_number": "1841"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1843",
+        "line_number": "1843"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1844",
+        "line_number": "1844"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1845",
+        "line_number": "1845"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1847",
+        "line_number": "1847"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1848",
+        "line_number": "1848"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1851",
+        "line_number": "1851"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1852",
+        "line_number": "1852"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1854",
+        "line_number": "1854"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1855",
+        "line_number": "1855"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1856",
+        "line_number": "1856"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1859",
+        "line_number": "1859"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1860",
+        "line_number": "1860"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1863",
+        "line_number": "1863"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1864",
+        "line_number": "1864"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1865",
+        "line_number": "1865"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#slowCos(double,double[]):1868",
+        "line_number": "1868"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1874",
+        "line_number": "1874"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1877",
+        "line_number": "1877"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1878",
+        "line_number": "1878"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1880",
+        "line_number": "1880"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1881",
+        "line_number": "1881"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1882",
+        "line_number": "1882"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1884",
+        "line_number": "1884"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1885",
+        "line_number": "1885"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1886",
+        "line_number": "1886"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1890",
+        "line_number": "1890"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1891",
+        "line_number": "1891"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1892",
+        "line_number": "1892"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1893",
+        "line_number": "1893"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1894",
+        "line_number": "1894"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1895",
+        "line_number": "1895"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1897",
+        "line_number": "1897"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1899",
+        "line_number": "1899"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1900",
+        "line_number": "1900"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1901",
+        "line_number": "1901"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1902",
+        "line_number": "1902"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1905",
+        "line_number": "1905"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1906",
+        "line_number": "1906"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1907",
+        "line_number": "1907"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1910",
+        "line_number": "1910"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1911",
+        "line_number": "1911"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1912",
+        "line_number": "1912"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1913",
+        "line_number": "1913"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1914",
+        "line_number": "1914"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1915",
+        "line_number": "1915"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1916",
+        "line_number": "1916"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1918",
+        "line_number": "1918"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1919",
+        "line_number": "1919"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1920",
+        "line_number": "1920"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1921",
+        "line_number": "1921"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1922",
+        "line_number": "1922"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1923",
+        "line_number": "1923"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1924",
+        "line_number": "1924"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1925",
+        "line_number": "1925"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1928",
+        "line_number": "1928"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1929",
+        "line_number": "1929"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1930",
+        "line_number": "1930"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1931",
+        "line_number": "1931"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1932",
+        "line_number": "1932"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1935",
+        "line_number": "1935"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1936",
+        "line_number": "1936"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1937",
+        "line_number": "1937"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1938",
+        "line_number": "1938"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1939",
+        "line_number": "1939"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1940",
+        "line_number": "1940"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1941",
+        "line_number": "1941"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1946",
+        "line_number": "1946"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1947",
+        "line_number": "1947"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1948",
+        "line_number": "1948"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1949",
+        "line_number": "1949"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1951",
+        "line_number": "1951"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1952",
+        "line_number": "1952"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1954",
+        "line_number": "1954"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1956",
+        "line_number": "1956"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1957",
+        "line_number": "1957"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1959",
+        "line_number": "1959"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1961",
+        "line_number": "1961"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1962",
+        "line_number": "1962"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#buildSinCosTables():1965",
+        "line_number": "1965"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#abs(double):3410",
+        "line_number": "3410"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3724",
+        "line_number": "3724"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3728",
+        "line_number": "3728"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3732",
+        "line_number": "3732"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3733",
+        "line_number": "3733"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3737",
+        "line_number": "3737"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#floor(double):3741",
+        "line_number": "3741"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#ceil(double):3751",
+        "line_number": "3751"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#ceil(double):3755",
+        "line_number": "3755"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#ceil(double):3756",
+        "line_number": "3756"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#ceil(double):3757",
+        "line_number": "3757"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):498",
+        "line_number": "498"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):501",
+        "line_number": "501"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):504",
+        "line_number": "504"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):506",
+        "line_number": "506"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):509",
+        "line_number": "509"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#OpenIntToDoubleHashMap$Iterator(org.apache.commons.math.util.OpenIntToDoubleHashMap):511",
+        "line_number": "511"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#hasNext():518",
+        "line_number": "518"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#key():529",
+        "line_number": "529"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#key():532",
+        "line_number": "532"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#key():535",
+        "line_number": "535"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#value():546",
+        "line_number": "546"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#value():549",
+        "line_number": "549"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#value():552",
+        "line_number": "552"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():563",
+        "line_number": "563"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():564",
+        "line_number": "564"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():568",
+        "line_number": "568"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():572",
+        "line_number": "572"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():580",
+        "line_number": "580"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.OpenIntToDoubleHashMap",
+        "rest": "$Iterator#advance():582",
+        "line_number": "582"
+    }
+]

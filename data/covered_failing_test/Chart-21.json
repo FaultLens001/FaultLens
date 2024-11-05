@@ -1,0 +1,191 @@
+[
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 96,
+        "end_line": 99,
+        "name": "AbstractDataset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 171,
+        "end_line": 173,
+        "name": "fireDatasetChanged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/AbstractDataset.java",
+        "start_line": 184,
+        "end_line": 194,
+        "name": "notifyListeners",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java",
+        "start_line": 106,
+        "end_line": 115,
+        "name": "DefaultBoxAndWhiskerCategoryDataset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java",
+        "start_line": 144,
+        "end_line": 193,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java",
+        "start_line": 531,
+        "end_line": 533,
+        "name": "getRangeBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset.java",
+        "start_line": 739,
+        "end_line": 742,
+        "name": "updateBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetGroup.java",
+        "start_line": 64,
+        "end_line": 67,
+        "name": "DatasetGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects2D.java",
+        "start_line": 74,
+        "end_line": 78,
+        "name": "KeyedObjects2D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects2D.java",
+        "start_line": 149,
+        "end_line": 151,
+        "name": "getRowIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects2D.java",
+        "start_line": 186,
+        "end_line": 188,
+        "name": "getColumnIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects2D.java",
+        "start_line": 248,
+        "end_line": 251,
+        "name": "addObject",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects2D.java",
+        "start_line": 260,
+        "end_line": 285,
+        "name": "setObject",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 85,
+        "end_line": 93,
+        "name": "Range",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 329,
+        "end_line": 341,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 364,
+        "end_line": 366,
+        "name": "toString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/BoxAndWhiskerItem.java",
+        "start_line": 105,
+        "end_line": 125,
+        "name": "BoxAndWhiskerItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/BoxAndWhiskerItem.java",
+        "start_line": 142,
+        "end_line": 152,
+        "name": "BoxAndWhiskerItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/BoxAndWhiskerItem.java",
+        "start_line": 213,
+        "end_line": 215,
+        "name": "getMinOutlier",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/statistics/BoxAndWhiskerItem.java",
+        "start_line": 222,
+        "end_line": 224,
+        "name": "getMaxOutlier",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects.java",
+        "start_line": 67,
+        "end_line": 69,
+        "name": "KeyedObjects",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects.java",
+        "start_line": 127,
+        "end_line": 141,
+        "name": "getIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObjects.java",
+        "start_line": 200,
+        "end_line": 210,
+        "name": "setObject",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObject.java",
+        "start_line": 74,
+        "end_line": 77,
+        "name": "KeyedObject",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObject.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "getKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/KeyedObject.java",
+        "start_line": 102,
+        "end_line": 104,
+        "name": "setObject",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/general/DatasetChangeEvent.java",
+        "start_line": 72,
+        "end_line": 75,
+        "name": "DatasetChangeEvent",
+        "failing_tests_count": 1
+    }
+]

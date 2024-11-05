@@ -1,0 +1,2057 @@
+[
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(double[],double):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(double[],double):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(org.apache.commons.math3.linear.RealVector,double):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(org.apache.commons.math3.linear.RealVector,double):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(org.apache.commons.math3.linear.RealVector,double):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#LinearObjectiveFunction(org.apache.commons.math3.linear.RealVector,double):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#getCoefficients():75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearObjectiveFunction",
+        "rest": "#getConstantTerm():83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVector",
+        "rest": "#RealVector():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVector",
+        "rest": "#RealVector():1117",
+        "line_number": "1117"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(int):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(int):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(int):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[]):85",
+        "line_number": "85"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[]):86",
+        "line_number": "86"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[]):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[],boolean):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[],boolean):104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[],boolean):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#ArrayRealVector(double[],boolean):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#<clinit>():42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):317",
+        "line_number": "317"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):318",
+        "line_number": "318"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):319",
+        "line_number": "319"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):320",
+        "line_number": "320"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):321",
+        "line_number": "321"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):322",
+        "line_number": "322"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):323",
+        "line_number": "323"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):324",
+        "line_number": "324"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#subtract(org.apache.commons.math3.linear.RealVector):326",
+        "line_number": "326"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#getEntry(int):591",
+        "line_number": "591"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#getDimension():601",
+        "line_number": "601"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#toArray():713",
+        "line_number": "713"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#checkVectorDimensions(int):743",
+        "line_number": "743"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.ArrayRealVector",
+        "rest": "#checkVectorDimensions(int):746",
+        "line_number": "746"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.text.NumberFormat):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.text.NumberFormat):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#RealVectorFormat(java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#getInstance():162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealVectorFormat",
+        "rest": "#getInstance(java.util.Locale):171",
+        "line_number": "171"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.CompositeFormat",
+        "rest": "#getDefaultNumberFormat():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.CompositeFormat",
+        "rest": "#getDefaultNumberFormat(java.util.Locale):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.CompositeFormat",
+        "rest": "#getDefaultNumberFormat(java.util.Locale):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.CompositeFormat",
+        "rest": "#getDefaultNumberFormat(java.util.Locale):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(double[],org.apache.commons.math3.optimization.linear.Relationship,double):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(double[],org.apache.commons.math3.optimization.linear.Relationship,double):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.optimization.linear.Relationship,double):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.optimization.linear.Relationship,double):100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.optimization.linear.Relationship,double):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.optimization.linear.Relationship,double):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#LinearConstraint(org.apache.commons.math3.linear.RealVector,org.apache.commons.math3.optimization.linear.Relationship,double):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#getCoefficients():168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#getRelationship():176",
+        "line_number": "176"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.LinearConstraint",
+        "rest": "#getValue():184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#Relationship(java.lang.String,int,java.lang.String):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#Relationship(java.lang.String,int,java.lang.String):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#Relationship(java.lang.String,int,java.lang.String):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#<clinit>():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#<clinit>():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#<clinit>():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.Relationship",
+        "rest": "#<clinit>():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#AbstractLinearOptimizer():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#AbstractLinearOptimizer():75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#AbstractLinearOptimizer():76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#restrictToNonNegative():82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#getGoalType():89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#getFunction():96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#getConstraints():103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#setMaxIterations(int):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#setMaxIterations(int):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#incrementIterationsCounter():127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#incrementIterationsCounter():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#incrementIterationsCounter():130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer",
+        "rest": "#optimize(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean):147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver(double,int):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver(double,int):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver(double,int):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#SimplexSolver(double,int):62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotColumn(org.apache.commons.math3.optimization.linear.SimplexTableau):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):105",
+        "line_number": "105"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):146",
+        "line_number": "146"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#getPivotRow(org.apache.commons.math3.optimization.linear.SimplexTableau,int):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):169",
+        "line_number": "169"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):174",
+        "line_number": "174"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):175",
+        "line_number": "175"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):178",
+        "line_number": "178"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):181",
+        "line_number": "181"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doIteration(org.apache.commons.math3.optimization.linear.SimplexTableau):184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#solvePhase1(org.apache.commons.math3.optimization.linear.SimplexTableau):197",
+        "line_number": "197"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#solvePhase1(org.apache.commons.math3.optimization.linear.SimplexTableau):201",
+        "line_number": "201"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#solvePhase1(org.apache.commons.math3.optimization.linear.SimplexTableau):202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#solvePhase1(org.apache.commons.math3.optimization.linear.SimplexTableau):206",
+        "line_number": "206"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#solvePhase1(org.apache.commons.math3.optimization.linear.SimplexTableau):209",
+        "line_number": "209"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doOptimize():215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doOptimize():223",
+        "line_number": "223"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doOptimize():224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doOptimize():226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexSolver",
+        "rest": "#doOptimize():227",
+        "line_number": "227"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.GoalType",
+        "rest": "#GoalType(java.lang.String,int):28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.GoalType",
+        "rest": "#<clinit>():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.GoalType",
+        "rest": "#<clinit>():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.GoalType",
+        "rest": "#<clinit>():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#SimplexTableau(org.apache.commons.math3.optimization.linear.LinearObjectiveFunction,java.util.Collection,org.apache.commons.math3.optimization.GoalType,boolean,double,int):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():166",
+        "line_number": "166"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():169",
+        "line_number": "169"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():170",
+        "line_number": "170"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():175",
+        "line_number": "175"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#initializeColumnLabels():176",
+        "line_number": "176"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):186",
+        "line_number": "186"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):188",
+        "line_number": "188"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):189",
+        "line_number": "189"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):192",
+        "line_number": "192"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):195",
+        "line_number": "195"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):196",
+        "line_number": "196"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):197",
+        "line_number": "197"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):199",
+        "line_number": "199"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):200",
+        "line_number": "200"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):203",
+        "line_number": "203"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):209",
+        "line_number": "209"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):210",
+        "line_number": "210"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):219",
+        "line_number": "219"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):225",
+        "line_number": "225"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):228",
+        "line_number": "228"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):230",
+        "line_number": "230"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):231",
+        "line_number": "231"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):238",
+        "line_number": "238"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):239",
+        "line_number": "239"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#createTableau(boolean):243",
+        "line_number": "243"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalizeConstraints(java.util.Collection):252",
+        "line_number": "252"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalizeConstraints(java.util.Collection):253",
+        "line_number": "253"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalizeConstraints(java.util.Collection):254",
+        "line_number": "254"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalizeConstraints(java.util.Collection):255",
+        "line_number": "255"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalizeConstraints(java.util.Collection):256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalize(org.apache.commons.math3.optimization.linear.LinearConstraint):265",
+        "line_number": "265"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#normalize(org.apache.commons.math3.optimization.linear.LinearConstraint):270",
+        "line_number": "270"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getNumObjectiveFunctions():279",
+        "line_number": "279"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):289",
+        "line_number": "289"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):290",
+        "line_number": "290"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):291",
+        "line_number": "291"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):293",
+        "line_number": "293"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getConstraintTypeCounts(org.apache.commons.math3.optimization.linear.Relationship):294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):316",
+        "line_number": "316"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):317",
+        "line_number": "317"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):318",
+        "line_number": "318"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):319",
+        "line_number": "319"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):320",
+        "line_number": "320"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):321",
+        "line_number": "321"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):322",
+        "line_number": "322"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getBasicRow(int):325",
+        "line_number": "325"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():333",
+        "line_number": "333"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():337",
+        "line_number": "337"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():338",
+        "line_number": "338"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():341",
+        "line_number": "341"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():342",
+        "line_number": "342"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():349",
+        "line_number": "349"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():350",
+        "line_number": "350"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():351",
+        "line_number": "351"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():352",
+        "line_number": "352"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():357",
+        "line_number": "357"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():358",
+        "line_number": "358"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():359",
+        "line_number": "359"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():360",
+        "line_number": "360"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():361",
+        "line_number": "361"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():367",
+        "line_number": "367"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():368",
+        "line_number": "368"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():369",
+        "line_number": "369"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():372",
+        "line_number": "372"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():373",
+        "line_number": "373"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#dropPhase1Objective():374",
+        "line_number": "374"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#copyArray(double[],double[]):381",
+        "line_number": "381"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#copyArray(double[],double[]):382",
+        "line_number": "382"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#isOptimal():389",
+        "line_number": "389"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#isOptimal():390",
+        "line_number": "390"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#isOptimal():391",
+        "line_number": "391"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#isOptimal():392",
+        "line_number": "392"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#isOptimal():395",
+        "line_number": "395"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#divideRow(int,double):446",
+        "line_number": "446"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#divideRow(int,double):447",
+        "line_number": "447"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#divideRow(int,double):449",
+        "line_number": "449"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):463",
+        "line_number": "463"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):464",
+        "line_number": "464"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):466",
+        "line_number": "466"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):467",
+        "line_number": "467"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):469",
+        "line_number": "469"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#subtractRow(int,int,double):471",
+        "line_number": "471"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getWidth():478",
+        "line_number": "478"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getHeight():486",
+        "line_number": "486"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getEntry(int,int):495",
+        "line_number": "495"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getSlackVariableOffset():513",
+        "line_number": "513"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getArtificialVariableOffset():521",
+        "line_number": "521"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getRhsOffset():529",
+        "line_number": "529"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getOriginalNumDecisionVariables():552",
+        "line_number": "552"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getNumSlackVariables():560",
+        "line_number": "560"
+    },
+    {
+        "class_name": "org.apache.commons.math3.optimization.linear.SimplexTableau",
+        "rest": "#getNumArtificialVariables():568",
+        "line_number": "568"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealLinearOperator",
+        "rest": "#RealLinearOperator():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#AbstractRealMatrix():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#AbstractRealMatrix(int,int):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#AbstractRealMatrix(int,int):62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#AbstractRealMatrix(int,int):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#AbstractRealMatrix(int,int):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#<clinit>():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#<clinit>():46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#<clinit>():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRowVector(int):486",
+        "line_number": "486"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):491",
+        "line_number": "491"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):492",
+        "line_number": "492"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):493",
+        "line_number": "493"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):497",
+        "line_number": "497"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):498",
+        "line_number": "498"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#setRowVector(int,org.apache.commons.math3.linear.RealVector):500",
+        "line_number": "500"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):522",
+        "line_number": "522"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):523",
+        "line_number": "523"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):524",
+        "line_number": "524"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):525",
+        "line_number": "525"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):526",
+        "line_number": "526"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.AbstractRealMatrix",
+        "rest": "#getRow(int):529",
+        "line_number": "529"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.text.NumberFormat):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.text.NumberFormat):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):133",
+        "line_number": "133"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):136",
+        "line_number": "136"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#RealMatrixFormat(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.text.NumberFormat):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#getFormat():207",
+        "line_number": "207"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#getInstance():215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.RealMatrixFormat",
+        "rest": "#getInstance(java.util.Locale):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(int,int):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(int,int):57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(int,int):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(double[][]):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(double[][]):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#Array2DRowRealMatrix(double[][]):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#getDataRef():255",
+        "line_number": "255"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):262",
+        "line_number": "262"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):263",
+        "line_number": "263"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):266",
+        "line_number": "266"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):270",
+        "line_number": "270"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):271",
+        "line_number": "271"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):276",
+        "line_number": "276"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):279",
+        "line_number": "279"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):280",
+        "line_number": "280"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):281",
+        "line_number": "281"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):284",
+        "line_number": "284"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):286",
+        "line_number": "286"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setSubMatrix(double[][],int,int):290",
+        "line_number": "290"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#getEntry(int,int):295",
+        "line_number": "295"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#getEntry(int,int):296",
+        "line_number": "296"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setEntry(int,int,double):302",
+        "line_number": "302"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setEntry(int,int,double):303",
+        "line_number": "303"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#setEntry(int,int,double):304",
+        "line_number": "304"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#getRowDimension():323",
+        "line_number": "323"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#getColumnDimension():329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#copyIn(double[][]):526",
+        "line_number": "526"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.Array2DRowRealMatrix",
+        "rest": "#copyIn(double[][]):527",
+        "line_number": "527"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#<clinit>():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#<clinit>():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkMatrixIndex(org.apache.commons.math3.linear.AnyMatrix,int,int):379",
+        "line_number": "379"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkMatrixIndex(org.apache.commons.math3.linear.AnyMatrix,int,int):380",
+        "line_number": "380"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkMatrixIndex(org.apache.commons.math3.linear.AnyMatrix,int,int):381",
+        "line_number": "381"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkRowIndex(org.apache.commons.math3.linear.AnyMatrix,int):391",
+        "line_number": "391"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkRowIndex(org.apache.commons.math3.linear.AnyMatrix,int):396",
+        "line_number": "396"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkColumnIndex(org.apache.commons.math3.linear.AnyMatrix,int):406",
+        "line_number": "406"
+    },
+    {
+        "class_name": "org.apache.commons.math3.linear.MatrixUtils",
+        "rest": "#checkColumnIndex(org.apache.commons.math3.linear.AnyMatrix,int):410",
+        "line_number": "410"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#<clinit>():70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,double):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,double):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,double):90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,double):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,double):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,int):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,int):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,int):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,int):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#compareTo(double,double,int):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,double):264",
+        "line_number": "264"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):300",
+        "line_number": "300"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):301",
+        "line_number": "301"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):304",
+        "line_number": "304"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):305",
+        "line_number": "305"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):307",
+        "line_number": "307"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):311",
+        "line_number": "311"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.Precision",
+        "rest": "#equals(double,double,int):313",
+        "line_number": "313"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():126",
+        "line_number": "126"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():158",
+        "line_number": "158"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():196",
+        "line_number": "196"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():254",
+        "line_number": "254"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():283",
+        "line_number": "283"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#<clinit>():286",
+        "line_number": "286"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#abs(long):2909",
+        "line_number": "2909"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.FastMath",
+        "rest": "#abs(double):2927",
+        "line_number": "2927"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathUtils",
+        "rest": "#checkNotNull(java.lang.Object):257",
+        "line_number": "257"
+    },
+    {
+        "class_name": "org.apache.commons.math3.util.MathUtils",
+        "rest": "#checkNotNull(java.lang.Object):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math3.exception.util.Localizable,java.lang.Object[]):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math3.exception.util.Localizable,java.lang.Object[]):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math3.exception.util.Localizable,java.lang.Object[]):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math3.exception.util.Localizable,java.lang.Object[]):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException():70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#getContext():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MathIllegalStateException",
+        "rest": "#getLocalizedMessage():86",
+        "line_number": "86"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(java.lang.Number):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(java.lang.Number):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math3.exception.util.Localizable,java.lang.Number,java.lang.Object[]):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math3.exception.util.Localizable,java.lang.Number,java.lang.Object[]):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math3.exception.util.Localizable,java.lang.Number,java.lang.Object[]):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math3.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math3.exception.util.Localizable,java.lang.Number,java.lang.Object[]):56",
+        "line_number": "56"
+    }
+]

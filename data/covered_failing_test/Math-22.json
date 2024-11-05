@@ -1,0 +1,268 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+        "start_line": 70,
+        "end_line": 72,
+        "name": "AbstractRealDistribution",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 35,
+        "end_line": 37,
+        "name": "BitsStreamGenerator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 164,
+        "end_line": 166,
+        "name": "clear",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "AbstractWell",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 94,
+        "end_line": 122,
+        "name": "AbstractWell",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 152,
+        "end_line": 170,
+        "name": "setSeed",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 177,
+        "end_line": 180,
+        "name": "setSeed",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "Well19937c",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataImpl.java",
+        "start_line": 108,
+        "end_line": 110,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+        "start_line": 128,
+        "end_line": 129,
+        "name": "RandomDataGenerator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 62,
+        "end_line": 65,
+        "name": "UniformRealDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 75,
+        "end_line": 78,
+        "name": "UniformRealDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 90,
+        "end_line": 105,
+        "name": "UniformRealDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 108,
+        "end_line": 113,
+        "name": "density",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 173,
+        "end_line": 175,
+        "name": "getSupportUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/UniformRealDistribution.java",
+        "start_line": 183,
+        "end_line": 185,
+        "name": "isSupportUpperBoundInclusive",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 62,
+        "end_line": 67,
+        "name": "FDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 82,
+        "end_line": 88,
+        "name": "FDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 103,
+        "end_line": 121,
+        "name": "FDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 128,
+        "end_line": 139,
+        "name": "density",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 257,
+        "end_line": 259,
+        "name": "getSupportLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 274,
+        "end_line": 276,
+        "name": "isSupportLowerBoundInclusive",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 806,
+        "end_line": 808,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 817,
+        "end_line": 932,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1095,
+        "end_line": 1097,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1105,
+        "end_line": 1329,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1337,
+        "end_line": 1367,
+        "name": "log1p",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3303,
+        "end_line": 3324,
+        "name": "floor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6141,
+        "end_line": 6143,
+        "name": "loadExpIntA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6149,
+        "end_line": 6151,
+        "name": "loadExpIntB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6157,
+        "end_line": 6159,
+        "name": "loadExpFracA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6165,
+        "end_line": 6167,
+        "name": "loadExpFracB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Beta.java",
+        "start_line": 169,
+        "end_line": 171,
+        "name": "logBeta",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Beta.java",
+        "start_line": 190,
+        "end_line": 206,
+        "name": "logBeta",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 243,
+        "end_line": 267,
+        "name": "logGamma",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 529,
+        "end_line": 609,
+        "name": "invGamma1pm1",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 621,
+        "end_line": 632,
+        "name": "logGamma1p",
+        "failing_tests_count": 1
+    }
+]

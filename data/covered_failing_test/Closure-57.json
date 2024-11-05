@@ -1,0 +1,1584 @@
+[
+    {
+        "file": "src/com/google/javascript/jscomp/ClosureCodingConvention.java",
+        "start_line": 183,
+        "end_line": 186,
+        "name": "extractClassNameIfRequire",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ClosureCodingConvention.java",
+        "start_line": 188,
+        "end_line": 204,
+        "name": "extractClassNameIfGoog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 97,
+        "end_line": 103,
+        "name": "DiagnosticType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 53,
+        "end_line": 55,
+        "name": "error",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "warning",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 75,
+        "end_line": 78,
+        "name": "disabled",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 88,
+        "end_line": 92,
+        "name": "make",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 113,
+        "end_line": 117,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticType.java",
+        "start_line": 119,
+        "end_line": 122,
+        "name": "hashCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CheckLevel.java",
+        "start_line": 29,
+        "end_line": 31,
+        "name": "isOn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 183,
+        "end_line": 185,
+        "name": "Compiler",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 191,
+        "end_line": 194,
+        "name": "Compiler",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 209,
+        "end_line": 213,
+        "name": "setErrorManager",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 219,
+        "end_line": 222,
+        "name": "createMessageFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 228,
+        "end_line": 291,
+        "name": "initOptions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 867,
+        "end_line": 874,
+        "name": "newTracer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 876,
+        "end_line": 881,
+        "name": "stopTracer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1307,
+        "end_line": 1313,
+        "name": "initCompilerOptionsIfTesting",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1321,
+        "end_line": 1331,
+        "name": "parseTestCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1333,
+        "end_line": 1336,
+        "name": "getDefaultErrorReporter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1685,
+        "end_line": 1691,
+        "name": "prepareAst",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1709,
+        "end_line": 1712,
+        "name": "addChangeHandler",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1731,
+        "end_line": 1736,
+        "name": "getCodingConvention",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1738,
+        "end_line": 1741,
+        "name": "isIdeMode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1757,
+        "end_line": 1760,
+        "name": "acceptConstKeyword",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1762,
+        "end_line": 1787,
+        "name": "getParserConfig",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1803,
+        "end_line": 1805,
+        "name": "getDiagnosticGroups",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1848,
+        "end_line": 1850,
+        "name": "getErrorCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1859,
+        "end_line": 1862,
+        "name": "hasHaltingErrors",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 73,
+        "end_line": 101,
+        "name": "RhinoErrorReporter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 68,
+        "end_line": 71,
+        "name": "replacePlaceHolders",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 103,
+        "end_line": 106,
+        "name": "forNewRhino",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 108,
+        "end_line": 110,
+        "name": "forOldRhino",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 143,
+        "end_line": 145,
+        "name": "OldRhinoErrorReporter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/ScriptRuntime.java",
+        "start_line": 420,
+        "end_line": 423,
+        "name": "getMessage0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/ScriptRuntime.java",
+        "start_line": 456,
+        "end_line": 483,
+        "name": "getMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Context.java",
+        "start_line": 399,
+        "end_line": 401,
+        "name": "getCurrentContext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/RhinoErrorReporter.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "NewRhinoErrorReporter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PassFactory.java",
+        "start_line": 42,
+        "end_line": 45,
+        "name": "PassFactory",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CodeChangeHandler.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "hasCodeChanged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 738,
+        "end_line": 884,
+        "name": "CompilerOptions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 999,
+        "end_line": 1001,
+        "name": "enables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1007,
+        "end_line": 1009,
+        "name": "disables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1014,
+        "end_line": 1016,
+        "name": "setWarningLevel",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1018,
+        "end_line": 1020,
+        "name": "getWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1040,
+        "end_line": 1042,
+        "name": "addWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1124,
+        "end_line": 1126,
+        "name": "shouldColorizeErrorOutput",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1165,
+        "end_line": 1167,
+        "name": "getCodingConvention",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1241,
+        "end_line": 1243,
+        "name": "getLanguageIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+        "start_line": 83,
+        "end_line": 85,
+        "name": "getPriority",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+        "start_line": 94,
+        "end_line": 96,
+        "name": "disables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+        "start_line": 105,
+        "end_line": 107,
+        "name": "enables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 78,
+        "end_line": 80,
+        "name": "ComposeWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "ComposeWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 86,
+        "end_line": 96,
+        "name": "addGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 98,
+        "end_line": 102,
+        "name": "addGuards",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 115,
+        "end_line": 133,
+        "name": "disables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 139,
+        "end_line": 150,
+        "name": "enables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "GuardComparator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ComposeWarningsGuard.java",
+        "start_line": 60,
+        "end_line": 71,
+        "name": "compare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/AnonymousFunctionNamingPolicy.java",
+        "start_line": 47,
+        "end_line": 49,
+        "name": "AnonymousFunctionNamingPolicy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerOptions.java",
+        "start_line": 1355,
+        "end_line": 1357,
+        "name": "isOn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ErrorFormat.java",
+        "start_line": 35,
+        "end_line": 42,
+        "name": "toFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/BasicErrorManager.java",
+        "start_line": 74,
+        "end_line": 77,
+        "name": "getErrorCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/LoggerErrorManager.java",
+        "start_line": 37,
+        "end_line": 40,
+        "name": "LoggerErrorManager",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/AbstractMessageFormatter.java",
+        "start_line": 32,
+        "end_line": 34,
+        "name": "AbstractMessageFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/AbstractMessageFormatter.java",
+        "start_line": 36,
+        "end_line": 38,
+        "name": "setColorize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/LightweightMessageFormatter.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "LightweightMessageFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/LightweightMessageFormatter.java",
+        "start_line": 47,
+        "end_line": 52,
+        "name": "LightweightMessageFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroups.java",
+        "start_line": 31,
+        "end_line": 31,
+        "name": "DiagnosticGroups",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroups.java",
+        "start_line": 42,
+        "end_line": 47,
+        "name": "registerGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroups.java",
+        "start_line": 49,
+        "end_line": 54,
+        "name": "registerGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroups.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "getRegisteredGroups",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 46,
+        "end_line": 49,
+        "name": "DiagnosticGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "DiagnosticGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 61,
+        "end_line": 64,
+        "name": "DiagnosticGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 88,
+        "end_line": 97,
+        "name": "DiagnosticGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 71,
+        "end_line": 76,
+        "name": "forType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 110,
+        "end_line": 112,
+        "name": "matches",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 117,
+        "end_line": 124,
+        "name": "isSubGroup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroup.java",
+        "start_line": 129,
+        "end_line": 131,
+        "name": "getTypes",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 122,
+        "end_line": 124,
+        "name": "TweakFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 126,
+        "end_line": 129,
+        "name": "TweakFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 131,
+        "end_line": 134,
+        "name": "TweakFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 136,
+        "end_line": 138,
+        "name": "TweakFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 140,
+        "end_line": 148,
+        "name": "TweakFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessTweaks.java",
+        "start_line": 163,
+        "end_line": 165,
+        "name": "getName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/jstype/ObjectType.java",
+        "start_line": 221,
+        "end_line": 223,
+        "name": "createDelegateSuffix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SyntacticScopeCreator.java",
+        "start_line": 56,
+        "end_line": 59,
+        "name": "SyntacticScopeCreator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+        "start_line": 32,
+        "end_line": 36,
+        "name": "DiagnosticGroupWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+        "start_line": 43,
+        "end_line": 46,
+        "name": "disables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/DiagnosticGroupWarningsGuard.java",
+        "start_line": 48,
+        "end_line": 59,
+        "name": "enables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/WarningsGuard.java",
+        "start_line": 58,
+        "end_line": 60,
+        "name": "Priority",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SuppressDocWarningsGuard.java",
+        "start_line": 40,
+        "end_line": 49,
+        "name": "SuppressDocWarningsGuard",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SuppressDocWarningsGuard.java",
+        "start_line": 90,
+        "end_line": 95,
+        "name": "getPriority",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "CompilerInput",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 77,
+        "end_line": 86,
+        "name": "CompilerInput",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 88,
+        "end_line": 90,
+        "name": "CompilerInput",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "CompilerInput",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 97,
+        "end_line": 100,
+        "name": "getInputId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/CompilerInput.java",
+        "start_line": 119,
+        "end_line": 128,
+        "name": "getAstRoot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 86,
+        "end_line": 94,
+        "name": "SourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 139,
+        "end_line": 141,
+        "name": "getCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 155,
+        "end_line": 157,
+        "name": "setCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 163,
+        "end_line": 165,
+        "name": "setOriginalPath",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 181,
+        "end_line": 184,
+        "name": "getName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 193,
+        "end_line": 195,
+        "name": "setIsExtern",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 314,
+        "end_line": 316,
+        "name": "fromCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JSSourceFile.java",
+        "start_line": 72,
+        "end_line": 75,
+        "name": "JSSourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JSSourceFile.java",
+        "start_line": 55,
+        "end_line": 57,
+        "name": "fromCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JSSourceFile.java",
+        "start_line": 77,
+        "end_line": 80,
+        "name": "getCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 355,
+        "end_line": 357,
+        "name": "Preloaded",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 359,
+        "end_line": 363,
+        "name": "Preloaded",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JsAst.java",
+        "start_line": 44,
+        "end_line": 48,
+        "name": "JsAst",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JsAst.java",
+        "start_line": 50,
+        "end_line": 57,
+        "name": "getAstRoot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JsAst.java",
+        "start_line": 68,
+        "end_line": 71,
+        "name": "getInputId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JsAst.java",
+        "start_line": 73,
+        "end_line": 76,
+        "name": "getSourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/JsAst.java",
+        "start_line": 84,
+        "end_line": 106,
+        "name": "parse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/InputId.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "InputId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/InputId.java",
+        "start_line": 59,
+        "end_line": 62,
+        "name": "hashCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Compiler.java",
+        "start_line": 1743,
+        "end_line": 1751,
+        "name": "acceptEcmaScript5",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/ParserRunner.java",
+        "start_line": 60,
+        "end_line": 74,
+        "name": "createConfig",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/ParserRunner.java",
+        "start_line": 76,
+        "end_line": 84,
+        "name": "initResourceConfig",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/ParserRunner.java",
+        "start_line": 86,
+        "end_line": 93,
+        "name": "extractList",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/ParserRunner.java",
+        "start_line": 104,
+        "end_line": 147,
+        "name": "parse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/Config.java",
+        "start_line": 73,
+        "end_line": 82,
+        "name": "Config",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/Config.java",
+        "start_line": 88,
+        "end_line": 101,
+        "name": "buildAnnotationNames",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 121,
+        "end_line": 151,
+        "name": "IRFactory",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 156,
+        "end_line": 161,
+        "name": "createTemplateNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 163,
+        "end_line": 186,
+        "name": "transformTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 188,
+        "end_line": 200,
+        "name": "setFileOverviewJsDoc",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 251,
+        "end_line": 261,
+        "name": "handleJsDoc",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 263,
+        "end_line": 271,
+        "name": "transform",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 273,
+        "end_line": 281,
+        "name": "transformNameAsString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 304,
+        "end_line": 323,
+        "name": "setSourceInfo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 359,
+        "end_line": 363,
+        "name": "maybeSetLengthFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 365,
+        "end_line": 373,
+        "name": "position2charno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 375,
+        "end_line": 377,
+        "name": "justTransform",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1078,
+        "end_line": 1268,
+        "name": "transformTokenType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1271,
+        "end_line": 1273,
+        "name": "newNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1275,
+        "end_line": 1277,
+        "name": "newNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1279,
+        "end_line": 1281,
+        "name": "newNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1287,
+        "end_line": 1289,
+        "name": "newStringNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 1291,
+        "end_line": 1293,
+        "name": "newStringNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 456,
+        "end_line": 460,
+        "name": "Node",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 462,
+        "end_line": 474,
+        "name": "Node",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 476,
+        "end_line": 494,
+        "name": "Node",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 607,
+        "end_line": 609,
+        "name": "newString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 611,
+        "end_line": 613,
+        "name": "newString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 623,
+        "end_line": 625,
+        "name": "getType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 635,
+        "end_line": 637,
+        "name": "getFirstChild",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 639,
+        "end_line": 641,
+        "name": "getLastChild",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 643,
+        "end_line": 645,
+        "name": "getNext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 703,
+        "end_line": 714,
+        "name": "addChildToBack",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 841,
+        "end_line": 848,
+        "name": "lookupProperty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 857,
+        "end_line": 862,
+        "name": "clonePropsFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 864,
+        "end_line": 869,
+        "name": "removeProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 877,
+        "end_line": 890,
+        "name": "removeProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 892,
+        "end_line": 902,
+        "name": "getProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 928,
+        "end_line": 939,
+        "name": "putProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 941,
+        "end_line": 943,
+        "name": "putBooleanProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 945,
+        "end_line": 950,
+        "name": "putIntProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 952,
+        "end_line": 954,
+        "name": "createProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 956,
+        "end_line": 958,
+        "name": "createProp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1236,
+        "end_line": 1238,
+        "name": "setStaticSourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1245,
+        "end_line": 1248,
+        "name": "getSourceFileName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1251,
+        "end_line": 1253,
+        "name": "getStaticSourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1258,
+        "end_line": 1260,
+        "name": "setInputId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1265,
+        "end_line": 1267,
+        "name": "getInputId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1282,
+        "end_line": 1284,
+        "name": "getLineno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1286,
+        "end_line": 1288,
+        "name": "getCharno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1301,
+        "end_line": 1307,
+        "name": "setLineno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1309,
+        "end_line": 1311,
+        "name": "setCharno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1332,
+        "end_line": 1340,
+        "name": "mergeLineCharNo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1346,
+        "end_line": 1352,
+        "name": "extractLineno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1358,
+        "end_line": 1364,
+        "name": "extractCharno",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 1938,
+        "end_line": 1952,
+        "name": "getQualifiedName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2199,
+        "end_line": 2201,
+        "name": "getJsDocBuilderForNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2233,
+        "end_line": 2235,
+        "name": "getJSDocInfo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2240,
+        "end_line": 2242,
+        "name": "setJSDocInfo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2284,
+        "end_line": 2286,
+        "name": "setIsSyntheticBlock",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/TypeSafeDispatcher.java",
+        "start_line": 118,
+        "end_line": 282,
+        "name": "process",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 398,
+        "end_line": 411,
+        "name": "transformAsString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 440,
+        "end_line": 448,
+        "name": "processAstRoot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 459,
+        "end_line": 474,
+        "name": "parseDirectives",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 476,
+        "end_line": 483,
+        "name": "isDirective",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 559,
+        "end_line": 564,
+        "name": "processExpressionStatement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 586,
+        "end_line": 599,
+        "name": "processFunctionCall",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 725,
+        "end_line": 728,
+        "name": "processName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 730,
+        "end_line": 742,
+        "name": "processName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 747,
+        "end_line": 749,
+        "name": "isReservedKeyword",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 822,
+        "end_line": 828,
+        "name": "processPropertyGet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/parsing/IRFactory.java",
+        "start_line": 862,
+        "end_line": 866,
+        "name": "processStringLiteral",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 372,
+        "end_line": 375,
+        "name": "AbstractPropListItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 377,
+        "end_line": 380,
+        "name": "getType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 382,
+        "end_line": 385,
+        "name": "getNext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 398,
+        "end_line": 401,
+        "name": "ObjectPropListItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 408,
+        "end_line": 411,
+        "name": "getObjectValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 291,
+        "end_line": 297,
+        "name": "StringNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 311,
+        "end_line": 314,
+        "name": "getString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 430,
+        "end_line": 433,
+        "name": "IntPropListItem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 450,
+        "end_line": 453,
+        "name": "chain",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 235,
+        "end_line": 278,
+        "name": "Tracer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 407,
+        "end_line": 434,
+        "name": "stop",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 440,
+        "end_line": 442,
+        "name": "stop",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 958,
+        "end_line": 966,
+        "name": "getThreadTrace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 222,
+        "end_line": 225,
+        "name": "currentTimeMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/Tracer.java",
+        "start_line": 745,
+        "end_line": 747,
+        "name": "isInitialized",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 40,
+        "end_line": 42,
+        "name": "PrepareAst",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 44,
+        "end_line": 47,
+        "name": "PrepareAst",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 55,
+        "end_line": 73,
+        "name": "process",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 136,
+        "end_line": 138,
+        "name": "PrepareAnnotations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 140,
+        "end_line": 146,
+        "name": "shouldTraverse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 148,
+        "end_line": 160,
+        "name": "visit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/PrepareAst.java",
+        "start_line": 175,
+        "end_line": 191,
+        "name": "annotateCalls",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 203,
+        "end_line": 205,
+        "name": "NodeTraversal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 211,
+        "end_line": 221,
+        "name": "NodeTraversal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 253,
+        "end_line": 264,
+        "name": "traverse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 434,
+        "end_line": 438,
+        "name": "traverse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 452,
+        "end_line": 481,
+        "name": "traverseBranch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 538,
+        "end_line": 545,
+        "name": "pushScope",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 558,
+        "end_line": 568,
+        "name": "popScope",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeTraversal.java",
+        "start_line": 629,
+        "end_line": 632,
+        "name": "getSourceName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+        "start_line": 1510,
+        "end_line": 1513,
+        "name": "isGet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+        "start_line": 1604,
+        "end_line": 1607,
+        "name": "isExprCall",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/NodeUtil.java",
+        "start_line": 2970,
+        "end_line": 2976,
+        "name": "getInputId",
+        "failing_tests_count": 1
+    }
+]

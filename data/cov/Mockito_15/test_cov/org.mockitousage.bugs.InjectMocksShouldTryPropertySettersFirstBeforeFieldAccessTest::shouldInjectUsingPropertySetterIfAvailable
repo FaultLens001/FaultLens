@@ -1,0 +1,47 @@
+[
+    {
+        "class_name": "org.mockitousage.bugs.InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest",
+        "rest": "#InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockitousage.bugs.InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest",
+        "rest": "#shouldInjectUsingPropertySetterIfAvailable():25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "#MockitoConfiguration():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "#MockitoConfiguration():17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "#getAnnotationEngine():47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "#getAnnotationEngine():50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "$1#createMockFor(java.lang.annotation.Annotation,java.lang.reflect.Field):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.configuration.MockitoConfiguration",
+        "rest": "$1#createMockFor(java.lang.annotation.Annotation,java.lang.reflect.Field):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.mockitousage.bugs.InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest",
+        "rest": "$BeanAwaitingInjection#InjectMocksShouldTryPropertySettersFirstBeforeFieldAccessTest$BeanAwaitingInjection():33",
+        "line_number": "33"
+    }
+]

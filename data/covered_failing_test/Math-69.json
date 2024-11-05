@@ -1,0 +1,296 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 67,
+        "end_line": 69,
+        "name": "PearsonsCorrelation",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 77,
+        "end_line": 81,
+        "name": "PearsonsCorrelation",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 160,
+        "end_line": 176,
+        "name": "getCorrelationPValues",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 186,
+        "end_line": 198,
+        "name": "computeCorrelationMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 224,
+        "end_line": 237,
+        "name": "correlation",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/correlation/PearsonsCorrelation.java",
+        "start_line": 272,
+        "end_line": 280,
+        "name": "checkSufficientData",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 54,
+        "end_line": 67,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 95,
+        "end_line": 109,
+        "name": "BlockRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 124,
+        "end_line": 127,
+        "name": "BlockRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 144,
+        "end_line": 179,
+        "name": "BlockRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 203,
+        "end_line": 251,
+        "name": "toBlocksLayout",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 265,
+        "end_line": 287,
+        "name": "createBlocksLayout",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1181,
+        "end_line": 1203,
+        "name": "getColumn",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1234,
+        "end_line": 1248,
+        "name": "getEntry",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1251,
+        "end_line": 1265,
+        "name": "setEntry",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1343,
+        "end_line": 1346,
+        "name": "getRowDimension",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1349,
+        "end_line": 1352,
+        "name": "getColumnDimension",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1674,
+        "end_line": 1676,
+        "name": "blockHeight",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/BlockRealMatrix.java",
+        "start_line": 1683,
+        "end_line": 1685,
+        "name": "blockWidth",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+        "start_line": 542,
+        "end_line": 548,
+        "name": "checkColumnIndex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 93,
+        "end_line": 95,
+        "name": "SimpleRegression",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 103,
+        "end_line": 106,
+        "name": "SimpleRegression",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 121,
+        "end_line": 141,
+        "name": "addData",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 297,
+        "end_line": 305,
+        "name": "getSlope",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 336,
+        "end_line": 338,
+        "name": "getSumSquaredErrors",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 350,
+        "end_line": 355,
+        "name": "getTotalSumSquares",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 431,
+        "end_line": 438,
+        "name": "getR",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 454,
+        "end_line": 457,
+        "name": "getRSquare",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/regression/SimpleRegression.java",
+        "start_line": 613,
+        "end_line": 620,
+        "name": "setDistribution",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 38,
+        "end_line": 40,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 60,
+        "end_line": 64,
+        "name": "TDistributionImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 70,
+        "end_line": 72,
+        "name": "TDistributionImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 79,
+        "end_line": 82,
+        "name": "setDegreesOfFreedom",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 87,
+        "end_line": 94,
+        "name": "setDegreesOfFreedomInternal",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 126,
+        "end_line": 144,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 51,
+        "end_line": 55,
+        "name": "regularizedBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 116,
+        "end_line": 157,
+        "name": "regularizedBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 187,
+        "end_line": 200,
+        "name": "logBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 45,
+        "end_line": 47,
+        "name": "ContinuedFraction",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 125,
+        "end_line": 206,
+        "name": "evaluate",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 94,
+        "end_line": 114,
+        "name": "logGamma",
+        "failing_tests_count": 2
+    }
+]

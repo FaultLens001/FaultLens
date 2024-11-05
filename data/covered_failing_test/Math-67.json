@@ -1,0 +1,226 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 60,
+        "end_line": 69,
+        "name": "ConvergingAlgorithmImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 72,
+        "end_line": 74,
+        "name": "getIterationCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 77,
+        "end_line": 79,
+        "name": "setAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "getAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "setMaximalIterationCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 107,
+        "end_line": 109,
+        "name": "setRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 112,
+        "end_line": 114,
+        "name": "getRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 61,
+        "end_line": 66,
+        "name": "AbstractUnivariateRealOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 71,
+        "end_line": 75,
+        "name": "checkResultComputed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 78,
+        "end_line": 81,
+        "name": "getResult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "getFunctionValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 96,
+        "end_line": 102,
+        "name": "setResult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 107,
+        "end_line": 109,
+        "name": "clearResult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 112,
+        "end_line": 114,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 122,
+        "end_line": 124,
+        "name": "getEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 134,
+        "end_line": 142,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "BrentOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 54,
+        "end_line": 59,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 85,
+        "end_line": 189,
+        "name": "localMin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 78,
+        "end_line": 88,
+        "name": "MultiStartUnivariateRealOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 96,
+        "end_line": 98,
+        "name": "getResult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "getAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 126,
+        "end_line": 128,
+        "name": "getRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 146,
+        "end_line": 148,
+        "name": "setAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 151,
+        "end_line": 153,
+        "name": "setMaximalIterationCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 156,
+        "end_line": 158,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "setRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 192,
+        "end_line": 197,
+        "name": "getOptima",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 218,
+        "end_line": 223,
+        "name": "getOptimaValues",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 226,
+        "end_line": 310,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/LocalizedFormats.java",
+        "start_line": 305,
+        "end_line": 307,
+        "name": "LocalizedFormats",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathRuntimeException.java",
+        "start_line": 442,
+        "end_line": 462,
+        "name": "createIllegalStateException",
+        "failing_tests_count": 1
+    }
+]

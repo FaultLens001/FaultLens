@@ -1,0 +1,191 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 39,
+        "end_line": 41,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractIntegerDistribution.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "AbstractIntegerDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java",
+        "start_line": 79,
+        "end_line": 81,
+        "name": "PoissonDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/PoissonDistributionImpl.java",
+        "start_line": 92,
+        "end_line": 100,
+        "name": "PoissonDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+        "start_line": 119,
+        "end_line": 120,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 61,
+        "end_line": 63,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "NormalDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 77,
+        "end_line": 82,
+        "name": "NormalDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 113,
+        "end_line": 115,
+        "name": "setMeanInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 140,
+        "end_line": 147,
+        "name": "setStandardDeviationInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 218,
+        "end_line": 220,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 679,
+        "end_line": 706,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 713,
+        "end_line": 723,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 729,
+        "end_line": 742,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 749,
+        "end_line": 755,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 762,
+        "end_line": 767,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 787,
+        "end_line": 815,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 822,
+        "end_line": 869,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 876,
+        "end_line": 914,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1395,
+        "end_line": 1437,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1445,
+        "end_line": 1479,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1487,
+        "end_line": 1522,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1526,
+        "end_line": 1618,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+        "start_line": 316,
+        "end_line": 318,
+        "name": "LocalizedFormats",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/util/LocalizedFormats.java",
+        "start_line": 326,
+        "end_line": 343,
+        "name": "getLocalizedString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathRuntimeException.java",
+        "start_line": 134,
+        "end_line": 137,
+        "name": "buildMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathRuntimeException.java",
+        "start_line": 385,
+        "end_line": 405,
+        "name": "createIllegalArgumentException",
+        "failing_tests_count": 1
+    }
+]

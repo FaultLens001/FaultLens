@@ -1,0 +1,254 @@
+[
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 688,
+        "end_line": 693,
+        "name": "DateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 132,
+        "end_line": 162,
+        "name": "getDefault",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 173,
+        "end_line": 184,
+        "name": "setDefault",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 202,
+        "end_line": 224,
+        "name": "forID",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 301,
+        "end_line": 338,
+        "name": "forTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 414,
+        "end_line": 431,
+        "name": "setProvider0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 442,
+        "end_line": 474,
+        "name": "getDefaultProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 513,
+        "end_line": 518,
+        "name": "setNameProvider0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 528,
+        "end_line": 549,
+        "name": "getDefaultNameProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 558,
+        "end_line": 598,
+        "name": "getConvertedId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 703,
+        "end_line": 706,
+        "name": "getID",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 36,
+        "end_line": 42,
+        "name": "FixedDateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 87,
+        "end_line": 99,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 103,
+        "end_line": 124,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 135,
+        "end_line": 163,
+        "name": "getZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 170,
+        "end_line": 175,
+        "name": "getAvailableIDs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 194,
+        "end_line": 215,
+        "name": "openResource",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 223,
+        "end_line": 242,
+        "name": "loadZoneData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 251,
+        "end_line": 264,
+        "name": "loadZoneInfoMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 272,
+        "end_line": 289,
+        "name": "readZoneInfoMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 39,
+        "end_line": 40,
+        "name": "DefaultNameProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 86,
+        "end_line": 88,
+        "name": "createCache",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 94,
+        "end_line": 100,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 109,
+        "end_line": 125,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 182,
+        "end_line": 211,
+        "name": "readMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1497,
+        "end_line": 1506,
+        "name": "PrecalculatedZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1339,
+        "end_line": 1377,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1174,
+        "end_line": 1180,
+        "name": "DSTZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1165,
+        "end_line": 1168,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 747,
+        "end_line": 751,
+        "name": "Recurrence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 739,
+        "end_line": 741,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 499,
+        "end_line": 515,
+        "name": "OfYear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 481,
+        "end_line": 488,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 86,
+        "end_line": 90,
+        "name": "CachedDateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 67,
+        "end_line": 72,
+        "name": "forZone",
+        "failing_tests_count": 1
+    }
+]

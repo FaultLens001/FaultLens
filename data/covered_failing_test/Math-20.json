@@ -1,0 +1,1220 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 66,
+        "end_line": 68,
+        "name": "BaseAbstractMultivariateOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "getMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "getConvergenceChecker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 93,
+        "end_line": 100,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 103,
+        "end_line": 106,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 125,
+        "end_line": 149,
+        "name": "optimizeInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 154,
+        "end_line": 156,
+        "name": "getGoalType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateOptimizer.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "getStartPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java",
+        "start_line": 65,
+        "end_line": 67,
+        "name": "BaseAbstractMultivariateSimpleBoundsOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java",
+        "start_line": 72,
+        "end_line": 74,
+        "name": "getLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java",
+        "start_line": 79,
+        "end_line": 81,
+        "name": "getUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateSimpleBoundsOptimizer.java",
+        "start_line": 91,
+        "end_line": 141,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 239,
+        "end_line": 241,
+        "name": "CMAESOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 246,
+        "end_line": 250,
+        "name": "CMAESOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 277,
+        "end_line": 285,
+        "name": "CMAESOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 302,
+        "end_line": 317,
+        "name": "CMAESOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 348,
+        "end_line": 493,
+        "name": "doOptimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 498,
+        "end_line": 553,
+        "name": "checkParameters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 560,
+        "end_line": 627,
+        "name": "initializeCMA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 637,
+        "end_line": 651,
+        "name": "updateEvolutionPaths",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 694,
+        "end_line": 760,
+        "name": "updateCovariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 767,
+        "end_line": 796,
+        "name": "updateBD",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 804,
+        "end_line": 809,
+        "name": "push",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 817,
+        "end_line": 828,
+        "name": "sortedIndices",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1024,
+        "end_line": 1032,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1039,
+        "end_line": 1047,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1053,
+        "end_line": 1062,
+        "name": "square",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1069,
+        "end_line": 1077,
+        "name": "times",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1084,
+        "end_line": 1092,
+        "name": "divide",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1099,
+        "end_line": 1107,
+        "name": "selectColumns",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1114,
+        "end_line": 1122,
+        "name": "triu",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1128,
+        "end_line": 1138,
+        "name": "sumRows",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1145,
+        "end_line": 1159,
+        "name": "diag",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1169,
+        "end_line": 1173,
+        "name": "copyColumn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1180,
+        "end_line": 1186,
+        "name": "ones",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1193,
+        "end_line": 1201,
+        "name": "eye",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1208,
+        "end_line": 1210,
+        "name": "zeros",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1218,
+        "end_line": 1228,
+        "name": "repmat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1236,
+        "end_line": 1245,
+        "name": "sequence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1251,
+        "end_line": 1262,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1268,
+        "end_line": 1279,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1285,
+        "end_line": 1293,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1299,
+        "end_line": 1307,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1313,
+        "end_line": 1319,
+        "name": "inverse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1325,
+        "end_line": 1331,
+        "name": "reverse",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1350,
+        "end_line": 1358,
+        "name": "randn1",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 35,
+        "end_line": 37,
+        "name": "BitsStreamGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 84,
+        "end_line": 88,
+        "name": "nextDouble",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 96,
+        "end_line": 115,
+        "name": "nextGaussian",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 164,
+        "end_line": 166,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 106,
+        "end_line": 109,
+        "name": "MersenneTwister",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 141,
+        "end_line": 155,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 164,
+        "end_line": 207,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 214,
+        "end_line": 217,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 228,
+        "end_line": 263,
+        "name": "next",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 374,
+        "end_line": 376,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1095,
+        "end_line": 1097,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1105,
+        "end_line": 1329,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1651,
+        "end_line": 1664,
+        "name": "polySine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1672,
+        "end_line": 1682,
+        "name": "polyCosine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1691,
+        "end_line": 1806,
+        "name": "sinQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1815,
+        "end_line": 1824,
+        "name": "cosQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2200,
+        "end_line": 2259,
+        "name": "sin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2267,
+        "end_line": 2313,
+        "name": "cos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2973,
+        "end_line": 2975,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2991,
+        "end_line": 2993,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3395,
+        "end_line": 3397,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3463,
+        "end_line": 3465,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3506,
+        "end_line": 3524,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java",
+        "start_line": 63,
+        "end_line": 67,
+        "name": "AbstractConvergenceChecker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "getRelativeThreshold",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/AbstractConvergenceChecker.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getAbsoluteThreshold",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 95,
+        "end_line": 102,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 271,
+        "end_line": 273,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 329,
+        "end_line": 344,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java",
+        "start_line": 40,
+        "end_line": 41,
+        "name": "SimpleValueChecker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/SimpleValueChecker.java",
+        "start_line": 73,
+        "end_line": 83,
+        "name": "converged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 61,
+        "end_line": 69,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 79,
+        "end_line": 86,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 95,
+        "end_line": 97,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 104,
+        "end_line": 106,
+        "name": "getMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 154,
+        "end_line": 158,
+        "name": "incrementCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 163,
+        "end_line": 165,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 895,
+        "end_line": 898,
+        "name": "FitnessFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 904,
+        "end_line": 914,
+        "name": "encode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 920,
+        "end_line": 923,
+        "name": "repairAndDecode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 929,
+        "end_line": 939,
+        "name": "decode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 945,
+        "end_line": 957,
+        "name": "value",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 981,
+        "end_line": 983,
+        "name": "setValueRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 989,
+        "end_line": 1001,
+        "name": "repair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 1008,
+        "end_line": 1015,
+        "name": "penalty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 56,
+        "end_line": 56,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 65,
+        "end_line": 74,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 77,
+        "end_line": 91,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 94,
+        "end_line": 108,
+        "name": "subtract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 111,
+        "end_line": 122,
+        "name": "scalarAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 125,
+        "end_line": 136,
+        "name": "scalarMultiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 139,
+        "end_line": 158,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 279,
+        "end_line": 302,
+        "name": "getFrobeniusNorm",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 464,
+        "end_line": 474,
+        "name": "getColumnMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 519,
+        "end_line": 530,
+        "name": "setColumnVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 533,
+        "end_line": 542,
+        "name": "getRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 558,
+        "end_line": 567,
+        "name": "getColumn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 597,
+        "end_line": 612,
+        "name": "transpose",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 615,
+        "end_line": 617,
+        "name": "isSquare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 872,
+        "end_line": 874,
+        "name": "walkInOptimizedOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 98,
+        "end_line": 101,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 112,
+        "end_line": 117,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 130,
+        "end_line": 143,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 206,
+        "end_line": 208,
+        "name": "getFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 214,
+        "end_line": 216,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 223,
+        "end_line": 225,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/CompositeFormat.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/CompositeFormat.java",
+        "start_line": 53,
+        "end_line": 57,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 58,
+        "end_line": 63,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 78,
+        "end_line": 81,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 99,
+        "end_line": 123,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 141,
+        "end_line": 145,
+        "name": "createMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 250,
+        "end_line": 253,
+        "name": "getData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 265,
+        "end_line": 298,
+        "name": "setSubMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 301,
+        "end_line": 305,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 308,
+        "end_line": 312,
+        "name": "setEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 333,
+        "end_line": 336,
+        "name": "getRowDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 339,
+        "end_line": 342,
+        "name": "getColumnDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 404,
+        "end_line": 416,
+        "name": "walkInRowOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 523,
+        "end_line": 531,
+        "name": "copyOut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 541,
+        "end_line": 544,
+        "name": "copyIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 80,
+        "end_line": 83,
+        "name": "createRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 127,
+        "end_line": 136,
+        "name": "createRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 215,
+        "end_line": 221,
+        "name": "createRealDiagonalMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 337,
+        "end_line": 348,
+        "name": "createColumnRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 386,
+        "end_line": 391,
+        "name": "checkMatrixIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 400,
+        "end_line": 407,
+        "name": "checkRowIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 416,
+        "end_line": 422,
+        "name": "checkColumnIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 504,
+        "end_line": 511,
+        "name": "checkAdditionCompatible",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 521,
+        "end_line": 528,
+        "name": "checkSubtractionCompatible",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 538,
+        "end_line": 545,
+        "name": "checkMultiplicationCompatible",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DefaultRealMatrixPreservingVisitor.java",
+        "start_line": 32,
+        "end_line": 34,
+        "name": "start",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DefaultRealMatrixPreservingVisitor.java",
+        "start_line": 40,
+        "end_line": 42,
+        "name": "end",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+        "start_line": 45,
+        "end_line": 48,
+        "name": "Pair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "getKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+        "start_line": 73,
+        "end_line": 75,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 45,
+        "end_line": 48,
+        "name": "PointValuePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 58,
+        "end_line": 65,
+        "name": "PointValuePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 72,
+        "end_line": 75,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3784,
+        "end_line": 3821,
+        "name": "CodyWaite",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3826,
+        "end_line": 3828,
+        "name": "getK",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3832,
+        "end_line": 3834,
+        "name": "getRemA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3838,
+        "end_line": 3840,
+        "name": "getRemB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 844,
+        "end_line": 847,
+        "name": "DoubleIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/CMAESOptimizer.java",
+        "start_line": 850,
+        "end_line": 852,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathArrays.java",
+        "start_line": 546,
+        "end_line": 550,
+        "name": "copyOf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 114,
+        "end_line": 123,
+        "name": "EigenDecomposition",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 190,
+        "end_line": 209,
+        "name": "isSymmetric",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 221,
+        "end_line": 232,
+        "name": "getV",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 245,
+        "end_line": 260,
+        "name": "getD",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 553,
+        "end_line": 558,
+        "name": "transformToTridiagonal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/EigenDecomposition.java",
+        "start_line": 566,
+        "end_line": 715,
+        "name": "findEigenVectors",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 62,
+        "end_line": 78,
+        "name": "TriDiagonalTransformer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 85,
+        "end_line": 90,
+        "name": "getQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 97,
+        "end_line": 132,
+        "name": "getQT",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 174,
+        "end_line": 176,
+        "name": "getMainDiagonalRef",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 184,
+        "end_line": 186,
+        "name": "getSecondaryDiagonalRef",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/TriDiagonalTransformer.java",
+        "start_line": 192,
+        "end_line": 253,
+        "name": "transform",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 262,
+        "end_line": 267,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 597,
+        "end_line": 605,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 608,
+        "end_line": 611,
+        "name": "getDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 105,
+        "end_line": 114,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 170,
+        "end_line": 172,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    }
+]

@@ -1,0 +1,587 @@
+[
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):105",
+        "line_number": "105"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String,boolean):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#CompilerTestCase(java.lang.String):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getOptions():140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getOptions():144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getOptions():146",
+        "line_number": "146"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getOptions():148",
+        "line_number": "148"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getOptions():149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#getCodingConvention():153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#enableLineNumberCheck(boolean):193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#enableLineNumberCheck(boolean):194",
+        "line_number": "194"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#enableNormalize(boolean):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#enableNormalize(boolean):225",
+        "line_number": "225"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#enableNormalize(boolean):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(java.lang.String,java.lang.String):263",
+        "line_number": "263"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType):275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType):306",
+        "line_number": "306"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):365",
+        "line_number": "365"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):366",
+        "line_number": "366"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):368",
+        "line_number": "368"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):371",
+        "line_number": "371"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):372",
+        "line_number": "372"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):375",
+        "line_number": "375"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.JSSourceFile[],java.lang.String,java.lang.String,com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):377",
+        "line_number": "377"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#testSame(java.lang.String):491",
+        "line_number": "491"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):666",
+        "line_number": "666"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):667",
+        "line_number": "667"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):669",
+        "line_number": "669"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):670",
+        "line_number": "670"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):673",
+        "line_number": "673"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):674",
+        "line_number": "674"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):677",
+        "line_number": "677"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):678",
+        "line_number": "678"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):679",
+        "line_number": "679"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):681",
+        "line_number": "681"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):682",
+        "line_number": "682"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):683",
+        "line_number": "683"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):684",
+        "line_number": "684"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):685",
+        "line_number": "685"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):687",
+        "line_number": "687"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):690",
+        "line_number": "690"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):691",
+        "line_number": "691"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):692",
+        "line_number": "692"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):698",
+        "line_number": "698"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):704",
+        "line_number": "704"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):705",
+        "line_number": "705"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):708",
+        "line_number": "708"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):713",
+        "line_number": "713"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):715",
+        "line_number": "715"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):716",
+        "line_number": "716"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):717",
+        "line_number": "717"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):720",
+        "line_number": "720"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):721",
+        "line_number": "721"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):722",
+        "line_number": "722"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):724",
+        "line_number": "724"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):725",
+        "line_number": "725"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):726",
+        "line_number": "726"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):732",
+        "line_number": "732"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):733",
+        "line_number": "733"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):738",
+        "line_number": "738"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):740",
+        "line_number": "740"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):741",
+        "line_number": "741"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):743",
+        "line_number": "743"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):744",
+        "line_number": "744"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):748",
+        "line_number": "748"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):753",
+        "line_number": "753"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):754",
+        "line_number": "754"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):781",
+        "line_number": "781"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):782",
+        "line_number": "782"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):785",
+        "line_number": "785"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):791",
+        "line_number": "791"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):795",
+        "line_number": "795"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):796",
+        "line_number": "796"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#test(com.google.javascript.jscomp.Compiler,java.lang.String[],com.google.javascript.jscomp.DiagnosticType,com.google.javascript.jscomp.DiagnosticType,java.lang.String):797",
+        "line_number": "797"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#normalizeActualCode(com.google.javascript.jscomp.Compiler,com.google.javascript.rhino.Node,com.google.javascript.rhino.Node):855",
+        "line_number": "855"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#normalizeActualCode(com.google.javascript.jscomp.Compiler,com.google.javascript.rhino.Node,com.google.javascript.rhino.Node):856",
+        "line_number": "856"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#normalizeActualCode(com.google.javascript.jscomp.Compiler,com.google.javascript.rhino.Node,com.google.javascript.rhino.Node):857",
+        "line_number": "857"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):863",
+        "line_number": "863"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):864",
+        "line_number": "864"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):865",
+        "line_number": "865"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):866",
+        "line_number": "866"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):868",
+        "line_number": "868"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):869",
+        "line_number": "869"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):870",
+        "line_number": "870"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):872",
+        "line_number": "872"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):873",
+        "line_number": "873"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):875",
+        "line_number": "875"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):876",
+        "line_number": "876"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):877",
+        "line_number": "877"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#parseExpectedJs(java.lang.String[]):879",
+        "line_number": "879"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#createCompiler():963",
+        "line_number": "963"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "#createCompiler():964",
+        "line_number": "964"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#CollapsePropertiesTest():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#CollapsePropertiesTest():31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#CollapsePropertiesTest():1083",
+        "line_number": "1083"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#CollapsePropertiesTest():35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#<clinit>():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#getProcessor(com.google.javascript.jscomp.Compiler):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#setUp():44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#setUp():45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#setUp():46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#getNumRepetitions():49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CollapsePropertiesTest",
+        "rest": "#testAliasCreatedForFunctionDepth1_1():279",
+        "line_number": "279"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "$BlackHoleErrorManager#CompilerTestCase$BlackHoleErrorManager(com.google.javascript.jscomp.Compiler):951",
+        "line_number": "951"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "$BlackHoleErrorManager#CompilerTestCase$BlackHoleErrorManager(com.google.javascript.jscomp.Compiler):952",
+        "line_number": "952"
+    },
+    {
+        "class_name": "com.google.javascript.jscomp.CompilerTestCase",
+        "rest": "$BlackHoleErrorManager#CompilerTestCase$BlackHoleErrorManager(com.google.javascript.jscomp.Compiler):953",
+        "line_number": "953"
+    }
+]

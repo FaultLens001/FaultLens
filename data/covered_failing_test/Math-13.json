@@ -1,0 +1,443 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/polynomials/PolynomialFunction.java",
+        "start_line": 67,
+        "end_line": 80,
+        "name": "PolynomialFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/polynomials/PolynomialFunction.java",
+        "start_line": 93,
+        "end_line": 95,
+        "name": "value",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/polynomials/PolynomialFunction.java",
+        "start_line": 128,
+        "end_line": 140,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 262,
+        "end_line": 267,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/CurveFitter.java",
+        "start_line": 69,
+        "end_line": 73,
+        "name": "CurveFitter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/CurveFitter.java",
+        "start_line": 108,
+        "end_line": 110,
+        "name": "addObservedPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/CurveFitter.java",
+        "start_line": 152,
+        "end_line": 154,
+        "name": "fit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/CurveFitter.java",
+        "start_line": 173,
+        "end_line": 198,
+        "name": "fit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/PolynomialFitter.java",
+        "start_line": 62,
+        "end_line": 65,
+        "name": "PolynomialFitter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/PolynomialFitter.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "fit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 79,
+        "end_line": 81,
+        "name": "BaseAbstractMultivariateVectorOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 225,
+        "end_line": 242,
+        "name": "optimizeInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 259,
+        "end_line": 261,
+        "name": "getWeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 319,
+        "end_line": 326,
+        "name": "setUp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 339,
+        "end_line": 356,
+        "name": "parseOptimizationData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/direct/BaseAbstractMultivariateVectorOptimizer.java",
+        "start_line": 364,
+        "end_line": 369,
+        "name": "checkParameters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 133,
+        "end_line": 135,
+        "name": "AbstractLeastSquaresOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 417,
+        "end_line": 428,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 490,
+        "end_line": 497,
+        "name": "optimizeInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 500,
+        "end_line": 522,
+        "name": "setUp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 561,
+        "end_line": 564,
+        "name": "squareRoot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 157,
+        "end_line": 159,
+        "name": "LevenbergMarquardtOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 265,
+        "end_line": 276,
+        "name": "LevenbergMarquardtOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 61,
+        "end_line": 69,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 79,
+        "end_line": 86,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 95,
+        "end_line": 97,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 163,
+        "end_line": 165,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 49,
+        "end_line": 53,
+        "name": "WeightedObservedPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 58,
+        "end_line": 60,
+        "name": "getWeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 72,
+        "end_line": 74,
+        "name": "getY",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/CurveFitter.java",
+        "start_line": 210,
+        "end_line": 212,
+        "name": "OldTheoreticalValuesFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/FunctionUtils.java",
+        "start_line": 670,
+        "end_line": 711,
+        "name": "toDifferentiableMultivariateVectorFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/FunctionUtils.java",
+        "start_line": 725,
+        "end_line": 789,
+        "name": "toMultivariateDifferentiableVectorFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/Target.java",
+        "start_line": 39,
+        "end_line": 41,
+        "name": "Target",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/Target.java",
+        "start_line": 48,
+        "end_line": 50,
+        "name": "getTarget",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/Weight.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "Weight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/Weight.java",
+        "start_line": 66,
+        "end_line": 68,
+        "name": "getWeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 56,
+        "end_line": 56,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 615,
+        "end_line": 617,
+        "name": "isSquare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 98,
+        "end_line": 101,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 112,
+        "end_line": 117,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 130,
+        "end_line": 143,
+        "name": "RealMatrixFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 206,
+        "end_line": 208,
+        "name": "getFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 214,
+        "end_line": 216,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealMatrixFormat.java",
+        "start_line": 223,
+        "end_line": 225,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/CompositeFormat.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/CompositeFormat.java",
+        "start_line": 53,
+        "end_line": 57,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 67,
+        "end_line": 69,
+        "name": "DiagonalMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 105,
+        "end_line": 108,
+        "name": "copy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 201,
+        "end_line": 211,
+        "name": "getData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 234,
+        "end_line": 239,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 288,
+        "end_line": 291,
+        "name": "getRowDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/DiagonalMatrix.java",
+        "start_line": 294,
+        "end_line": 297,
+        "name": "getColumnDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/InitialGuess.java",
+        "start_line": 37,
+        "end_line": 39,
+        "name": "InitialGuess",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/InitialGuess.java",
+        "start_line": 46,
+        "end_line": 48,
+        "name": "getInitialGuess",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 388,
+        "end_line": 414,
+        "name": "isSymmetricInternal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 438,
+        "end_line": 441,
+        "name": "isSymmetric",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 452,
+        "end_line": 457,
+        "name": "checkMatrixIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 466,
+        "end_line": 473,
+        "name": "checkRowIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 482,
+        "end_line": 488,
+        "name": "checkColumnIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3016,
+        "end_line": 3018,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3531,
+        "end_line": 3549,
+        "name": "max",
+        "failing_tests_count": 1
+    }
+]

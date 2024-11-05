@@ -1,0 +1,338 @@
+[
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 38,
+        "end_line": 40,
+        "name": "ChiSquareTestImpl",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 48,
+        "end_line": 51,
+        "name": "ChiSquareTestImpl",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 64,
+        "end_line": 81,
+        "name": "chiSquare",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 95,
+        "end_line": 100,
+        "name": "chiSquareTest",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 349,
+        "end_line": 356,
+        "name": "isPositive",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 366,
+        "end_line": 373,
+        "name": "isNonNegative",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/ChiSquareTestImpl.java",
+        "start_line": 401,
+        "end_line": 403,
+        "name": "setDistribution",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 37,
+        "end_line": 39,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "ChiSquaredDistributionImpl",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 52,
+        "end_line": 56,
+        "name": "ChiSquaredDistributionImpl",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "setDegreesOfFreedom",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 179,
+        "end_line": 182,
+        "name": "setGamma",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/ChiSquaredDistributionImpl.java",
+        "start_line": 188,
+        "end_line": 190,
+        "name": "getGamma",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 46,
+        "end_line": 50,
+        "name": "GammaDistributionImpl",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 69,
+        "end_line": 79,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 110,
+        "end_line": 115,
+        "name": "setAlpha",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "getAlpha",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 130,
+        "end_line": 135,
+        "name": "setBeta",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/GammaDistributionImpl.java",
+        "start_line": 141,
+        "end_line": 143,
+        "name": "getBeta",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TestUtils.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "getUnknownDistributionChiSquareTest",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "TTestImpl",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+        "start_line": 52,
+        "end_line": 55,
+        "name": "TTestImpl",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TTestImpl.java",
+        "start_line": 1066,
+        "end_line": 1068,
+        "name": "setDistribution",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 44,
+        "end_line": 47,
+        "name": "TDistributionImpl",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/TDistributionImpl.java",
+        "start_line": 53,
+        "end_line": 58,
+        "name": "setDegreesOfFreedom",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 87,
+        "end_line": 107,
+        "name": "logGamma",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 117,
+        "end_line": 121,
+        "name": "regularizedGammaP",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 150,
+        "end_line": 187,
+        "name": "regularizedGammaP",
+        "failing_tests_count": 6
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 225,
+        "end_line": 261,
+        "name": "regularizedGammaQ",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 50,
+        "end_line": 52,
+        "name": "ContinuedFraction",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 130,
+        "end_line": 179,
+        "name": "evaluate",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TestUtils.java",
+        "start_line": 276,
+        "end_line": 279,
+        "name": "chiSquare",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java",
+        "start_line": 98,
+        "end_line": 99,
+        "name": "SummaryStatistics",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/SummaryStatistics.java",
+        "start_line": 82,
+        "end_line": 93,
+        "name": "newInstance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/SummaryStatisticsImpl.java",
+        "start_line": 35,
+        "end_line": 37,
+        "name": "SummaryStatisticsImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java",
+        "start_line": 76,
+        "end_line": 81,
+        "name": "FirstMoment",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java",
+        "start_line": 56,
+        "end_line": 59,
+        "name": "SecondMoment",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+        "start_line": 52,
+        "end_line": 55,
+        "name": "Sum",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java",
+        "start_line": 52,
+        "end_line": 55,
+        "name": "SumOfSquares",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/rank/Min.java",
+        "start_line": 54,
+        "end_line": 57,
+        "name": "Min",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+        "start_line": 52,
+        "end_line": 55,
+        "name": "Max",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java",
+        "start_line": 60,
+        "end_line": 63,
+        "name": "SumOfLogs",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "GeometricMean",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+        "start_line": 76,
+        "end_line": 79,
+        "name": "Mean",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "Variance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/stat/inference/TestUtils.java",
+        "start_line": 301,
+        "end_line": 304,
+        "name": "chiSquareTest",
+        "failing_tests_count": 1
+    }
+]

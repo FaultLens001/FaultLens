@@ -1,0 +1,170 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 116,
+        "end_line": 120,
+        "name": "AbstractLeastSquaresOptimizer",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 123,
+        "end_line": 125,
+        "name": "setMaxIterations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 138,
+        "end_line": 140,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "setConvergenceChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 171,
+        "end_line": 176,
+        "name": "incrementIterationsCounter",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 183,
+        "end_line": 197,
+        "name": "updateJacobian",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 205,
+        "end_line": 227,
+        "name": "updateResidualsAndCost",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 239,
+        "end_line": 241,
+        "name": "getRMS",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 249,
+        "end_line": 251,
+        "name": "getChiSquare",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/AbstractLeastSquaresOptimizer.java",
+        "start_line": 317,
+        "end_line": 349,
+        "name": "optimize",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 166,
+        "end_line": 179,
+        "name": "LevenbergMarquardtOptimizer",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 190,
+        "end_line": 192,
+        "name": "setInitialStepBoundFactor",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 200,
+        "end_line": 202,
+        "name": "setCostRelativeTolerance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 211,
+        "end_line": 213,
+        "name": "setParRelativeTolerance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 222,
+        "end_line": 224,
+        "name": "setOrthoTolerance",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 235,
+        "end_line": 237,
+        "name": "setQRRankingThreshold",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 240,
+        "end_line": 464,
+        "name": "doOptimize",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 488,
+        "end_line": 635,
+        "name": "determineLMParameter",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 657,
+        "end_line": 759,
+        "name": "determineLMDirection",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 783,
+        "end_line": 851,
+        "name": "qrDecomposition",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer.java",
+        "start_line": 858,
+        "end_line": 870,
+        "name": "qTy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/SimpleVectorialValueChecker.java",
+        "start_line": 50,
+        "end_line": 53,
+        "name": "SimpleVectorialValueChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/VectorialPointValuePair.java",
+        "start_line": 46,
+        "end_line": 49,
+        "name": "VectorialPointValuePair",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/VectorialPointValuePair.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "getPointRef",
+        "failing_tests_count": 2
+    }
+]

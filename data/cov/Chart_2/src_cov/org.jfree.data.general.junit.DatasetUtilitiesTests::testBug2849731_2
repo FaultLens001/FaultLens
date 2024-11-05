@@ -1,0 +1,652 @@
+[
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#AbstractDataset():95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#AbstractDataset():96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#AbstractDataset():97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#AbstractDataset():98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#fireDatasetChanged(org.jfree.chart.event.DatasetChangeInfo):176",
+        "line_number": "176"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#fireDatasetChanged(org.jfree.chart.event.DatasetChangeInfo):177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#notifyListeners(org.jfree.data.event.DatasetChangeEvent):189",
+        "line_number": "189"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#notifyListeners(org.jfree.data.event.DatasetChangeEvent):190",
+        "line_number": "190"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractDataset",
+        "rest": "#notifyListeners(org.jfree.data.event.DatasetChangeEvent):196",
+        "line_number": "196"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractSeriesDataset",
+        "rest": "#AbstractSeriesDataset():66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.jfree.data.general.AbstractSeriesDataset",
+        "rest": "#AbstractSeriesDataset():67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.jfree.data.xy.AbstractXYDataset",
+        "rest": "#AbstractXYDataset():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.jfree.data.xy.AbstractIntervalXYDataset",
+        "rest": "#AbstractIntervalXYDataset():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#XYIntervalSeriesCollection():73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#XYIntervalSeriesCollection():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#XYIntervalSeriesCollection():75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#addSeries(org.jfree.data.xy.XYIntervalSeries):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#addSeries(org.jfree.data.xy.XYIntervalSeries):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#addSeries(org.jfree.data.xy.XYIntervalSeries):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#addSeries(org.jfree.data.xy.XYIntervalSeries):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#addSeries(org.jfree.data.xy.XYIntervalSeries):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getSeriesCount():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getSeries(int):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getSeries(int):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getItemCount(int):147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getStartXValue(int,int):173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getStartXValue(int,int):174",
+        "line_number": "174"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getEndXValue(int,int):187",
+        "line_number": "187"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeriesCollection",
+        "rest": "#getEndXValue(int,int):188",
+        "line_number": "188"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetGroup",
+        "rest": "#DatasetGroup():63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetGroup",
+        "rest": "#DatasetGroup():64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetGroup",
+        "rest": "#DatasetGroup():65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable):104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable):105",
+        "line_number": "105"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#Series(java.lang.Comparable,java.lang.String):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#addChangeListener(org.jfree.data.event.SeriesChangeListener):297",
+        "line_number": "297"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#addChangeListener(org.jfree.data.event.SeriesChangeListener):298",
+        "line_number": "298"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#fireSeriesChanged():315",
+        "line_number": "315"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#fireSeriesChanged():316",
+        "line_number": "316"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#fireSeriesChanged():318",
+        "line_number": "318"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#notifyListeners(org.jfree.data.event.SeriesChangeEvent):328",
+        "line_number": "328"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#notifyListeners(org.jfree.data.event.SeriesChangeEvent):329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.jfree.data.general.Series",
+        "rest": "#notifyListeners(org.jfree.data.event.SeriesChangeEvent):336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#ComparableObjectSeries(java.lang.Comparable,boolean,boolean):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#getItemCount():131",
+        "line_number": "131"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):221",
+        "line_number": "221"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):222",
+        "line_number": "222"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):223",
+        "line_number": "223"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):244",
+        "line_number": "244"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):259",
+        "line_number": "259"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#add(org.jfree.data.ComparableObjectItem,boolean):262",
+        "line_number": "262"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectSeries",
+        "rest": "#getDataItem(int):333",
+        "line_number": "333"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#XYIntervalSeries(java.lang.Comparable):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#XYIntervalSeries(java.lang.Comparable):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#XYIntervalSeries(java.lang.Comparable,boolean,boolean):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#XYIntervalSeries(java.lang.Comparable,boolean,boolean):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#add(double,double,double,double,double,double):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#add(double,double,double,double,double,double):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#getXLowValue(int):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#getXLowValue(int):121",
+        "line_number": "121"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#getXHighValue(int):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#getXHighValue(int):136",
+        "line_number": "136"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalSeries",
+        "rest": "#getDataItem(int):189",
+        "line_number": "189"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#ComparableObjectItem(java.lang.Comparable,java.lang.Object):72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#ComparableObjectItem(java.lang.Comparable,java.lang.Object):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#ComparableObjectItem(java.lang.Comparable,java.lang.Object):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#ComparableObjectItem(java.lang.Comparable,java.lang.Object):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#ComparableObjectItem(java.lang.Comparable,java.lang.Object):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.jfree.data.ComparableObjectItem",
+        "rest": "#getObject():95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#XYIntervalDataItem(double,double,double,double,double,double):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#XYIntervalDataItem(double,double,double,double,double,double):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXLowValue():97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXLowValue():98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXLowValue():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXHighValue():112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXHighValue():113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYIntervalDataItem",
+        "rest": "#getXHighValue():114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#XYInterval(double,double,double,double,double):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#getXLow():92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.jfree.data.xy.XYInterval",
+        "rest": "#getXHigh():101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.jfree.data.event.SeriesChangeEvent",
+        "rest": "#SeriesChangeEvent(java.lang.Object):70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.jfree.data.event.SeriesChangeEvent",
+        "rest": "#SeriesChangeEvent(java.lang.Object):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.jfree.data.event.SeriesChangeEvent",
+        "rest": "#SeriesChangeEvent(java.lang.Object,org.jfree.data.general.SeriesChangeInfo):82",
+        "line_number": "82"
+    },
+    {
+        "class_name": "org.jfree.data.event.SeriesChangeEvent",
+        "rest": "#SeriesChangeEvent(java.lang.Object,org.jfree.data.general.SeriesChangeInfo):83",
+        "line_number": "83"
+    },
+    {
+        "class_name": "org.jfree.data.event.SeriesChangeEvent",
+        "rest": "#SeriesChangeEvent(java.lang.Object,org.jfree.data.general.SeriesChangeInfo):84",
+        "line_number": "84"
+    },
+    {
+        "class_name": "org.jfree.chart.event.DatasetChangeInfo",
+        "rest": "#DatasetChangeInfo():49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.jfree.data.event.DatasetChangeEvent",
+        "rest": "#DatasetChangeEvent(java.lang.Object,org.jfree.data.general.Dataset,org.jfree.chart.event.DatasetChangeInfo):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.jfree.data.event.DatasetChangeEvent",
+        "rest": "#DatasetChangeEvent(java.lang.Object,org.jfree.data.general.Dataset,org.jfree.chart.event.DatasetChangeInfo):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.jfree.data.event.DatasetChangeEvent",
+        "rest": "#DatasetChangeEvent(java.lang.Object,org.jfree.data.general.Dataset,org.jfree.chart.event.DatasetChangeInfo):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.jfree.data.event.DatasetChangeEvent",
+        "rest": "#DatasetChangeEvent(java.lang.Object,org.jfree.data.general.Dataset,org.jfree.chart.event.DatasetChangeInfo):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.jfree.data.event.DatasetChangeEvent",
+        "rest": "#DatasetChangeEvent(java.lang.Object,org.jfree.data.general.Dataset,org.jfree.chart.event.DatasetChangeInfo):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset):726",
+        "line_number": "726"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):742",
+        "line_number": "742"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):745",
+        "line_number": "745"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):746",
+        "line_number": "746"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):747",
+        "line_number": "747"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):750",
+        "line_number": "750"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):751",
+        "line_number": "751"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):752",
+        "line_number": "752"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):753",
+        "line_number": "753"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):754",
+        "line_number": "754"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):755",
+        "line_number": "755"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):756",
+        "line_number": "756"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):757",
+        "line_number": "757"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):760",
+        "line_number": "760"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):765",
+        "line_number": "765"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):779",
+        "line_number": "779"
+    },
+    {
+        "class_name": "org.jfree.data.general.DatasetUtilities",
+        "rest": "#iterateDomainBounds(org.jfree.data.xy.XYDataset,boolean):780",
+        "line_number": "780"
+    }
+]

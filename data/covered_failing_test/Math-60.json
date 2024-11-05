@@ -1,0 +1,247 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 39,
+        "end_line": 41,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 58,
+        "end_line": 58,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 59,
+        "end_line": 61,
+        "name": "NormalDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 73,
+        "end_line": 81,
+        "name": "NormalDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/distribution/NormalDistributionImpl.java",
+        "start_line": 124,
+        "end_line": 138,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 218,
+        "end_line": 220,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 620,
+        "end_line": 622,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 631,
+        "end_line": 746,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 910,
+        "end_line": 937,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 944,
+        "end_line": 954,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 960,
+        "end_line": 973,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 980,
+        "end_line": 986,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 993,
+        "end_line": 998,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1018,
+        "end_line": 1046,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1053,
+        "end_line": 1100,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1107,
+        "end_line": 1145,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1154,
+        "end_line": 1156,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1164,
+        "end_line": 1381,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1626,
+        "end_line": 1668,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1676,
+        "end_line": 1710,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1718,
+        "end_line": 1753,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1757,
+        "end_line": 1849,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3264,
+        "end_line": 3266,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3490,
+        "end_line": 3492,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/random/RandomDataImpl.java",
+        "start_line": 119,
+        "end_line": 120,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Erf.java",
+        "start_line": 50,
+        "end_line": 56,
+        "name": "erf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 95,
+        "end_line": 115,
+        "name": "logGamma",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 158,
+        "end_line": 197,
+        "name": "regularizedGammaP",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 235,
+        "end_line": 271,
+        "name": "regularizedGammaQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 46,
+        "end_line": 48,
+        "name": "ContinuedFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 126,
+        "end_line": 207,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "MathException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 167,
+        "end_line": 172,
+        "name": "getMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 181,
+        "end_line": 184,
+        "name": "getLocalizedMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergenceException.java",
+        "start_line": 61,
+        "end_line": 63,
+        "name": "ConvergenceException",
+        "failing_tests_count": 1
+    }
+]

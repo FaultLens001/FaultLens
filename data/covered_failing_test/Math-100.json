@@ -1,0 +1,296 @@
+[
+    {
+        "file": "src/java/org/apache/commons/math/estimation/EstimatedParameter.java",
+        "start_line": 57,
+        "end_line": 63,
+        "name": "EstimatedParameter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/EstimatedParameter.java",
+        "start_line": 78,
+        "end_line": 80,
+        "name": "setEstimate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/EstimatedParameter.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "getEstimate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/EstimatedParameter.java",
+        "start_line": 106,
+        "end_line": 108,
+        "name": "isBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 48,
+        "end_line": 51,
+        "name": "SimpleEstimationProblem",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "getAllParameters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 65,
+        "end_line": 79,
+        "name": "getUnboundParameters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "getMeasurements",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "addParameter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/SimpleEstimationProblem.java",
+        "start_line": 100,
+        "end_line": 102,
+        "name": "addMeasurement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/WeightedMeasurement.java",
+        "start_line": 79,
+        "end_line": 84,
+        "name": "WeightedMeasurement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/WeightedMeasurement.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getWeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/WeightedMeasurement.java",
+        "start_line": 110,
+        "end_line": 112,
+        "name": "getResidual",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/WeightedMeasurement.java",
+        "start_line": 145,
+        "end_line": 147,
+        "name": "setIgnored",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/WeightedMeasurement.java",
+        "start_line": 154,
+        "end_line": 156,
+        "name": "isIgnored",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 38,
+        "end_line": 39,
+        "name": "AbstractEstimator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 47,
+        "end_line": 49,
+        "name": "setMaxCostEval",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "getCostEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 72,
+        "end_line": 82,
+        "name": "updateJacobian",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 87,
+        "end_line": 89,
+        "name": "incrementJacobianEvaluationsCounter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 96,
+        "end_line": 113,
+        "name": "updateResidualsAndCost",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 126,
+        "end_line": 134,
+        "name": "getRMS",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 158,
+        "end_line": 188,
+        "name": "getCovariances",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/AbstractEstimator.java",
+        "start_line": 223,
+        "end_line": 241,
+        "name": "initializeEstimate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/GaussNewtonEstimator.java",
+        "start_line": 71,
+        "end_line": 77,
+        "name": "GaussNewtonEstimator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/estimation/GaussNewtonEstimator.java",
+        "start_line": 102,
+        "end_line": 172,
+        "name": "estimate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 88,
+        "end_line": 95,
+        "name": "RealMatrixImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 108,
+        "end_line": 111,
+        "name": "RealMatrixImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 146,
+        "end_line": 160,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 266,
+        "end_line": 268,
+        "name": "getData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 277,
+        "end_line": 279,
+        "name": "getDataRef",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 388,
+        "end_line": 424,
+        "name": "setSubMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 521,
+        "end_line": 527,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 580,
+        "end_line": 582,
+        "name": "isSquare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 587,
+        "end_line": 598,
+        "name": "isSingular",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 603,
+        "end_line": 605,
+        "name": "getRowDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 610,
+        "end_line": 612,
+        "name": "getColumnDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 709,
+        "end_line": 755,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 775,
+        "end_line": 847,
+        "name": "luDecompose",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 999,
+        "end_line": 1007,
+        "name": "copyOut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 1019,
+        "end_line": 1021,
+        "name": "copyIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+        "start_line": 1030,
+        "end_line": 1035,
+        "name": "isValidCoordinate",
+        "failing_tests_count": 1
+    }
+]

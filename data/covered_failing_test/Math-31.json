@@ -1,0 +1,604 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 47,
+        "end_line": 47,
+        "name": "AbstractIntegerDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 74,
+        "end_line": 117,
+        "name": "inverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 131,
+        "end_line": 151,
+        "name": "solveInverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 198,
+        "end_line": 207,
+        "name": "checkedCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 49,
+        "end_line": 60,
+        "name": "BinomialDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 94,
+        "end_line": 105,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 113,
+        "end_line": 115,
+        "name": "getNumericalMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 123,
+        "end_line": 126,
+        "name": "getNumericalVariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 136,
+        "end_line": 138,
+        "name": "getSupportLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/BinomialDistribution.java",
+        "start_line": 148,
+        "end_line": 150,
+        "name": "getSupportUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataImpl.java",
+        "start_line": 168,
+        "end_line": 169,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 374,
+        "end_line": 376,
+        "name": "sqrt",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 806,
+        "end_line": 808,
+        "name": "exp",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 817,
+        "end_line": 932,
+        "name": "exp",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1095,
+        "end_line": 1097,
+        "name": "log",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1105,
+        "end_line": 1325,
+        "name": "log",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1419,
+        "end_line": 1577,
+        "name": "pow",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3001,
+        "end_line": 3003,
+        "name": "abs",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3019,
+        "end_line": 3021,
+        "name": "abs",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3331,
+        "end_line": 3352,
+        "name": "floor",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3358,
+        "end_line": 3377,
+        "name": "ceil",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6141,
+        "end_line": 6143,
+        "name": "loadExpIntA",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6149,
+        "end_line": 6151,
+        "name": "loadExpIntB",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6157,
+        "end_line": 6159,
+        "name": "loadExpFracA",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6165,
+        "end_line": 6167,
+        "name": "loadExpFracB",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 160,
+        "end_line": 163,
+        "name": "ResizableDoubleArray",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 300,
+        "end_line": 309,
+        "name": "addElement",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 431,
+        "end_line": 440,
+        "name": "contract",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 525,
+        "end_line": 543,
+        "name": "expand",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 598,
+        "end_line": 603,
+        "name": "getElements",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 754,
+        "end_line": 764,
+        "name": "setInitialCapacity",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 799,
+        "end_line": 805,
+        "name": "shouldContract",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ArithmeticUtils.java",
+        "start_line": 298,
+        "end_line": 307,
+        "name": "factorial",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Beta.java",
+        "start_line": 49,
+        "end_line": 51,
+        "name": "regularizedBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Beta.java",
+        "start_line": 115,
+        "end_line": 160,
+        "name": "regularizedBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Beta.java",
+        "start_line": 190,
+        "end_line": 206,
+        "name": "logBeta",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ContinuedFraction.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "ContinuedFraction",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ContinuedFraction.java",
+        "start_line": 123,
+        "end_line": 199,
+        "name": "evaluate",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 92,
+        "end_line": 106,
+        "name": "logGamma",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 349,
+        "end_line": 355,
+        "name": "lanczos",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 264,
+        "end_line": 266,
+        "name": "equals",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 300,
+        "end_line": 315,
+        "name": "equals",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 44,
+        "end_line": 48,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 73,
+        "end_line": 75,
+        "name": "getContext",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "getLocalizedMessage",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/ConvergenceException.java",
+        "start_line": 47,
+        "end_line": 50,
+        "name": "ConvergenceException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+        "start_line": 53,
+        "end_line": 53,
+        "name": "AbstractRealDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+        "start_line": 78,
+        "end_line": 181,
+        "name": "inverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 65,
+        "end_line": 70,
+        "name": "FDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 85,
+        "end_line": 100,
+        "name": "FDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 142,
+        "end_line": 155,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 162,
+        "end_line": 164,
+        "name": "getNumeratorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 171,
+        "end_line": 173,
+        "name": "getDenominatorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 176,
+        "end_line": 179,
+        "name": "getSolverAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 190,
+        "end_line": 198,
+        "name": "getNumericalMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 213,
+        "end_line": 219,
+        "name": "getNumericalVariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 226,
+        "end_line": 238,
+        "name": "calculateNumericalVariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 247,
+        "end_line": 249,
+        "name": "getSupportLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/FDistribution.java",
+        "start_line": 259,
+        "end_line": 261,
+        "name": "getSupportUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java",
+        "start_line": 70,
+        "end_line": 78,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java",
+        "start_line": 334,
+        "end_line": 340,
+        "name": "verifyInterval",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java",
+        "start_line": 351,
+        "end_line": 356,
+        "name": "verifySequence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 64,
+        "end_line": 68,
+        "name": "BaseAbstractUnivariateSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 90,
+        "end_line": 96,
+        "name": "BaseAbstractUnivariateSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "getMin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 115,
+        "end_line": 117,
+        "name": "getMax",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "getStartValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 139,
+        "end_line": 141,
+        "name": "getFunctionValueAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 151,
+        "end_line": 155,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 168,
+        "end_line": 182,
+        "name": "setup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 185,
+        "end_line": 191,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 194,
+        "end_line": 196,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 265,
+        "end_line": 269,
+        "name": "verifySequence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java",
+        "start_line": 292,
+        "end_line": 298,
+        "name": "incrementEvaluationCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java",
+        "start_line": 36,
+        "end_line": 38,
+        "name": "AbstractUnivariateSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "BrentSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/analysis/solvers/BrentSolver.java",
+        "start_line": 81,
+        "end_line": 119,
+        "name": "doSolve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 60,
+        "end_line": 68,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 77,
+        "end_line": 81,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 149,
+        "end_line": 153,
+        "name": "incrementCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Incrementor.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 255,
+        "end_line": 260,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    }
+]

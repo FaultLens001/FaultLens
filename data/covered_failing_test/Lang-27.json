@@ -1,0 +1,177 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 452,
+        "end_line": 599,
+        "name": "createNumber",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 609,
+        "end_line": 619,
+        "name": "isAllZeros",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 631,
+        "end_line": 636,
+        "name": "createFloat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 647,
+        "end_line": 652,
+        "name": "createDouble",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 664,
+        "end_line": 670,
+        "name": "createInteger",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 681,
+        "end_line": 686,
+        "name": "createLong",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 697,
+        "end_line": 702,
+        "name": "createBigInteger",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 713,
+        "end_line": 722,
+        "name": "createBigDecimal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/math/NumberUtils.java",
+        "start_line": 1291,
+        "end_line": 1301,
+        "name": "isDigits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/StringUtils.java",
+        "start_line": 192,
+        "end_line": 194,
+        "name": "isEmpty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/StringUtils.java",
+        "start_line": 231,
+        "end_line": 242,
+        "name": "isBlank",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1363,
+        "end_line": 1365,
+        "name": "getJavaVersionAsFloat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1387,
+        "end_line": 1389,
+        "name": "getJavaVersionAsInt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1400,
+        "end_line": 1402,
+        "name": "getJavaVersionMatches",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1409,
+        "end_line": 1419,
+        "name": "getJavaVersionTrimmed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1430,
+        "end_line": 1432,
+        "name": "getOSMatches",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1441,
+        "end_line": 1443,
+        "name": "getOSMatchesName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1460,
+        "end_line": 1469,
+        "name": "getSystemProperty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1533,
+        "end_line": 1535,
+        "name": "isJavaVersionAtLeast",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1573,
+        "end_line": 1578,
+        "name": "isJavaVersionMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1596,
+        "end_line": 1601,
+        "name": "isOSMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1615,
+        "end_line": 1620,
+        "name": "isOSNameMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1715,
+        "end_line": 1729,
+        "name": "toJavaVersionIntArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1751,
+        "end_line": 1769,
+        "name": "toVersionFloat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1791,
+        "end_line": 1807,
+        "name": "toVersionInt",
+        "failing_tests_count": 1
+    }
+]

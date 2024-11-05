@@ -1,0 +1,93 @@
+[
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 81,
+        "end_line": 86,
+        "name": "SourceFile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 147,
+        "end_line": 149,
+        "name": "setCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 155,
+        "end_line": 157,
+        "name": "setOriginalPath",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 322,
+        "end_line": 324,
+        "name": "fromCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 354,
+        "end_line": 356,
+        "name": "builder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 368,
+        "end_line": 368,
+        "name": "Builder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 390,
+        "end_line": 392,
+        "name": "buildFromCode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/SourceFile.java",
+        "start_line": 421,
+        "end_line": 425,
+        "name": "Preloaded",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessCommonJSModules.java",
+        "start_line": 53,
+        "end_line": 55,
+        "name": "ProcessCommonJSModules",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessCommonJSModules.java",
+        "start_line": 57,
+        "end_line": 63,
+        "name": "ProcessCommonJSModules",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessCommonJSModules.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "guessCJSModuleName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessCommonJSModules.java",
+        "start_line": 88,
+        "end_line": 93,
+        "name": "toModuleName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/jscomp/ProcessCommonJSModules.java",
+        "start_line": 116,
+        "end_line": 125,
+        "name": "normalizeSourceName",
+        "failing_tests_count": 1
+    }
+]

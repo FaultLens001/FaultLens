@@ -1,0 +1,1577 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 95,
+        "end_line": 99,
+        "name": "Vector3D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 137,
+        "end_line": 141,
+        "name": "Vector3D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 151,
+        "end_line": 155,
+        "name": "Vector3D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 167,
+        "end_line": 172,
+        "name": "Vector3D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 197,
+        "end_line": 199,
+        "name": "getX",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 205,
+        "end_line": 207,
+        "name": "getY",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 213,
+        "end_line": 215,
+        "name": "getZ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 241,
+        "end_line": 244,
+        "name": "getNorm",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 247,
+        "end_line": 250,
+        "name": "getNormSq",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 274,
+        "end_line": 277,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 285,
+        "end_line": 288,
+        "name": "subtract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 319,
+        "end_line": 336,
+        "name": "orthogonal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 452,
+        "end_line": 455,
+        "name": "dotProduct",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 461,
+        "end_line": 466,
+        "name": "crossProduct",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Vector3D.java",
+        "start_line": 518,
+        "end_line": 520,
+        "name": "crossProduct",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 55,
+        "end_line": 59,
+        "name": "Plane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 66,
+        "end_line": 70,
+        "name": "Plane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "Plane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 90,
+        "end_line": 96,
+        "name": "Plane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 104,
+        "end_line": 106,
+        "name": "copySelf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 136,
+        "end_line": 142,
+        "name": "setNormal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 146,
+        "end_line": 150,
+        "name": "setFrame",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 170,
+        "end_line": 172,
+        "name": "getNormal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 224,
+        "end_line": 226,
+        "name": "toSubSpace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 234,
+        "end_line": 237,
+        "name": "toSpace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 321,
+        "end_line": 328,
+        "name": "intersection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 336,
+        "end_line": 370,
+        "name": "intersection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 375,
+        "end_line": 377,
+        "name": "wholeHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 405,
+        "end_line": 407,
+        "name": "getOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Plane.java",
+        "start_line": 426,
+        "end_line": 428,
+        "name": "sameOrientationAs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathArrays.java",
+        "start_line": 659,
+        "end_line": 713,
+        "name": "linearCombination",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathArrays.java",
+        "start_line": 738,
+        "end_line": 810,
+        "name": "linearCombination",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 360,
+        "end_line": 367,
+        "name": "doubleHighPart",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 374,
+        "end_line": 376,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1586,
+        "end_line": 1599,
+        "name": "polySine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1607,
+        "end_line": 1617,
+        "name": "polyCosine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1626,
+        "end_line": 1741,
+        "name": "sinQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1750,
+        "end_line": 1759,
+        "name": "cosQ",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2134,
+        "end_line": 2225,
+        "name": "sin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2232,
+        "end_line": 2310,
+        "name": "cos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2435,
+        "end_line": 2574,
+        "name": "atan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2582,
+        "end_line": 2697,
+        "name": "atan2",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3019,
+        "end_line": 3021,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3053,
+        "end_line": 3129,
+        "name": "scalb",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3331,
+        "end_line": 3352,
+        "name": "floor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3423,
+        "end_line": 3425,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3491,
+        "end_line": 3493,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3568,
+        "end_line": 3601,
+        "name": "hypot",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3670,
+        "end_line": 3672,
+        "name": "getExponent",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+        "start_line": 68,
+        "end_line": 71,
+        "name": "Vector2D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+        "start_line": 149,
+        "end_line": 151,
+        "name": "getX",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+        "start_line": 157,
+        "end_line": 159,
+        "name": "getY",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Vector2D.java",
+        "start_line": 260,
+        "end_line": 265,
+        "name": "distance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 50,
+        "end_line": 54,
+        "name": "AbstractSubHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 65,
+        "end_line": 67,
+        "name": "copySelf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 72,
+        "end_line": 74,
+        "name": "getHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 83,
+        "end_line": 85,
+        "name": "getRemainingRegion",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 88,
+        "end_line": 90,
+        "name": "getSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 93,
+        "end_line": 98,
+        "name": "reunite",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractSubHyperplane.java",
+        "start_line": 155,
+        "end_line": 157,
+        "name": "isEmpty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 46,
+        "end_line": 49,
+        "name": "SubLine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 55,
+        "end_line": 57,
+        "name": "SubLine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 138,
+        "end_line": 142,
+        "name": "buildIntervalSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 145,
+        "end_line": 149,
+        "name": "buildNew",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 152,
+        "end_line": 170,
+        "name": "side",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/SubLine.java",
+        "start_line": 173,
+        "end_line": 207,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "Line",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 111,
+        "end_line": 116,
+        "name": "Line",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 119,
+        "end_line": 121,
+        "name": "copySelf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 128,
+        "end_line": 143,
+        "name": "reset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 180,
+        "end_line": 183,
+        "name": "toSubSpace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 186,
+        "end_line": 190,
+        "name": "toSpace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 197,
+        "end_line": 204,
+        "name": "intersection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 207,
+        "end_line": 209,
+        "name": "wholeHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 229,
+        "end_line": 232,
+        "name": "getOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 241,
+        "end_line": 244,
+        "name": "sameOrientationAs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Line.java",
+        "start_line": 285,
+        "end_line": 287,
+        "name": "getAngle",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 50,
+        "end_line": 52,
+        "name": "AbstractRegion",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 66,
+        "end_line": 68,
+        "name": "AbstractRegion",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 89,
+        "end_line": 135,
+        "name": "AbstractRegion",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 174,
+        "end_line": 217,
+        "name": "insertCuts",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 225,
+        "end_line": 227,
+        "name": "isEmpty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 230,
+        "end_line": 244,
+        "name": "isEmpty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 263,
+        "end_line": 275,
+        "name": "checkPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 278,
+        "end_line": 284,
+        "name": "getTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 289,
+        "end_line": 329,
+        "name": "recurseBuildBoundary",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 344,
+        "end_line": 369,
+        "name": "characterize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 379,
+        "end_line": 384,
+        "name": "getSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 389,
+        "end_line": 391,
+        "name": "setSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 394,
+        "end_line": 399,
+        "name": "getBarycenter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 404,
+        "end_line": 406,
+        "name": "setBarycenter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 414,
+        "end_line": 420,
+        "name": "side",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 437,
+        "end_line": 511,
+        "name": "recurseSides",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 36,
+        "end_line": 38,
+        "name": "IntervalsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 46,
+        "end_line": 48,
+        "name": "IntervalsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 59,
+        "end_line": 61,
+        "name": "IntervalsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 93,
+        "end_line": 128,
+        "name": "buildTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 131,
+        "end_line": 134,
+        "name": "buildNew",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 137,
+        "end_line": 158,
+        "name": "computeGeometricalProperties",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 207,
+        "end_line": 212,
+        "name": "asList",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/IntervalsSet.java",
+        "start_line": 220,
+        "end_line": 250,
+        "name": "recurseList",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java",
+        "start_line": 65,
+        "end_line": 67,
+        "name": "Vector1D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Vector1D.java",
+        "start_line": 127,
+        "end_line": 129,
+        "name": "getX",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 42,
+        "end_line": 45,
+        "name": "OrientedPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 57,
+        "end_line": 60,
+        "name": "getOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 73,
+        "end_line": 75,
+        "name": "wholeHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 86,
+        "end_line": 88,
+        "name": "sameOrientationAs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 93,
+        "end_line": 95,
+        "name": "getLocation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/OrientedPoint.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "isDirect",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+        "start_line": 37,
+        "end_line": 40,
+        "name": "SubOrientedPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+        "start_line": 49,
+        "end_line": 53,
+        "name": "buildNew",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+        "start_line": 56,
+        "end_line": 60,
+        "name": "side",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/SubOrientedPoint.java",
+        "start_line": 63,
+        "end_line": 69,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 82,
+        "end_line": 88,
+        "name": "BSPTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 93,
+        "end_line": 99,
+        "name": "BSPTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 114,
+        "end_line": 123,
+        "name": "BSPTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 148,
+        "end_line": 170,
+        "name": "insertCut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 179,
+        "end_line": 188,
+        "name": "copySelf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 193,
+        "end_line": 195,
+        "name": "getCut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 201,
+        "end_line": 203,
+        "name": "getPlus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 209,
+        "end_line": 211,
+        "name": "getMinus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 216,
+        "end_line": 218,
+        "name": "getParent",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 224,
+        "end_line": 226,
+        "name": "setAttribute",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 234,
+        "end_line": 236,
+        "name": "getAttribute",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 241,
+        "end_line": 281,
+        "name": "visit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 291,
+        "end_line": 301,
+        "name": "fitToCell",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 310,
+        "end_line": 329,
+        "name": "getCell",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 335,
+        "end_line": 344,
+        "name": "condense",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 364,
+        "end_line": 366,
+        "name": "merge",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 383,
+        "end_line": 415,
+        "name": "merge",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 487,
+        "end_line": 553,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 564,
+        "end_line": 605,
+        "name": "insertInTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 613,
+        "end_line": 619,
+        "name": "chopOffMinus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BSPTree.java",
+        "start_line": 627,
+        "end_line": 633,
+        "name": "chopOffPlus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 49,
+        "end_line": 51,
+        "name": "PolygonsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "PolygonsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 86,
+        "end_line": 88,
+        "name": "PolygonsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 123,
+        "end_line": 126,
+        "name": "buildNew",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 129,
+        "end_line": 181,
+        "name": "computeGeometricalProperties",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 206,
+        "end_line": 284,
+        "name": "getVertices",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 293,
+        "end_line": 350,
+        "name": "followLoop",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java",
+        "start_line": 37,
+        "end_line": 40,
+        "name": "Interval",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java",
+        "start_line": 45,
+        "end_line": 47,
+        "name": "getLower",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "getUpper",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java",
+        "start_line": 59,
+        "end_line": 61,
+        "name": "getLength",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/oned/Interval.java",
+        "start_line": 66,
+        "end_line": 68,
+        "name": "getMidPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "normalizeAngle",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 524,
+        "end_line": 527,
+        "name": "Sides",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 531,
+        "end_line": 533,
+        "name": "rememberPlusFound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 538,
+        "end_line": 540,
+        "name": "plusFound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 544,
+        "end_line": 546,
+        "name": "rememberMinusFound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/AbstractRegion.java",
+        "start_line": 551,
+        "end_line": 553,
+        "name": "minusFound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java",
+        "start_line": 103,
+        "end_line": 107,
+        "name": "SplitSubHyperplane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java",
+        "start_line": 112,
+        "end_line": 114,
+        "name": "getPlus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/SubHyperplane.java",
+        "start_line": 119,
+        "end_line": 121,
+        "name": "getMinus",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java",
+        "start_line": 40,
+        "end_line": 43,
+        "name": "SubPlane",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java",
+        "start_line": 46,
+        "end_line": 50,
+        "name": "buildNew",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java",
+        "start_line": 53,
+        "end_line": 88,
+        "name": "side",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/SubPlane.java",
+        "start_line": 96,
+        "end_line": 139,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "PolyhedronsSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 114,
+        "end_line": 131,
+        "name": "computeGeometricalProperties",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 417,
+        "end_line": 419,
+        "name": "SegmentsBuilder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 422,
+        "end_line": 424,
+        "name": "visitOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 427,
+        "end_line": 436,
+        "name": "visitInternalNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 439,
+        "end_line": 440,
+        "name": "visitLeafNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 446,
+        "end_line": 463,
+        "name": "addContribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 468,
+        "end_line": 470,
+        "name": "getSorted",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "AVLTree",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 61,
+        "end_line": 69,
+        "name": "insert",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 102,
+        "end_line": 104,
+        "name": "isEmpty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 123,
+        "end_line": 125,
+        "name": "getSmallest",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 151,
+        "end_line": 168,
+        "name": "getNotSmaller",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 36,
+        "end_line": 39,
+        "name": "Characterization",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "hasIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "getIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 58,
+        "end_line": 60,
+        "name": "hasOut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 65,
+        "end_line": 67,
+        "name": "getOut",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/Characterization.java",
+        "start_line": 74,
+        "end_line": 88,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 35,
+        "end_line": 37,
+        "name": "RegionFactory",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 74,
+        "end_line": 79,
+        "name": "union",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 233,
+        "end_line": 235,
+        "name": "visitOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 238,
+        "end_line": 240,
+        "name": "visitInternalNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 243,
+        "end_line": 244,
+        "name": "visitLeafNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/RegionFactory.java",
+        "start_line": 161,
+        "end_line": 172,
+        "name": "merge",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java",
+        "start_line": 56,
+        "end_line": 60,
+        "name": "BoundaryAttribute",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "getPlusOutside",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/BoundaryAttribute.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "getPlusInside",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java",
+        "start_line": 40,
+        "end_line": 44,
+        "name": "Segment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java",
+        "start_line": 49,
+        "end_line": 51,
+        "name": "getStart",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/Segment.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "getEnd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 363,
+        "end_line": 368,
+        "name": "ComparableSegment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 379,
+        "end_line": 382,
+        "name": "ComparableSegment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/twod/PolygonsSet.java",
+        "start_line": 385,
+        "end_line": 387,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 132,
+        "end_line": 175,
+        "name": "OrderedTuple",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 181,
+        "end_line": 215,
+        "name": "encode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 247,
+        "end_line": 287,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 323,
+        "end_line": 325,
+        "name": "sign",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 331,
+        "end_line": 333,
+        "name": "exponent",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 339,
+        "end_line": 343,
+        "name": "mantissa",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 351,
+        "end_line": 369,
+        "name": "computeMSB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 377,
+        "end_line": 395,
+        "name": "computeLSB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/OrderedTuple.java",
+        "start_line": 403,
+        "end_line": 416,
+        "name": "getBit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 245,
+        "end_line": 251,
+        "name": "Node",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 256,
+        "end_line": 258,
+        "name": "getElement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 273,
+        "end_line": 279,
+        "name": "getSmallest",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 287,
+        "end_line": 293,
+        "name": "getLargest",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 325,
+        "end_line": 342,
+        "name": "getNext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 348,
+        "end_line": 365,
+        "name": "insert",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 369,
+        "end_line": 410,
+        "name": "delete",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 415,
+        "end_line": 449,
+        "name": "rebalanceLeftGrown",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 454,
+        "end_line": 488,
+        "name": "rebalanceRightGrown",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 493,
+        "end_line": 533,
+        "name": "rebalanceLeftShrunk",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 538,
+        "end_line": 578,
+        "name": "rebalanceRightShrunk",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 584,
+        "end_line": 603,
+        "name": "rotateCW",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/partitioning/utilities/AVLTree.java",
+        "start_line": 609,
+        "end_line": 628,
+        "name": "rotateCCW",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "Line",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+        "start_line": 73,
+        "end_line": 81,
+        "name": "reset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+        "start_line": 93,
+        "end_line": 95,
+        "name": "getDirection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+        "start_line": 119,
+        "end_line": 121,
+        "name": "pointAt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/Line.java",
+        "start_line": 133,
+        "end_line": 135,
+        "name": "toSpace",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 137,
+        "end_line": 140,
+        "name": "FacetsContributionVisitor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 143,
+        "end_line": 145,
+        "name": "visitOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 148,
+        "end_line": 158,
+        "name": "visitInternalNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 161,
+        "end_line": 162,
+        "name": "visitLeafNode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/geometry/euclidean/threed/PolyhedronsSet.java",
+        "start_line": 168,
+        "end_line": 190,
+        "name": "addContribution",
+        "failing_tests_count": 1
+    }
+]

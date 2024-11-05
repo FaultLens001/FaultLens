@@ -1,0 +1,485 @@
+[
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 689,
+        "end_line": 694,
+        "name": "DateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 132,
+        "end_line": 162,
+        "name": "getDefault",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 173,
+        "end_line": 184,
+        "name": "setDefault",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 202,
+        "end_line": 224,
+        "name": "forID",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 253,
+        "end_line": 273,
+        "name": "forOffsetHoursMinutes",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 281,
+        "end_line": 284,
+        "name": "forOffsetMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 301,
+        "end_line": 338,
+        "name": "forTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 348,
+        "end_line": 366,
+        "name": "fixedOffsetZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 414,
+        "end_line": 431,
+        "name": "setProvider0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 442,
+        "end_line": 474,
+        "name": "getDefaultProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 513,
+        "end_line": 518,
+        "name": "setNameProvider0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 528,
+        "end_line": 549,
+        "name": "getDefaultNameProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 558,
+        "end_line": 599,
+        "name": "getConvertedId",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 601,
+        "end_line": 619,
+        "name": "parseOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 630,
+        "end_line": 662,
+        "name": "printOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 669,
+        "end_line": 676,
+        "name": "offsetFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 704,
+        "end_line": 707,
+        "name": "getID",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 36,
+        "end_line": 42,
+        "name": "FixedDateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 87,
+        "end_line": 99,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 103,
+        "end_line": 124,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 135,
+        "end_line": 163,
+        "name": "getZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 170,
+        "end_line": 175,
+        "name": "getAvailableIDs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 194,
+        "end_line": 215,
+        "name": "openResource",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 223,
+        "end_line": 242,
+        "name": "loadZoneData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 251,
+        "end_line": 264,
+        "name": "loadZoneInfoMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 272,
+        "end_line": 289,
+        "name": "readZoneInfoMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 39,
+        "end_line": 40,
+        "name": "DefaultNameProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 98,
+        "end_line": 100,
+        "name": "createCache",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 94,
+        "end_line": 100,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 109,
+        "end_line": 125,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 182,
+        "end_line": 211,
+        "name": "readMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1497,
+        "end_line": 1506,
+        "name": "PrecalculatedZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1339,
+        "end_line": 1377,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1174,
+        "end_line": 1180,
+        "name": "DSTZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1165,
+        "end_line": 1168,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 747,
+        "end_line": 751,
+        "name": "Recurrence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 739,
+        "end_line": 741,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 499,
+        "end_line": 515,
+        "name": "OfYear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 481,
+        "end_line": 488,
+        "name": "readFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 86,
+        "end_line": 89,
+        "name": "CachedDateTimeZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 67,
+        "end_line": 72,
+        "name": "forZone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/BaseChronology.java",
+        "start_line": 53,
+        "end_line": 55,
+        "name": "BaseChronology",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 83,
+        "end_line": 86,
+        "name": "DateTimeFormatterBuilder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 104,
+        "end_line": 118,
+        "name": "toFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 373,
+        "end_line": 379,
+        "name": "append0",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 1088,
+        "end_line": 1093,
+        "name": "appendTimeZoneOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 1137,
+        "end_line": 1162,
+        "name": "getFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 1164,
+        "end_line": 1172,
+        "name": "isPrinter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 1174,
+        "end_line": 1182,
+        "name": "isParser",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 2117,
+        "end_line": 2134,
+        "name": "TimeZoneOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 2277,
+        "end_line": 2446,
+        "name": "parseInto",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatterBuilder.java",
+        "start_line": 2452,
+        "end_line": 2463,
+        "name": "digitCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 107,
+        "end_line": 118,
+        "name": "DateTimeFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 123,
+        "end_line": 137,
+        "name": "DateTimeFormatter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 256,
+        "end_line": 262,
+        "name": "withChronology",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 739,
+        "end_line": 753,
+        "name": "parseMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 924,
+        "end_line": 930,
+        "name": "requireParser",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeFormatter.java",
+        "start_line": 939,
+        "end_line": 948,
+        "name": "selectChronology",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 61,
+        "end_line": 67,
+        "name": "put",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 281,
+        "end_line": 286,
+        "name": "getChronology",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeParserBucket.java",
+        "start_line": 118,
+        "end_line": 128,
+        "name": "DateTimeParserBucket",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeParserBucket.java",
+        "start_line": 194,
+        "end_line": 197,
+        "name": "setOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeParserBucket.java",
+        "start_line": 344,
+        "end_line": 395,
+        "name": "computeMillis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/DateTimeParserBucket.java",
+        "start_line": 415,
+        "end_line": 427,
+        "name": "sort",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/FormatUtils.java",
+        "start_line": 49,
+        "end_line": 92,
+        "name": "appendPaddedInteger",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/format/FormatUtils.java",
+        "start_line": 351,
+        "end_line": 354,
+        "name": "parseTwoDigits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+        "start_line": 63,
+        "end_line": 71,
+        "name": "safeAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/joda/time/field/FieldUtils.java",
+        "start_line": 118,
+        "end_line": 124,
+        "name": "safeMultiply",
+        "failing_tests_count": 1
+    }
+]

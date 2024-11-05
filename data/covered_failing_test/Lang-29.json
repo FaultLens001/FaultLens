@@ -1,0 +1,100 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1363,
+        "end_line": 1365,
+        "name": "getJavaVersionAsFloat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1387,
+        "end_line": 1389,
+        "name": "getJavaVersionAsInt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1400,
+        "end_line": 1402,
+        "name": "getJavaVersionMatches",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1409,
+        "end_line": 1419,
+        "name": "getJavaVersionTrimmed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1430,
+        "end_line": 1432,
+        "name": "getOSMatches",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1441,
+        "end_line": 1443,
+        "name": "getOSMatchesName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1460,
+        "end_line": 1469,
+        "name": "getSystemProperty",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1573,
+        "end_line": 1578,
+        "name": "isJavaVersionMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1596,
+        "end_line": 1601,
+        "name": "isOSMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1615,
+        "end_line": 1620,
+        "name": "isOSNameMatch",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1672,
+        "end_line": 1674,
+        "name": "toJavaVersionInt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1715,
+        "end_line": 1729,
+        "name": "toJavaVersionIntArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1751,
+        "end_line": 1769,
+        "name": "toVersionFloat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SystemUtils.java",
+        "start_line": 1791,
+        "end_line": 1807,
+        "name": "toVersionInt",
+        "failing_tests_count": 1
+    }
+]

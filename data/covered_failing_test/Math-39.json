@@ -1,0 +1,520 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 85,
+        "end_line": 95,
+        "name": "AbstractIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 168,
+        "end_line": 170,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 187,
+        "end_line": 201,
+        "name": "initIntegration",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 206,
+        "end_line": 208,
+        "name": "setEquations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 211,
+        "end_line": 234,
+        "name": "integrate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 262,
+        "end_line": 266,
+        "name": "computeDerivatives",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 275,
+        "end_line": 277,
+        "name": "setStateInitialized",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 401,
+        "end_line": 412,
+        "name": "sanityChecks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 105,
+        "end_line": 114,
+        "name": "AdaptiveStepsizeIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 153,
+        "end_line": 166,
+        "name": "setStepSizeControl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 217,
+        "end_line": 233,
+        "name": "sanityChecks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 246,
+        "end_line": 307,
+        "name": "initializeStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 353,
+        "end_line": 356,
+        "name": "resetInternalState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 361,
+        "end_line": 363,
+        "name": "getMinStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 368,
+        "end_line": 370,
+        "name": "getMaxStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 108,
+        "end_line": 130,
+        "name": "EmbeddedRungeKuttaIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 185,
+        "end_line": 187,
+        "name": "setSafety",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 190,
+        "end_line": 328,
+        "name": "integrate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 340,
+        "end_line": 342,
+        "name": "setMinReduction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 354,
+        "end_line": 356,
+        "name": "setMaxGrowth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853Integrator.java",
+        "start_line": 217,
+        "end_line": 223,
+        "name": "DormandPrince853Integrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853Integrator.java",
+        "start_line": 245,
+        "end_line": 248,
+        "name": "getOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 374,
+        "end_line": 376,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 817,
+        "end_line": 932,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1105,
+        "end_line": 1325,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1419,
+        "end_line": 1577,
+        "name": "pow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3022,
+        "end_line": 3024,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3031,
+        "end_line": 3036,
+        "name": "ulp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3249,
+        "end_line": 3272,
+        "name": "nextAfter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3469,
+        "end_line": 3487,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3537,
+        "end_line": 3555,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 111,
+        "end_line": 125,
+        "name": "AbstractStepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 171,
+        "end_line": 206,
+        "name": "AbstractStepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 211,
+        "end_line": 236,
+        "name": "allocateInterpolatedArrays",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 244,
+        "end_line": 262,
+        "name": "reinitialize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 265,
+        "end_line": 273,
+        "name": "copy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 288,
+        "end_line": 292,
+        "name": "shift",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 297,
+        "end_line": 307,
+        "name": "storeTime",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 377,
+        "end_line": 380,
+        "name": "setInterpolatedTime",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 481,
+        "end_line": 486,
+        "name": "finalizeStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaStepInterpolator.java",
+        "start_line": 60,
+        "end_line": 64,
+        "name": "RungeKuttaStepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaStepInterpolator.java",
+        "start_line": 83,
+        "end_line": 105,
+        "name": "RungeKuttaStepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaStepInterpolator.java",
+        "start_line": 130,
+        "end_line": 138,
+        "name": "reinitialize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaStepInterpolator.java",
+        "start_line": 141,
+        "end_line": 145,
+        "name": "shift",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 230,
+        "end_line": 235,
+        "name": "DormandPrince853StepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 242,
+        "end_line": 273,
+        "name": "DormandPrince853StepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 276,
+        "end_line": 279,
+        "name": "doCopy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 282,
+        "end_line": 304,
+        "name": "reinitialize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 307,
+        "end_line": 311,
+        "name": "storeTime",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 404,
+        "end_line": 445,
+        "name": "doFinalize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 60,
+        "end_line": 68,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 77,
+        "end_line": 81,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 149,
+        "end_line": 153,
+        "name": "incrementCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 72,
+        "end_line": 80,
+        "name": "ExpandableStatefulODE",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 95,
+        "end_line": 104,
+        "name": "getTotalDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 111,
+        "end_line": 126,
+        "name": "computeDerivatives",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 154,
+        "end_line": 156,
+        "name": "getPrimaryMapper",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 162,
+        "end_line": 168,
+        "name": "getSecondaryMappers",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 173,
+        "end_line": 175,
+        "name": "setTime",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 180,
+        "end_line": 182,
+        "name": "getTime",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 189,
+        "end_line": 199,
+        "name": "setPrimaryState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/ExpandableStatefulODE.java",
+        "start_line": 282,
+        "end_line": 295,
+        "name": "getCompleteState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/EquationsMapper.java",
+        "start_line": 49,
+        "end_line": 52,
+        "name": "EquationsMapper",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/EquationsMapper.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "getDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/EquationsMapper.java",
+        "start_line": 75,
+        "end_line": 81,
+        "name": "extractEquationData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/EquationsMapper.java",
+        "start_line": 90,
+        "end_line": 96,
+        "name": "insertEquationData",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+        "start_line": 6141,
+        "end_line": 6143,
+        "name": "loadExpIntA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+        "start_line": 6149,
+        "end_line": 6151,
+        "name": "loadExpIntB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+        "start_line": 6157,
+        "end_line": 6159,
+        "name": "loadExpFracA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+        "start_line": 6165,
+        "end_line": 6167,
+        "name": "loadExpFracB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 1
+    }
+]

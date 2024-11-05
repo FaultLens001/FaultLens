@@ -1,0 +1,912 @@
+[
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#BaseAbstractUnivariateRealSolver(double,double,double):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getMin():110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getMax():116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getStartValue():122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getAbsoluteAccuracy():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getRelativeAccuracy():134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#getFunctionValueAccuracy():140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#computeObjectiveValue(double):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#computeObjectiveValue(double):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):176",
+        "line_number": "176"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):178",
+        "line_number": "178"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):181",
+        "line_number": "181"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#setup(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):182",
+        "line_number": "182"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#solve(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):187",
+        "line_number": "187"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#solve(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double):190",
+        "line_number": "190"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#verifySequence(double,double,double):268",
+        "line_number": "268"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#verifySequence(double,double,double):269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#incrementEvaluationCount():294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#incrementEvaluationCount():297",
+        "line_number": "297"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#incrementEvaluationCount():295",
+        "line_number": "295"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#incrementEvaluationCount():296",
+        "line_number": "296"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver",
+        "rest": "#incrementEvaluationCount():298",
+        "line_number": "298"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver",
+        "rest": "#AbstractUnivariateRealSolver(double,double,double):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AbstractUnivariateRealSolver",
+        "rest": "#AbstractUnivariateRealSolver(double,double,double):60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#BracketingNthOrderBrentSolver(double,double,double,int):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#BracketingNthOrderBrentSolver(double,double,double,int):125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#BracketingNthOrderBrentSolver(double,double,double,int):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#BracketingNthOrderBrentSolver(double,double,double,int):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#BracketingNthOrderBrentSolver(double,double,double,int):130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():146",
+        "line_number": "146"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():148",
+        "line_number": "148"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():155",
+        "line_number": "155"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():161",
+        "line_number": "161"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():169",
+        "line_number": "169"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():195",
+        "line_number": "195"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():199",
+        "line_number": "199"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():200",
+        "line_number": "200"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():201",
+        "line_number": "201"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():203",
+        "line_number": "203"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():233",
+        "line_number": "233"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():236",
+        "line_number": "236"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():241",
+        "line_number": "241"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():246",
+        "line_number": "246"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():247",
+        "line_number": "247"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():251",
+        "line_number": "251"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():252",
+        "line_number": "252"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():254",
+        "line_number": "254"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():265",
+        "line_number": "265"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():273",
+        "line_number": "273"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():283",
+        "line_number": "283"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():284",
+        "line_number": "284"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():290",
+        "line_number": "290"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():295",
+        "line_number": "295"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():296",
+        "line_number": "296"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():297",
+        "line_number": "297"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():299",
+        "line_number": "299"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():316",
+        "line_number": "316"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():317",
+        "line_number": "317"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():318",
+        "line_number": "318"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():319",
+        "line_number": "319"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():320",
+        "line_number": "320"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():323",
+        "line_number": "323"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():325",
+        "line_number": "325"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():326",
+        "line_number": "326"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():327",
+        "line_number": "327"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():328",
+        "line_number": "328"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#doSolve():343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):365",
+        "line_number": "365"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):366",
+        "line_number": "366"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):367",
+        "line_number": "367"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):368",
+        "line_number": "368"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):373",
+        "line_number": "373"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):374",
+        "line_number": "374"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):375",
+        "line_number": "375"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#guessX(double,double[],double[],int,int):378",
+        "line_number": "378"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#solve(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double,org.apache.commons.math.analysis.solvers.AllowedSolution):393",
+        "line_number": "393"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver",
+        "rest": "#solve(int,org.apache.commons.math.analysis.UnivariateFunction,double,double,double,org.apache.commons.math.analysis.solvers.AllowedSolution):394",
+        "line_number": "394"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int,org.apache.commons.math.util.Incrementor$MaxCountExceededCallback):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int,org.apache.commons.math.util.Incrementor$MaxCountExceededCallback):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int,org.apache.commons.math.util.Incrementor$MaxCountExceededCallback):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int,org.apache.commons.math.util.Incrementor$MaxCountExceededCallback):80",
+        "line_number": "80"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#Incrementor(int,org.apache.commons.math.util.Incrementor$MaxCountExceededCallback):81",
+        "line_number": "81"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#setMaximalCount(int):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#setMaximalCount(int):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#incrementCount():150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#incrementCount():151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#incrementCount():153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#resetCount():159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "#resetCount():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Incrementor",
+        "rest": "$1#trigger(int):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#AllowedSolution(java.lang.String,int):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.AllowedSolution",
+        "rest": "#<clinit>():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.MathUtils",
+        "rest": "#checkNotNull(java.lang.Object):257",
+        "line_number": "257"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.MathUtils",
+        "rest": "#checkNotNull(java.lang.Object):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils",
+        "rest": "#verifyInterval(double,double):336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils",
+        "rest": "#verifyInterval(double,double):340",
+        "line_number": "340"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils",
+        "rest": "#verifySequence(double,double,double):354",
+        "line_number": "354"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils",
+        "rest": "#verifySequence(double,double,double):355",
+        "line_number": "355"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils",
+        "rest": "#verifySequence(double,double,double):356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):277",
+        "line_number": "277"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):278",
+        "line_number": "278"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):281",
+        "line_number": "281"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):282",
+        "line_number": "282"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):284",
+        "line_number": "284"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.Precision",
+        "rest": "#equals(double,double,int):290",
+        "line_number": "290"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():277",
+        "line_number": "277"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():285",
+        "line_number": "285"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#<clinit>():288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#abs(long):3005",
+        "line_number": "3005"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#abs(double):3023",
+        "line_number": "3023"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#max(double,double):3538",
+        "line_number": "3538"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#max(double,double):3539",
+        "line_number": "3539"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#max(double,double):3541",
+        "line_number": "3541"
+    },
+    {
+        "class_name": "org.apache.commons.math.util.FastMath",
+        "rest": "#max(double,double):3542",
+        "line_number": "3542"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math.exception.util.Localizable,java.lang.Object[]):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math.exception.util.Localizable,java.lang.Object[]):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math.exception.util.Localizable,java.lang.Object[]):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException(org.apache.commons.math.exception.util.Localizable,java.lang.Object[]):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException():69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#MathIllegalStateException():70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#getContext():74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MathIllegalStateException",
+        "rest": "#getLocalizedMessage():86",
+        "line_number": "86"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(java.lang.Number):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(java.lang.Number):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math.exception.util.Localizable,java.lang.Number,java.lang.Object[]):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math.exception.util.Localizable,java.lang.Number,java.lang.Object[]):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math.exception.util.Localizable,java.lang.Number,java.lang.Object[]):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#MaxCountExceededException(org.apache.commons.math.exception.util.Localizable,java.lang.Number,java.lang.Object[]):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.MaxCountExceededException",
+        "rest": "#getMax():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.TooManyEvaluationsException",
+        "rest": "#TooManyEvaluationsException(java.lang.Number):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.TooManyEvaluationsException",
+        "rest": "#TooManyEvaluationsException(java.lang.Number):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.apache.commons.math.exception.TooManyEvaluationsException",
+        "rest": "#TooManyEvaluationsException(java.lang.Number):39",
+        "line_number": "39"
+    }
+]

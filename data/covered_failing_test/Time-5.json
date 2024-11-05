@@ -1,0 +1,688 @@
+[
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 714,
+        "end_line": 719,
+        "name": "DateTimeZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 133,
+        "end_line": 163,
+        "name": "getDefault",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 174,
+        "end_line": 185,
+        "name": "setDefault",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 203,
+        "end_line": 225,
+        "name": "forID",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 329,
+        "end_line": 366,
+        "name": "forTimeZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 442,
+        "end_line": 459,
+        "name": "setProvider0",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 470,
+        "end_line": 499,
+        "name": "getDefaultProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 538,
+        "end_line": 543,
+        "name": "setNameProvider0",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 553,
+        "end_line": 573,
+        "name": "getDefaultNameProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 582,
+        "end_line": 623,
+        "name": "getConvertedId",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 729,
+        "end_line": 732,
+        "name": "getID",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeZone.java",
+        "start_line": 1272,
+        "end_line": 1274,
+        "name": "hashCode",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 36,
+        "end_line": 42,
+        "name": "FixedDateTimeZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 87,
+        "end_line": 99,
+        "name": "equals",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/FixedDateTimeZone.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "hashCode",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 103,
+        "end_line": 124,
+        "name": "ZoneInfoProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 134,
+        "end_line": 162,
+        "name": "getZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 169,
+        "end_line": 174,
+        "name": "getAvailableIDs",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 192,
+        "end_line": 214,
+        "name": "openResource",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 222,
+        "end_line": 241,
+        "name": "loadZoneData",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 250,
+        "end_line": 263,
+        "name": "loadZoneInfoMap",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/ZoneInfoProvider.java",
+        "start_line": 271,
+        "end_line": 288,
+        "name": "readZoneInfoMap",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 39,
+        "end_line": 40,
+        "name": "DefaultNameProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DefaultNameProvider.java",
+        "start_line": 98,
+        "end_line": 100,
+        "name": "createCache",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 94,
+        "end_line": 100,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 109,
+        "end_line": 125,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 182,
+        "end_line": 211,
+        "name": "readMillis",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1500,
+        "end_line": 1509,
+        "name": "PrecalculatedZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1342,
+        "end_line": 1380,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1177,
+        "end_line": 1183,
+        "name": "DSTZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 1168,
+        "end_line": 1171,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 747,
+        "end_line": 751,
+        "name": "Recurrence",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 739,
+        "end_line": 741,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 499,
+        "end_line": 515,
+        "name": "OfYear",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/DateTimeZoneBuilder.java",
+        "start_line": 481,
+        "end_line": 488,
+        "name": "readFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 86,
+        "end_line": 89,
+        "name": "CachedDateTimeZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 67,
+        "end_line": 72,
+        "name": "forZone",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/tz/CachedDateTimeZone.java",
+        "start_line": 122,
+        "end_line": 124,
+        "name": "hashCode",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 63,
+        "end_line": 69,
+        "name": "put",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 99,
+        "end_line": 102,
+        "name": "setCurrentMillisSystem",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 113,
+        "end_line": 116,
+        "name": "setCurrentMillisFixed",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 160,
+        "end_line": 165,
+        "name": "checkPermission",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 283,
+        "end_line": 288,
+        "name": "getChronology",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 317,
+        "end_line": 322,
+        "name": "getPeriodType",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/DateTimeUtils.java",
+        "start_line": 547,
+        "end_line": 549,
+        "name": "FixedMillisProvider",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/BaseChronology.java",
+        "start_line": 53,
+        "end_line": 55,
+        "name": "BaseChronology",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/BaseChronology.java",
+        "start_line": 275,
+        "end_line": 290,
+        "name": "get",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/BaseChronology.java",
+        "start_line": 659,
+        "end_line": 661,
+        "name": "eras",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 99,
+        "end_line": 103,
+        "name": "AssembledChronology",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 155,
+        "end_line": 157,
+        "name": "millis",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 159,
+        "end_line": 161,
+        "name": "millisOfSecond",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 163,
+        "end_line": 165,
+        "name": "millisOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 167,
+        "end_line": 169,
+        "name": "seconds",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 171,
+        "end_line": 173,
+        "name": "secondOfMinute",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 175,
+        "end_line": 177,
+        "name": "secondOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 179,
+        "end_line": 181,
+        "name": "minutes",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 183,
+        "end_line": 185,
+        "name": "minuteOfHour",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 187,
+        "end_line": 189,
+        "name": "minuteOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 191,
+        "end_line": 193,
+        "name": "hours",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 195,
+        "end_line": 197,
+        "name": "hourOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 199,
+        "end_line": 201,
+        "name": "clockhourOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 203,
+        "end_line": 205,
+        "name": "halfdays",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 207,
+        "end_line": 209,
+        "name": "hourOfHalfday",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 211,
+        "end_line": 213,
+        "name": "clockhourOfHalfday",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 215,
+        "end_line": 217,
+        "name": "halfdayOfDay",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 219,
+        "end_line": 221,
+        "name": "days",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 223,
+        "end_line": 225,
+        "name": "dayOfWeek",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 227,
+        "end_line": 229,
+        "name": "dayOfMonth",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 231,
+        "end_line": 233,
+        "name": "dayOfYear",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 235,
+        "end_line": 237,
+        "name": "weeks",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 239,
+        "end_line": 241,
+        "name": "weekOfWeekyear",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 243,
+        "end_line": 245,
+        "name": "weekyears",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 247,
+        "end_line": 249,
+        "name": "weekyear",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 251,
+        "end_line": 253,
+        "name": "weekyearOfCentury",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 255,
+        "end_line": 257,
+        "name": "months",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 259,
+        "end_line": 261,
+        "name": "monthOfYear",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 263,
+        "end_line": 265,
+        "name": "years",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 267,
+        "end_line": 269,
+        "name": "year",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 271,
+        "end_line": 273,
+        "name": "yearOfEra",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 275,
+        "end_line": 277,
+        "name": "yearOfCentury",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 279,
+        "end_line": 281,
+        "name": "centuries",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 283,
+        "end_line": 285,
+        "name": "centuryOfEra",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 287,
+        "end_line": 289,
+        "name": "eras",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 291,
+        "end_line": 293,
+        "name": "era",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 307,
+        "end_line": 309,
+        "name": "getBase",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 314,
+        "end_line": 316,
+        "name": "getParam",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 318,
+        "end_line": 386,
+        "name": "setFields",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "ISOChronology",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 76,
+        "end_line": 78,
+        "name": "getInstanceUTC",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "getInstance",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 95,
+        "end_line": 113,
+        "name": "getInstance",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 132,
+        "end_line": 134,
+        "name": "withUTC",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/ISOChronology.java",
+        "start_line": 168,
+        "end_line": 180,
+        "name": "assemble",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 436,
+        "end_line": 437,
+        "name": "Fields",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 442,
+        "end_line": 555,
+        "name": "copyFieldsFrom",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 557,
+        "end_line": 559,
+        "name": "isSupported",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/joda/time/chrono/AssembledChronology.java",
+        "start_line": 561,
+        "end_line": 563,
+        "name": "isSupported",
+        "failing_tests_count": 3
+    }
+]

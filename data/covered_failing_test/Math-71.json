@@ -1,0 +1,478 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 64,
+        "end_line": 72,
+        "name": "AbstractIntegrator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 122,
+        "end_line": 129,
+        "name": "requiresDenseOutput",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 142,
+        "end_line": 144,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "resetEvaluations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 166,
+        "end_line": 168,
+        "name": "setEquations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 177,
+        "end_line": 183,
+        "name": "computeDerivatives",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 193,
+        "end_line": 218,
+        "name": "sanityChecks",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 230,
+        "end_line": 245,
+        "name": "addEndTimeChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 89,
+        "end_line": 100,
+        "name": "AbstractStepInterpolator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 107,
+        "end_line": 122,
+        "name": "AbstractStepInterpolator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 210,
+        "end_line": 212,
+        "name": "shift",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 217,
+        "end_line": 226,
+        "name": "storeTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 229,
+        "end_line": 231,
+        "name": "getPreviousTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 234,
+        "end_line": 236,
+        "name": "getCurrentTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 244,
+        "end_line": 247,
+        "name": "setInterpolatedTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 250,
+        "end_line": 252,
+        "name": "isForward",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/AbstractStepInterpolator.java",
+        "start_line": 269,
+        "end_line": 281,
+        "name": "getInterpolatedState",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaStepInterpolator.java",
+        "start_line": 56,
+        "end_line": 60,
+        "name": "RungeKuttaStepInterpolator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 52,
+        "end_line": 56,
+        "name": "CombinedEventsManager",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 69,
+        "end_line": 73,
+        "name": "addEventHandler",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "getEventsStates",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 108,
+        "end_line": 110,
+        "name": "isEmpty",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 122,
+        "end_line": 178,
+        "name": "evaluateStep",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 186,
+        "end_line": 188,
+        "name": "getEventTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 199,
+        "end_line": 208,
+        "name": "stepAccepted",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 214,
+        "end_line": 221,
+        "name": "stop",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/CombinedEventsManager.java",
+        "start_line": 232,
+        "end_line": 245,
+        "name": "reset",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/DummyStepInterpolator.java",
+        "start_line": 71,
+        "end_line": 74,
+        "name": "DummyStepInterpolator",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/sampling/DummyStepInterpolator.java",
+        "start_line": 104,
+        "end_line": 109,
+        "name": "computeInterpolatedStateAndDerivatives",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 256,
+        "end_line": 258,
+        "name": "EndTimeChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 261,
+        "end_line": 263,
+        "name": "eventOccurred",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/AbstractIntegrator.java",
+        "start_line": 266,
+        "end_line": 268,
+        "name": "g",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 94,
+        "end_line": 111,
+        "name": "EventState",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 149,
+        "end_line": 154,
+        "name": "reinitializeBegin",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 167,
+        "end_line": 274,
+        "name": "evaluateStep",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 281,
+        "end_line": 283,
+        "name": "getEventTime",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 293,
+        "end_line": 308,
+        "name": "stepAccepted",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 314,
+        "end_line": 316,
+        "name": "stop",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/events/EventState.java",
+        "start_line": 327,
+        "end_line": 343,
+        "name": "reset",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 60,
+        "end_line": 69,
+        "name": "ConvergingAlgorithmImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 77,
+        "end_line": 79,
+        "name": "setAbsoluteAccuracy",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "setMaximalIterationCount",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+        "start_line": 91,
+        "end_line": 96,
+        "name": "UnivariateRealSolverImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+        "start_line": 140,
+        "end_line": 144,
+        "name": "setResult",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+        "start_line": 164,
+        "end_line": 167,
+        "name": "clearResult",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverImpl.java",
+        "start_line": 207,
+        "end_line": 213,
+        "name": "verifyInterval",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "BrentSolver",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+        "start_line": 194,
+        "end_line": 235,
+        "name": "solve",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java",
+        "start_line": 254,
+        "end_line": 349,
+        "name": "solve",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 88,
+        "end_line": 106,
+        "name": "AdaptiveStepsizeIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 149,
+        "end_line": 155,
+        "name": "setInitialStepSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 165,
+        "end_line": 187,
+        "name": "sanityChecks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 203,
+        "end_line": 266,
+        "name": "initializeStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 277,
+        "end_line": 299,
+        "name": "filterStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/AdaptiveStepsizeIntegrator.java",
+        "start_line": 314,
+        "end_line": 317,
+        "name": "resetInternalState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 109,
+        "end_line": 131,
+        "name": "EmbeddedRungeKuttaIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 186,
+        "end_line": 188,
+        "name": "setSafety",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 191,
+        "end_line": 366,
+        "name": "integrate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 378,
+        "end_line": 380,
+        "name": "setMinReduction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator.java",
+        "start_line": 392,
+        "end_line": 394,
+        "name": "setMaxGrowth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853Integrator.java",
+        "start_line": 213,
+        "end_line": 219,
+        "name": "DormandPrince853Integrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853Integrator.java",
+        "start_line": 239,
+        "end_line": 242,
+        "name": "getOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853Integrator.java",
+        "start_line": 245,
+        "end_line": 279,
+        "name": "estimateError",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/DormandPrince853StepInterpolator.java",
+        "start_line": 231,
+        "end_line": 236,
+        "name": "DormandPrince853StepInterpolator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java",
+        "start_line": 82,
+        "end_line": 92,
+        "name": "RungeKuttaIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator.java",
+        "start_line": 95,
+        "end_line": 220,
+        "name": "integrate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/ClassicalRungeKuttaIntegrator.java",
+        "start_line": 70,
+        "end_line": 73,
+        "name": "ClassicalRungeKuttaIntegrator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ode/nonstiff/ClassicalRungeKuttaStepInterpolator.java",
+        "start_line": 64,
+        "end_line": 65,
+        "name": "ClassicalRungeKuttaStepInterpolator",
+        "failing_tests_count": 1
+    }
+]

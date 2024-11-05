@@ -1,0 +1,408 @@
+[
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 88,
+        "end_line": 93,
+        "name": "RectangleConstraint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 146,
+        "end_line": 162,
+        "name": "RectangleConstraint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 169,
+        "end_line": 171,
+        "name": "getWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 178,
+        "end_line": 180,
+        "name": "getWidthRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 187,
+        "end_line": 189,
+        "name": "getWidthConstraintType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 196,
+        "end_line": 198,
+        "name": "getHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 205,
+        "end_line": 207,
+        "name": "getHeightRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/RectangleConstraint.java",
+        "start_line": 214,
+        "end_line": 216,
+        "name": "getHeightConstraintType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/LengthConstraintType.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "LengthConstraintType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 83,
+        "end_line": 91,
+        "name": "Range",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 98,
+        "end_line": 100,
+        "name": "getLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/data/Range.java",
+        "start_line": 107,
+        "end_line": 109,
+        "name": "getUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 109,
+        "end_line": 117,
+        "name": "AbstractBlock",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 150,
+        "end_line": 152,
+        "name": "getWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "setWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 174,
+        "end_line": 176,
+        "name": "getHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 185,
+        "end_line": 187,
+        "name": "setHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 364,
+        "end_line": 369,
+        "name": "setBounds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 382,
+        "end_line": 387,
+        "name": "trimToContentWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 400,
+        "end_line": 405,
+        "name": "trimToContentHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 415,
+        "end_line": 434,
+        "name": "toContentConstraint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 436,
+        "end_line": 449,
+        "name": "trimToContentWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 451,
+        "end_line": 464,
+        "name": "trimToContentHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 473,
+        "end_line": 479,
+        "name": "calculateTotalWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/AbstractBlock.java",
+        "start_line": 488,
+        "end_line": 494,
+        "name": "calculateTotalHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 95,
+        "end_line": 101,
+        "name": "BlockContainer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 149,
+        "end_line": 151,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 159,
+        "end_line": 162,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 167,
+        "end_line": 170,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockContainer.java",
+        "start_line": 181,
+        "end_line": 183,
+        "name": "arrange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 86,
+        "end_line": 87,
+        "name": "BorderArrangement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 96,
+        "end_line": 116,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 128,
+        "end_line": 172,
+        "name": "arrange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 275,
+        "end_line": 324,
+        "name": "arrangeFN",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 422,
+        "end_line": 489,
+        "name": "arrangeFF",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BorderArrangement.java",
+        "start_line": 494,
+        "end_line": 500,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 115,
+        "end_line": 125,
+        "name": "RectangleInsets",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 380,
+        "end_line": 386,
+        "name": "calculateTopInset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 395,
+        "end_line": 401,
+        "name": "calculateTopOutset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 410,
+        "end_line": 416,
+        "name": "calculateBottomInset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 425,
+        "end_line": 431,
+        "name": "calculateBottomOutset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 440,
+        "end_line": 446,
+        "name": "calculateLeftInset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 455,
+        "end_line": 461,
+        "name": "calculateLeftOutset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 470,
+        "end_line": 476,
+        "name": "calculateRightInset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 485,
+        "end_line": 491,
+        "name": "calculateRightOutset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 500,
+        "end_line": 502,
+        "name": "trimWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 511,
+        "end_line": 513,
+        "name": "extendWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 522,
+        "end_line": 525,
+        "name": "trimHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleInsets.java",
+        "start_line": 534,
+        "end_line": 537,
+        "name": "extendHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/UnitType.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "UnitType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockBorder.java",
+        "start_line": 128,
+        "end_line": 137,
+        "name": "BlockBorder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/BlockBorder.java",
+        "start_line": 144,
+        "end_line": 146,
+        "name": "getInsets",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/EmptyBlock.java",
+        "start_line": 70,
+        "end_line": 73,
+        "name": "EmptyBlock",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/block/EmptyBlock.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "arrange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/Size2D.java",
+        "start_line": 81,
+        "end_line": 84,
+        "name": "Size2D",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/Size2D.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/Size2D.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "getHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "source/org/jfree/chart/util/RectangleEdge.java",
+        "start_line": 80,
+        "end_line": 82,
+        "name": "RectangleEdge",
+        "failing_tests_count": 1
+    }
+]

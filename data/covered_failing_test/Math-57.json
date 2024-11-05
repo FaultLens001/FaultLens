@@ -1,0 +1,191 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "EuclideanIntegerPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "distanceFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 75,
+        "end_line": 90,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "KMeansPlusPlusClusterer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 78,
+        "end_line": 81,
+        "name": "KMeansPlusPlusClusterer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 92,
+        "end_line": 135,
+        "name": "cluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 144,
+        "end_line": 150,
+        "name": "assignPointsToClusters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 161,
+        "end_line": 198,
+        "name": "chooseInitialCenters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 319,
+        "end_line": 331,
+        "name": "getNearestCluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/Cluster.java",
+        "start_line": 45,
+        "end_line": 48,
+        "name": "Cluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/Cluster.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "addPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/Cluster.java",
+        "start_line": 70,
+        "end_line": 72,
+        "name": "getCenter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 1872,
+        "end_line": 1879,
+        "name": "distance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 276,
+        "end_line": 278,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 986,
+        "end_line": 1013,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1020,
+        "end_line": 1030,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1036,
+        "end_line": 1049,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1056,
+        "end_line": 1062,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1069,
+        "end_line": 1074,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1094,
+        "end_line": 1122,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1129,
+        "end_line": 1176,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1183,
+        "end_line": 1221,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1715,
+        "end_line": 1757,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1765,
+        "end_line": 1799,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1807,
+        "end_line": 1842,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1846,
+        "end_line": 1938,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    }
+]

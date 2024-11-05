@@ -1,0 +1,1737 @@
+[
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):70",
+        "line_number": "70"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#AbstractIntegrator(java.lang.String):72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#requiresDenseOutput():123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#requiresDenseOutput():128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#setMaxEvaluations(int):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#setMaxEvaluations(int):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#resetEvaluations():159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#resetEvaluations():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#setEquations(org.apache.commons.math.ode.FirstOrderDifferentialEquations):167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#setEquations(org.apache.commons.math.ode.FirstOrderDifferentialEquations):168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#computeDerivatives(double,double[],double[]):179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#computeDerivatives(double,double[],double[]):182",
+        "line_number": "182"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#computeDerivatives(double,double[],double[]):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#sanityChecks(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#sanityChecks(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#sanityChecks(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#sanityChecks(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#addEndTimeChecker(double,double,org.apache.commons.math.ode.events.CombinedEventsManager):233",
+        "line_number": "233"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#addEndTimeChecker(double,double,org.apache.commons.math.ode.events.CombinedEventsManager):234",
+        "line_number": "234"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#addEndTimeChecker(double,double,org.apache.commons.math.ode.events.CombinedEventsManager):240",
+        "line_number": "240"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "#addEndTimeChecker(double,double,org.apache.commons.math.ode.events.CombinedEventsManager):244",
+        "line_number": "244"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):86",
+        "line_number": "86"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):87",
+        "line_number": "87"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):88",
+        "line_number": "88"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#RungeKuttaIntegrator(java.lang.String,double[],double[][],double[],org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator,double):92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):101",
+        "line_number": "101"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):125",
+        "line_number": "125"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):129",
+        "line_number": "129"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):130",
+        "line_number": "130"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):133",
+        "line_number": "133"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):134",
+        "line_number": "134"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):137",
+        "line_number": "137"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):147",
+        "line_number": "147"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):149",
+        "line_number": "149"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):157",
+        "line_number": "157"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):162",
+        "line_number": "162"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):164",
+        "line_number": "164"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):171",
+        "line_number": "171"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):174",
+        "line_number": "174"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):185",
+        "line_number": "185"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):186",
+        "line_number": "186"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):192",
+        "line_number": "192"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):194",
+        "line_number": "194"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):195",
+        "line_number": "195"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):198",
+        "line_number": "198"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):199",
+        "line_number": "199"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaIntegrator",
+        "rest": "#integrate(org.apache.commons.math.ode.FirstOrderDifferentialEquations,double,double[],double,double[]):218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegrator",
+        "rest": "#ClassicalRungeKuttaIntegrator(double):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegrator",
+        "rest": "#ClassicalRungeKuttaIntegrator(double):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegrator",
+        "rest": "#<clinit>():49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegrator",
+        "rest": "#<clinit>():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegrator",
+        "rest": "#<clinit>():61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():89",
+        "line_number": "89"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():90",
+        "line_number": "90"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():91",
+        "line_number": "91"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():92",
+        "line_number": "92"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator():100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):110",
+        "line_number": "110"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):114",
+        "line_number": "114"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):120",
+        "line_number": "120"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#AbstractStepInterpolator(double[],boolean):122",
+        "line_number": "122"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#shift():211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#shift():212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#storeTime(double):219",
+        "line_number": "219"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#storeTime(double):220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#storeTime(double):221",
+        "line_number": "221"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#storeTime(double):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#storeTime(double):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getPreviousTime():230",
+        "line_number": "230"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getCurrentTime():235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#setInterpolatedTime(double):245",
+        "line_number": "245"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#setInterpolatedTime(double):246",
+        "line_number": "246"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#setInterpolatedTime(double):247",
+        "line_number": "247"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#isForward():251",
+        "line_number": "251"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():272",
+        "line_number": "272"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():273",
+        "line_number": "273"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():274",
+        "line_number": "274"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():276",
+        "line_number": "276"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.AbstractStepInterpolator",
+        "rest": "#getInterpolatedState():279",
+        "line_number": "279"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator",
+        "rest": "#RungeKuttaStepInterpolator():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator",
+        "rest": "#RungeKuttaStepInterpolator():58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator",
+        "rest": "#RungeKuttaStepInterpolator():59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.RungeKuttaStepInterpolator",
+        "rest": "#RungeKuttaStepInterpolator():60",
+        "line_number": "60"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaStepInterpolator",
+        "rest": "#ClassicalRungeKuttaStepInterpolator():64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaStepInterpolator",
+        "rest": "#ClassicalRungeKuttaStepInterpolator():65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#CombinedEventsManager():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#CombinedEventsManager():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#CombinedEventsManager():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#CombinedEventsManager():55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#CombinedEventsManager():56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#addEventHandler(org.apache.commons.math.ode.events.EventHandler,double,double,int):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#addEventHandler(org.apache.commons.math.ode.events.EventHandler,double,double,int):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#getEventsStates():102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#isEmpty():109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):127",
+        "line_number": "127"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):128",
+        "line_number": "128"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):135",
+        "line_number": "135"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):140",
+        "line_number": "140"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):145",
+        "line_number": "145"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):150",
+        "line_number": "150"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):170",
+        "line_number": "170"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#getEventTime():187",
+        "line_number": "187"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stepAccepted(double,double[]):202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stepAccepted(double,double[]):203",
+        "line_number": "203"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stepAccepted(double,double[]):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stepAccepted(double,double[]):207",
+        "line_number": "207"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stepAccepted(double,double[]):208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stop():215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stop():216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stop():217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stop():219",
+        "line_number": "219"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#stop():220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#reset(double,double[]):235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#reset(double,double[]):236",
+        "line_number": "236"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#reset(double,double[]):237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#reset(double,double[]):240",
+        "line_number": "240"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.CombinedEventsManager",
+        "rest": "#reset(double,double[]):241",
+        "line_number": "241"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#DummyStepInterpolator(double[],double[],boolean):72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#DummyStepInterpolator(double[],double[],boolean):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#DummyStepInterpolator(double[],double[],boolean):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#computeInterpolatedStateAndDerivatives(double,double):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#computeInterpolatedStateAndDerivatives(double,double):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.sampling.DummyStepInterpolator",
+        "rest": "#computeInterpolatedStateAndDerivatives(double,double):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "$EndTimeChecker#AbstractIntegrator$EndTimeChecker(double):256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "$EndTimeChecker#AbstractIntegrator$EndTimeChecker(double):257",
+        "line_number": "257"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "$EndTimeChecker#AbstractIntegrator$EndTimeChecker(double):258",
+        "line_number": "258"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "$EndTimeChecker#eventOccurred(double,double[],boolean):262",
+        "line_number": "262"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.AbstractIntegrator",
+        "rest": "$EndTimeChecker#g(double,double[]):267",
+        "line_number": "267"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):97",
+        "line_number": "97"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):98",
+        "line_number": "98"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):99",
+        "line_number": "99"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):102",
+        "line_number": "102"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):103",
+        "line_number": "103"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):105",
+        "line_number": "105"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):106",
+        "line_number": "106"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):107",
+        "line_number": "107"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):109",
+        "line_number": "109"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#EventState(org.apache.commons.math.ode.events.EventHandler,double,double,int):111",
+        "line_number": "111"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reinitializeBegin(double,double[]):151",
+        "line_number": "151"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reinitializeBegin(double,double[]):152",
+        "line_number": "152"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reinitializeBegin(double,double[]):153",
+        "line_number": "153"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reinitializeBegin(double,double[]):154",
+        "line_number": "154"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):173",
+        "line_number": "173"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):174",
+        "line_number": "174"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):175",
+        "line_number": "175"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):177",
+        "line_number": "177"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):178",
+        "line_number": "178"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):179",
+        "line_number": "179"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):180",
+        "line_number": "180"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):185",
+        "line_number": "185"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):188",
+        "line_number": "188"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):191",
+        "line_number": "191"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):214",
+        "line_number": "214"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):227",
+        "line_number": "227"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):228",
+        "line_number": "228"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):229",
+        "line_number": "229"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):230",
+        "line_number": "230"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):238",
+        "line_number": "238"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):247",
+        "line_number": "247"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):248",
+        "line_number": "248"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):253",
+        "line_number": "253"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):254",
+        "line_number": "254"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):261",
+        "line_number": "261"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#evaluateStep(org.apache.commons.math.ode.sampling.StepInterpolator):262",
+        "line_number": "262"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#getEventTime():282",
+        "line_number": "282"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):296",
+        "line_number": "296"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):297",
+        "line_number": "297"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):299",
+        "line_number": "299"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):301",
+        "line_number": "301"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):302",
+        "line_number": "302"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):303",
+        "line_number": "303"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):305",
+        "line_number": "305"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):306",
+        "line_number": "306"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stepAccepted(double,double[]):308",
+        "line_number": "308"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#stop():315",
+        "line_number": "315"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):330",
+        "line_number": "330"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):331",
+        "line_number": "331"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):334",
+        "line_number": "334"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):337",
+        "line_number": "337"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):338",
+        "line_number": "338"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "#reset(double,double[]):340",
+        "line_number": "340"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "$1#value(double):217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.ode.events.EventState",
+        "rest": "$1#value(double):218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):61",
+        "line_number": "61"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):66",
+        "line_number": "66"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):67",
+        "line_number": "67"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#ConvergingAlgorithmImpl(int,double):69",
+        "line_number": "69"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setAbsoluteAccuracy(double):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setAbsoluteAccuracy(double):79",
+        "line_number": "79"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setMaximalIterationCount(int):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.ConvergingAlgorithmImpl",
+        "rest": "#setMaximalIterationCount(int):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#UnivariateRealSolverImpl(int,double):93",
+        "line_number": "93"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#UnivariateRealSolverImpl(int,double):41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#UnivariateRealSolverImpl(int,double):94",
+        "line_number": "94"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#UnivariateRealSolverImpl(int,double):95",
+        "line_number": "95"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#UnivariateRealSolverImpl(int,double):96",
+        "line_number": "96"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#setResult(double,int):141",
+        "line_number": "141"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#setResult(double,int):142",
+        "line_number": "142"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#setResult(double,int):143",
+        "line_number": "143"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#setResult(double,int):144",
+        "line_number": "144"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#clearResult():165",
+        "line_number": "165"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#clearResult():166",
+        "line_number": "166"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#clearResult():167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#verifyInterval(double,double):208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.UnivariateRealSolverImpl",
+        "rest": "#verifyInterval(double,double):213",
+        "line_number": "213"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#BrentSolver():72",
+        "line_number": "72"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#BrentSolver():73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):199",
+        "line_number": "199"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):200",
+        "line_number": "200"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):202",
+        "line_number": "202"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):208",
+        "line_number": "208"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):209",
+        "line_number": "209"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):222",
+        "line_number": "222"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double):234",
+        "line_number": "234"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):261",
+        "line_number": "261"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):263",
+        "line_number": "263"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):264",
+        "line_number": "264"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):265",
+        "line_number": "265"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):267",
+        "line_number": "267"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):268",
+        "line_number": "268"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):270",
+        "line_number": "270"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):271",
+        "line_number": "271"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):272",
+        "line_number": "272"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):274",
+        "line_number": "274"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):281",
+        "line_number": "281"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):282",
+        "line_number": "282"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):284",
+        "line_number": "284"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):285",
+        "line_number": "285"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):286",
+        "line_number": "286"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):300",
+        "line_number": "300"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):302",
+        "line_number": "302"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):303",
+        "line_number": "303"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):311",
+        "line_number": "311"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):312",
+        "line_number": "312"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):314",
+        "line_number": "314"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):316",
+        "line_number": "316"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):324",
+        "line_number": "324"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):325",
+        "line_number": "325"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):330",
+        "line_number": "330"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):332",
+        "line_number": "332"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):334",
+        "line_number": "334"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):335",
+        "line_number": "335"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):337",
+        "line_number": "337"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):339",
+        "line_number": "339"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):340",
+        "line_number": "340"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):341",
+        "line_number": "341"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):342",
+        "line_number": "342"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):344",
+        "line_number": "344"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):346",
+        "line_number": "346"
+    },
+    {
+        "class_name": "org.apache.commons.math.analysis.solvers.BrentSolver",
+        "rest": "#solve(org.apache.commons.math.analysis.UnivariateRealFunction,double,double,double,double,double,double):347",
+        "line_number": "347"
+    }
+]

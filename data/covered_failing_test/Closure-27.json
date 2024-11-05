@@ -1,0 +1,121 @@
+[
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 91,
+        "end_line": 94,
+        "name": "block",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 223,
+        "end_line": 228,
+        "name": "tryFinally",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 361,
+        "end_line": 365,
+        "name": "Node",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 528,
+        "end_line": 530,
+        "name": "getType",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2292,
+        "end_line": 2294,
+        "name": "isLabelName",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 96,
+        "end_line": 100,
+        "name": "block",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 230,
+        "end_line": 235,
+        "name": "tryCatch",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 245,
+        "end_line": 249,
+        "name": "catchNode",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 292,
+        "end_line": 294,
+        "name": "name",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 473,
+        "end_line": 503,
+        "name": "mayBeStatement",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 381,
+        "end_line": 399,
+        "name": "Node",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 516,
+        "end_line": 518,
+        "name": "newString",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2188,
+        "end_line": 2190,
+        "name": "isBlock",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2204,
+        "end_line": 2206,
+        "name": "isCatch",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 2296,
+        "end_line": 2298,
+        "name": "isName",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/Node.java",
+        "start_line": 196,
+        "end_line": 202,
+        "name": "StringNode",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/com/google/javascript/rhino/IR.java",
+        "start_line": 237,
+        "end_line": 243,
+        "name": "tryCatchFinally",
+        "failing_tests_count": 1
+    }
+]

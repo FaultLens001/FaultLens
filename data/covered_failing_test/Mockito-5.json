@@ -1,0 +1,93 @@
+[
+    {
+        "file": "src/org/mockito/internal/stubbing/defaultanswers/Answers.java",
+        "start_line": 32,
+        "end_line": 34,
+        "name": "Answers",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/Plugins.java",
+        "start_line": 16,
+        "end_line": 18,
+        "name": "getStackTraceCleanerProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/Plugins.java",
+        "start_line": 26,
+        "end_line": 28,
+        "name": "getMockMaker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginRegistry.java",
+        "start_line": 21,
+        "end_line": 24,
+        "name": "getStackTraceCleanerProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginRegistry.java",
+        "start_line": 32,
+        "end_line": 34,
+        "name": "getMockMaker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginLoader.java",
+        "start_line": 16,
+        "end_line": 18,
+        "name": "PluginLoader",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginLoader.java",
+        "start_line": 23,
+        "end_line": 39,
+        "name": "loadPlugin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginLoader.java",
+        "start_line": 45,
+        "end_line": 69,
+        "name": "loadImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginFinder.java",
+        "start_line": 14,
+        "end_line": 16,
+        "name": "PluginFinder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/plugins/PluginFinder.java",
+        "start_line": 18,
+        "end_line": 40,
+        "name": "findPluginClass",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/Iterables.java",
+        "start_line": 15,
+        "end_line": 21,
+        "name": "toIterable",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/exceptions/stacktrace/DefaultStackTraceCleanerProvider.java",
+        "start_line": 11,
+        "end_line": 13,
+        "name": "getStackTraceCleaner",
+        "failing_tests_count": 1
+    },
+      {
+        "file": "src/org/mockito/internal/verification/VerificationOverTimeImpl.java",
+        "start_line": 75,
+        "end_line": 99,
+        "name": "verify",
+          "failing_tests_count": 1
+    }
+]

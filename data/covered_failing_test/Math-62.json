@@ -1,0 +1,317 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 59,
+        "end_line": 61,
+        "name": "getMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "getEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "getGoalType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 77,
+        "end_line": 79,
+        "name": "getMin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 83,
+        "end_line": 85,
+        "name": "getMax",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 89,
+        "end_line": 91,
+        "name": "getStartValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 103,
+        "end_line": 111,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 114,
+        "end_line": 137,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 140,
+        "end_line": 145,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 157,
+        "end_line": 159,
+        "name": "getConvergenceChecker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 75,
+        "end_line": 85,
+        "name": "BrentOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 88,
+        "end_line": 251,
+        "name": "doOptimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 218,
+        "end_line": 220,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 679,
+        "end_line": 706,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 713,
+        "end_line": 723,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 729,
+        "end_line": 742,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 749,
+        "end_line": 755,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 762,
+        "end_line": 767,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 787,
+        "end_line": 815,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 822,
+        "end_line": 869,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 876,
+        "end_line": 914,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1395,
+        "end_line": 1437,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1445,
+        "end_line": 1479,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1487,
+        "end_line": 1522,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1526,
+        "end_line": 1618,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3015,
+        "end_line": 3017,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3033,
+        "end_line": 3035,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3043,
+        "end_line": 3045,
+        "name": "ulp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3223,
+        "end_line": 3225,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3259,
+        "end_line": 3261,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "getMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 61,
+        "end_line": 63,
+        "name": "getCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 83,
+        "end_line": 87,
+        "name": "incrementCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 70,
+        "end_line": 76,
+        "name": "MultiStartUnivariateRealOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 142,
+        "end_line": 147,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 150,
+        "end_line": 183,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 190,
+        "end_line": 205,
+        "name": "sortPairs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/UnivariateRealPointValuePair.java",
+        "start_line": 44,
+        "end_line": 48,
+        "name": "UnivariateRealPointValuePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/UnivariateRealPointValuePair.java",
+        "start_line": 55,
+        "end_line": 57,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/UnivariateRealPointValuePair.java",
+        "start_line": 64,
+        "end_line": 66,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 416,
+        "end_line": 418,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 476,
+        "end_line": 495,
+        "name": "equals",
+        "failing_tests_count": 1
+    }
+]

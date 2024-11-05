@@ -1,0 +1,688 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "LinearObjectiveFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java",
+        "start_line": 65,
+        "end_line": 68,
+        "name": "LinearObjectiveFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "getCoefficients",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "getConstantTerm",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearObjectiveFunction.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVector.java",
+        "start_line": 526,
+        "end_line": 528,
+        "name": "mapMultiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 63,
+        "end_line": 65,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 102,
+        "end_line": 107,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 198,
+        "end_line": 200,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 283,
+        "end_line": 286,
+        "name": "copy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 314,
+        "end_line": 336,
+        "name": "subtract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 372,
+        "end_line": 378,
+        "name": "mapMultiplyToSelf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 446,
+        "end_line": 466,
+        "name": "dotProduct",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 621,
+        "end_line": 624,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 627,
+        "end_line": 630,
+        "name": "getDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 731,
+        "end_line": 734,
+        "name": "toArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/ArrayRealVector.java",
+        "start_line": 761,
+        "end_line": 766,
+        "name": "checkVectorDimensions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 105,
+        "end_line": 114,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/RealVectorFormat.java",
+        "start_line": 170,
+        "end_line": 172,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/CompositeFormat.java",
+        "start_line": 53,
+        "end_line": 57,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearConstraint.java",
+        "start_line": 79,
+        "end_line": 82,
+        "name": "LinearConstraint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearConstraint.java",
+        "start_line": 98,
+        "end_line": 103,
+        "name": "LinearConstraint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearConstraint.java",
+        "start_line": 167,
+        "end_line": 169,
+        "name": "getCoefficients",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearConstraint.java",
+        "start_line": 175,
+        "end_line": 177,
+        "name": "getRelationship",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/LinearConstraint.java",
+        "start_line": 183,
+        "end_line": 185,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+        "start_line": 42,
+        "end_line": 44,
+        "name": "Relationship",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/Relationship.java",
+        "start_line": 56,
+        "end_line": 65,
+        "name": "oppositeRelationship",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "AbstractLinearOptimizer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "restrictToNonNegative",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 88,
+        "end_line": 90,
+        "name": "getGoalType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 95,
+        "end_line": 97,
+        "name": "getFunction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 102,
+        "end_line": 104,
+        "name": "getConstraints",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 107,
+        "end_line": 109,
+        "name": "setMaxIterations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 125,
+        "end_line": 130,
+        "name": "incrementIterationsCounter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/AbstractLinearOptimizer.java",
+        "start_line": 133,
+        "end_line": 149,
+        "name": "optimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 50,
+        "end_line": 52,
+        "name": "SimplexSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 59,
+        "end_line": 62,
+        "name": "SimplexSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 69,
+        "end_line": 80,
+        "name": "getPivotColumn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 88,
+        "end_line": 126,
+        "name": "getPivotRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 134,
+        "end_line": 156,
+        "name": "doIteration",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 165,
+        "end_line": 181,
+        "name": "solvePhase1",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexSolver.java",
+        "start_line": 184,
+        "end_line": 202,
+        "name": "doOptimize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 130,
+        "end_line": 148,
+        "name": "SimplexTableau",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 153,
+        "end_line": 171,
+        "name": "initializeColumnLabels",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 178,
+        "end_line": 239,
+        "name": "createTableau",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 246,
+        "end_line": 252,
+        "name": "normalizeConstraints",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 259,
+        "end_line": 267,
+        "name": "normalize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 273,
+        "end_line": 275,
+        "name": "getNumObjectiveFunctions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 282,
+        "end_line": 290,
+        "name": "getConstraintTypeCounts",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 297,
+        "end_line": 303,
+        "name": "getInvertedCoefficientSum",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 310,
+        "end_line": 321,
+        "name": "getBasicRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 327,
+        "end_line": 367,
+        "name": "dropPhase1Objective",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 373,
+        "end_line": 375,
+        "name": "copyArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 381,
+        "end_line": 389,
+        "name": "isOptimal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 396,
+        "end_line": 427,
+        "name": "getSolution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 438,
+        "end_line": 442,
+        "name": "divideRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 454,
+        "end_line": 458,
+        "name": "subtractRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 464,
+        "end_line": 466,
+        "name": "getWidth",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 472,
+        "end_line": 474,
+        "name": "getHeight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 481,
+        "end_line": 483,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 499,
+        "end_line": 501,
+        "name": "getSlackVariableOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 507,
+        "end_line": 509,
+        "name": "getArtificialVariableOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 515,
+        "end_line": 517,
+        "name": "getRhsOffset",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 538,
+        "end_line": 540,
+        "name": "getOriginalNumDecisionVariables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 546,
+        "end_line": 548,
+        "name": "getNumSlackVariables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/linear/SimplexTableau.java",
+        "start_line": 554,
+        "end_line": 556,
+        "name": "getNumArtificialVariables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 44,
+        "end_line": 44,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 53,
+        "end_line": 60,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 477,
+        "end_line": 479,
+        "name": "getRowVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 482,
+        "end_line": 492,
+        "name": "setRowVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/AbstractRealMatrix.java",
+        "start_line": 513,
+        "end_line": 522,
+        "name": "getRow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 55,
+        "end_line": 58,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 73,
+        "end_line": 76,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 254,
+        "end_line": 256,
+        "name": "getDataRef",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 259,
+        "end_line": 290,
+        "name": "setSubMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 293,
+        "end_line": 297,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 300,
+        "end_line": 304,
+        "name": "setEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 321,
+        "end_line": 324,
+        "name": "getRowDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 327,
+        "end_line": 330,
+        "name": "getColumnDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/Array2DRowRealMatrix.java",
+        "start_line": 524,
+        "end_line": 527,
+        "name": "copyIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 365,
+        "end_line": 369,
+        "name": "checkMatrixIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 378,
+        "end_line": 384,
+        "name": "checkRowIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/linear/MatrixUtils.java",
+        "start_line": 393,
+        "end_line": 398,
+        "name": "checkColumnIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 88,
+        "end_line": 95,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 114,
+        "end_line": 121,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 264,
+        "end_line": 266,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Precision.java",
+        "start_line": 300,
+        "end_line": 315,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3001,
+        "end_line": 3003,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3019,
+        "end_line": 3021,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 255,
+        "end_line": 260,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+        "start_line": 42,
+        "end_line": 45,
+        "name": "Pair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/Pair.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "getKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 39,
+        "end_line": 42,
+        "name": "PointValuePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 52,
+        "end_line": 59,
+        "name": "PointValuePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/PointValuePair.java",
+        "start_line": 66,
+        "end_line": 69,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    }
+]

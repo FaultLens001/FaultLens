@@ -1,0 +1,296 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+        "start_line": 105,
+        "end_line": 108,
+        "name": "createRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/MatrixUtils.java",
+        "start_line": 648,
+        "end_line": 656,
+        "name": "checkMultiplicationCompatible",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 54,
+        "end_line": 67,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 601,
+        "end_line": 618,
+        "name": "transpose",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 917,
+        "end_line": 920,
+        "name": "walkInOptimizedOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 74,
+        "end_line": 78,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 93,
+        "end_line": 96,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 113,
+        "end_line": 138,
+        "name": "Array2DRowRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 157,
+        "end_line": 161,
+        "name": "createMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 250,
+        "end_line": 258,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 267,
+        "end_line": 291,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 311,
+        "end_line": 347,
+        "name": "setSubMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 363,
+        "end_line": 373,
+        "name": "setEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 402,
+        "end_line": 405,
+        "name": "getRowDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 408,
+        "end_line": 411,
+        "name": "getColumnDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 479,
+        "end_line": 492,
+        "name": "walkInRowOrder",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/Array2DRowRealMatrix.java",
+        "start_line": 621,
+        "end_line": 623,
+        "name": "copyIn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/DefaultRealMatrixPreservingVisitor.java",
+        "start_line": 33,
+        "end_line": 35,
+        "name": "start",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/DefaultRealMatrixPreservingVisitor.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "end",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/ArrayRealVector.java",
+        "start_line": 77,
+        "end_line": 79,
+        "name": "ArrayRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/CompositeFormat.java",
+        "start_line": 52,
+        "end_line": 56,
+        "name": "getDefaultNumberFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/RealVectorFormat.java",
+        "start_line": 93,
+        "end_line": 95,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/RealVectorFormat.java",
+        "start_line": 116,
+        "end_line": 125,
+        "name": "RealVectorFormat",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/RealVectorFormat.java",
+        "start_line": 172,
+        "end_line": 174,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/RealVectorFormat.java",
+        "start_line": 181,
+        "end_line": 183,
+        "name": "getInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 189,
+        "end_line": 207,
+        "name": "EigenDecompositionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 235,
+        "end_line": 251,
+        "name": "decompose",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 569,
+        "end_line": 605,
+        "name": "computeGershgorinCircles",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 611,
+        "end_line": 684,
+        "name": "findEigenvalues",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 690,
+        "end_line": 710,
+        "name": "computeSplits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 822,
+        "end_line": 928,
+        "name": "processGeneralBlock",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 934,
+        "end_line": 977,
+        "name": "initialSplits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 990,
+        "end_line": 1122,
+        "name": "goodStep",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1131,
+        "end_line": 1146,
+        "name": "flipIfWarranted",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1154,
+        "end_line": 1220,
+        "name": "eigenvaluesRange",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1229,
+        "end_line": 1239,
+        "name": "countEigenValues",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1252,
+        "end_line": 1263,
+        "name": "ldlTDecomposition",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1271,
+        "end_line": 1319,
+        "name": "dqds",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1328,
+        "end_line": 1421,
+        "name": "dqd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1430,
+        "end_line": 1672,
+        "name": "computeShiftIncrement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/EigenDecompositionImpl.java",
+        "start_line": 1678,
+        "end_line": 1692,
+        "name": "updateSigma",
+        "failing_tests_count": 1
+    }
+]

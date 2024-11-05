@@ -1,0 +1,513 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 78,
+        "end_line": 78,
+        "name": "ConvergingAlgorithmImpl",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 86,
+        "end_line": 88,
+        "name": "setAbsoluteAccuracy",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 91,
+        "end_line": 93,
+        "name": "getAbsoluteAccuracy",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "setMaximalIterationCount",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 116,
+        "end_line": 118,
+        "name": "setRelativeAccuracy",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "getRelativeAccuracy",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 82,
+        "end_line": 82,
+        "name": "AbstractUnivariateRealOptimizer",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 96,
+        "end_line": 101,
+        "name": "getResult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 124,
+        "end_line": 130,
+        "name": "setResult",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 136,
+        "end_line": 138,
+        "name": "clearResult",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 141,
+        "end_line": 143,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 146,
+        "end_line": 148,
+        "name": "getMaxEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "getGoalType",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 190,
+        "end_line": 198,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 43,
+        "end_line": 48,
+        "name": "BrentOptimizer",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 59,
+        "end_line": 64,
+        "name": "optimize",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 65,
+        "end_line": 67,
+        "name": "optimize",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/BrentOptimizer.java",
+        "start_line": 93,
+        "end_line": 244,
+        "name": "localMin",
+        "failing_tests_count": 4
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/LocalizedFormats.java",
+        "start_line": 305,
+        "end_line": 307,
+        "name": "LocalizedFormats",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+        "start_line": 54,
+        "end_line": 60,
+        "name": "MathIllegalArgumentException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalArgumentException.java",
+        "start_line": 105,
+        "end_line": 117,
+        "name": "flatten",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/NoDataException.java",
+        "start_line": 32,
+        "end_line": 34,
+        "name": "NoDataException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/NoDataException.java",
+        "start_line": 40,
+        "end_line": 42,
+        "name": "NoDataException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergingAlgorithmImpl.java",
+        "start_line": 81,
+        "end_line": 83,
+        "name": "getIterationCount",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 104,
+        "end_line": 114,
+        "name": "getFunctionValue",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/univariate/AbstractUnivariateRealOptimizer.java",
+        "start_line": 151,
+        "end_line": 153,
+        "name": "getEvaluations",
+        "failing_tests_count": 3
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 78,
+        "end_line": 88,
+        "name": "MultiStartUnivariateRealOptimizer",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 101,
+        "end_line": 103,
+        "name": "getAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 126,
+        "end_line": 128,
+        "name": "getRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 146,
+        "end_line": 148,
+        "name": "setAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 151,
+        "end_line": 153,
+        "name": "setMaximalIterationCount",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 156,
+        "end_line": 158,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 161,
+        "end_line": 163,
+        "name": "setRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 192,
+        "end_line": 197,
+        "name": "getOptima",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 218,
+        "end_line": 223,
+        "name": "getOptimaValues",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 226,
+        "end_line": 310,
+        "name": "optimize",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathRuntimeException.java",
+        "start_line": 442,
+        "end_line": 462,
+        "name": "createIllegalStateException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/MultiStartUnivariateRealOptimizer.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "getEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+        "start_line": 113,
+        "end_line": 114,
+        "name": "DescriptiveStatistics",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+        "start_line": 143,
+        "end_line": 153,
+        "name": "addValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+        "start_line": 178,
+        "end_line": 180,
+        "name": "getMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+        "start_line": 379,
+        "end_line": 400,
+        "name": "getPercentile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/DescriptiveStatistics.java",
+        "start_line": 431,
+        "end_line": 433,
+        "name": "apply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 142,
+        "end_line": 144,
+        "name": "ResizableDoubleArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 266,
+        "end_line": 275,
+        "name": "addElement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 381,
+        "end_line": 390,
+        "name": "contract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 473,
+        "end_line": 491,
+        "name": "expand",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 602,
+        "end_line": 604,
+        "name": "getNumElements",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 635,
+        "end_line": 637,
+        "name": "getInternalValues",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 770,
+        "end_line": 776,
+        "name": "shouldContract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+        "start_line": 787,
+        "end_line": 789,
+        "name": "start",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/AbstractUnivariateStatistic.java",
+        "start_line": 75,
+        "end_line": 105,
+        "name": "test",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+        "start_line": 77,
+        "end_line": 80,
+        "name": "Mean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Mean.java",
+        "start_line": 153,
+        "end_line": 170,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/FirstMoment.java",
+        "start_line": 76,
+        "end_line": 81,
+        "name": "FirstMoment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/GeometricMean.java",
+        "start_line": 62,
+        "end_line": 64,
+        "name": "GeometricMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfLogs.java",
+        "start_line": 60,
+        "end_line": 63,
+        "name": "SumOfLogs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Kurtosis.java",
+        "start_line": 65,
+        "end_line": 68,
+        "name": "Kurtosis",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/SecondMoment.java",
+        "start_line": 56,
+        "end_line": 59,
+        "name": "SecondMoment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/ThirdMoment.java",
+        "start_line": 65,
+        "end_line": 69,
+        "name": "ThirdMoment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/FourthMoment.java",
+        "start_line": 64,
+        "end_line": 67,
+        "name": "FourthMoment",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Max.java",
+        "start_line": 54,
+        "end_line": 57,
+        "name": "Max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Min.java",
+        "start_line": 54,
+        "end_line": 57,
+        "name": "Min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Percentile.java",
+        "start_line": 82,
+        "end_line": 84,
+        "name": "Percentile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Percentile.java",
+        "start_line": 92,
+        "end_line": 94,
+        "name": "Percentile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Percentile.java",
+        "start_line": 161,
+        "end_line": 164,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Percentile.java",
+        "start_line": 196,
+        "end_line": 229,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/rank/Percentile.java",
+        "start_line": 249,
+        "end_line": 255,
+        "name": "setQuantile",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Skewness.java",
+        "start_line": 59,
+        "end_line": 62,
+        "name": "Skewness",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/moment/Variance.java",
+        "start_line": 94,
+        "end_line": 96,
+        "name": "Variance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/SumOfSquares.java",
+        "start_line": 52,
+        "end_line": 55,
+        "name": "SumOfSquares",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+        "start_line": 53,
+        "end_line": 56,
+        "name": "Sum",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/descriptive/summary/Sum.java",
+        "start_line": 119,
+        "end_line": 129,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 98,
+        "end_line": 105,
+        "name": "Complex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 249,
+        "end_line": 278,
+        "name": "divide",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 317,
+        "end_line": 331,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 354,
+        "end_line": 356,
+        "name": "getImaginary",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 363,
+        "end_line": 365,
+        "name": "getReal",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 1177,
+        "end_line": 1180,
+        "name": "toString",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 2332,
+        "end_line": 2337,
+        "name": "checkNotNull",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 115,
+        "end_line": 135,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 156,
+        "end_line": 164,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 387,
+        "end_line": 389,
+        "name": "isInfinite",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 415,
+        "end_line": 430,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 486,
+        "end_line": 495,
+        "name": "subtract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 578,
+        "end_line": 585,
+        "name": "atan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 745,
+        "end_line": 752,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/complex/Complex.java",
+        "start_line": 1125,
+        "end_line": 1128,
+        "name": "createComplex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 301,
+        "end_line": 303,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1011,
+        "end_line": 1038,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1045,
+        "end_line": 1055,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1061,
+        "end_line": 1074,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1081,
+        "end_line": 1087,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1094,
+        "end_line": 1099,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1119,
+        "end_line": 1147,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1154,
+        "end_line": 1201,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1208,
+        "end_line": 1246,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1255,
+        "end_line": 1257,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1265,
+        "end_line": 1485,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1742,
+        "end_line": 1784,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1792,
+        "end_line": 1826,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1834,
+        "end_line": 1869,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1873,
+        "end_line": 1965,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 2972,
+        "end_line": 3087,
+        "name": "atan2",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3409,
+        "end_line": 3411,
+        "name": "abs",
+        "failing_tests_count": 1
+    }
+]

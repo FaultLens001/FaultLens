@@ -1,0 +1,191 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java",
+        "start_line": 370,
+        "end_line": 372,
+        "name": "LocalizedFormats",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/util/LocalizedFormats.java",
+        "start_line": 380,
+        "end_line": 398,
+        "name": "getLocalizedString",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 2990,
+        "end_line": 2993,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3000,
+        "end_line": 3007,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3023,
+        "end_line": 3025,
+        "name": "abs",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3335,
+        "end_line": 3356,
+        "name": "floor",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 44,
+        "end_line": 48,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 73,
+        "end_line": 75,
+        "name": "getContext",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/MathIllegalStateException.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "getLocalizedMessage",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/exception/ConvergenceException.java",
+        "start_line": 47,
+        "end_line": 50,
+        "name": "ConvergenceException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/FractionConversionException.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "FractionConversionException",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+        "start_line": 141,
+        "end_line": 145,
+        "name": "Fraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+        "start_line": 178,
+        "end_line": 243,
+        "name": "Fraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+        "start_line": 261,
+        "end_line": 289,
+        "name": "Fraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+        "start_line": 365,
+        "end_line": 367,
+        "name": "getDenominator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/Fraction.java",
+        "start_line": 373,
+        "end_line": 375,
+        "name": "getNumerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ArithmeticUtils.java",
+        "start_line": 250,
+        "end_line": 307,
+        "name": "gcd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ArithmeticUtils.java",
+        "start_line": 329,
+        "end_line": 362,
+        "name": "gcdPositive",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 120,
+        "end_line": 149,
+        "name": "BigFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 269,
+        "end_line": 335,
+        "name": "BigFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 354,
+        "end_line": 357,
+        "name": "BigFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 368,
+        "end_line": 370,
+        "name": "BigFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 383,
+        "end_line": 385,
+        "name": "BigFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 767,
+        "end_line": 769,
+        "name": "getDenominatorAsInt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/fraction/BigFraction.java",
+        "start_line": 800,
+        "end_line": 802,
+        "name": "getNumeratorAsInt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/MathUtils.java",
+        "start_line": 247,
+        "end_line": 254,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    }
+]

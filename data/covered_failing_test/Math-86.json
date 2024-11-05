@@ -1,0 +1,163 @@
+[
+    {
+        "file": "src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java",
+        "start_line": 71,
+        "end_line": 76,
+        "name": "CholeskyDecompositionImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java",
+        "start_line": 93,
+        "end_line": 151,
+        "name": "CholeskyDecompositionImpl",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java",
+        "start_line": 154,
+        "end_line": 159,
+        "name": "getL",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/CholeskyDecompositionImpl.java",
+        "start_line": 162,
+        "end_line": 171,
+        "name": "getLT",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/MatrixUtils.java",
+        "start_line": 87,
+        "end_line": 89,
+        "name": "createRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/MatrixUtils.java",
+        "start_line": 625,
+        "end_line": 633,
+        "name": "checkMultiplicationCompatible",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 54,
+        "end_line": 67,
+        "name": "AbstractRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 638,
+        "end_line": 640,
+        "name": "isSquare",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/AbstractRealMatrix.java",
+        "start_line": 989,
+        "end_line": 1015,
+        "name": "toString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 95,
+        "end_line": 109,
+        "name": "DenseRealMatrix",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 124,
+        "end_line": 127,
+        "name": "DenseRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 144,
+        "end_line": 179,
+        "name": "DenseRealMatrix",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 203,
+        "end_line": 246,
+        "name": "toBlocksLayout",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 260,
+        "end_line": 280,
+        "name": "createBlocksLayout",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 488,
+        "end_line": 542,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 552,
+        "end_line": 612,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 615,
+        "end_line": 642,
+        "name": "getData",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1210,
+        "end_line": 1224,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1278,
+        "end_line": 1312,
+        "name": "transpose",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1315,
+        "end_line": 1318,
+        "name": "getRowDimension",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1321,
+        "end_line": 1324,
+        "name": "getColumnDimension",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1625,
+        "end_line": 1627,
+        "name": "blockHeight",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/java/org/apache/commons/math/linear/DenseRealMatrix.java",
+        "start_line": 1634,
+        "end_line": 1636,
+        "name": "blockWidth",
+        "failing_tests_count": 2
+    }
+]

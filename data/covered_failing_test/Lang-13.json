@@ -1,0 +1,44 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+        "start_line": 78,
+        "end_line": 111,
+        "name": "clone",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+        "start_line": 130,
+        "end_line": 151,
+        "name": "serialize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+        "start_line": 161,
+        "end_line": 165,
+        "name": "serialize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+        "start_line": 248,
+        "end_line": 252,
+        "name": "ClassLoaderAwareObjectInputStream",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationUtils.java",
+        "start_line": 262,
+        "end_line": 270,
+        "name": "resolveClass",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/lang3/SerializationException.java",
+        "start_line": 74,
+        "end_line": 76,
+        "name": "SerializationException",
+        "failing_tests_count": 1
+    }
+]

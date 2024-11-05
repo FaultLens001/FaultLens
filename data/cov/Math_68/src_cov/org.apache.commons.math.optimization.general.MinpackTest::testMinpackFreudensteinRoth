@@ -1,0 +1,1877 @@
+[
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#AbstractLeastSquaresOptimizer():115",
+        "line_number": "115"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#AbstractLeastSquaresOptimizer():116",
+        "line_number": "116"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#AbstractLeastSquaresOptimizer():117",
+        "line_number": "117"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#AbstractLeastSquaresOptimizer():118",
+        "line_number": "118"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#AbstractLeastSquaresOptimizer():119",
+        "line_number": "119"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setMaxIterations(int):123",
+        "line_number": "123"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setMaxIterations(int):124",
+        "line_number": "124"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setMaxEvaluations(int):138",
+        "line_number": "138"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setMaxEvaluations(int):139",
+        "line_number": "139"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setConvergenceChecker(org.apache.commons.math.optimization.VectorialConvergenceChecker):158",
+        "line_number": "158"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#setConvergenceChecker(org.apache.commons.math.optimization.VectorialConvergenceChecker):159",
+        "line_number": "159"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#incrementIterationsCounter():172",
+        "line_number": "172"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#incrementIterationsCounter():175",
+        "line_number": "175"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():185",
+        "line_number": "185"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():189",
+        "line_number": "189"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():190",
+        "line_number": "190"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():191",
+        "line_number": "191"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():192",
+        "line_number": "192"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateJacobian():196",
+        "line_number": "196"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():207",
+        "line_number": "207"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():211",
+        "line_number": "211"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():212",
+        "line_number": "212"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():217",
+        "line_number": "217"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():218",
+        "line_number": "218"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():219",
+        "line_number": "219"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():220",
+        "line_number": "220"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():221",
+        "line_number": "221"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():222",
+        "line_number": "222"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#updateResidualsAndCost():226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#getRMS():239",
+        "line_number": "239"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#getRMS():240",
+        "line_number": "240"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#getRMS():241",
+        "line_number": "241"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#getRMS():242",
+        "line_number": "242"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#getRMS():244",
+        "line_number": "244"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):335",
+        "line_number": "335"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):337",
+        "line_number": "337"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):340",
+        "line_number": "340"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):341",
+        "line_number": "341"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):342",
+        "line_number": "342"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):343",
+        "line_number": "343"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):344",
+        "line_number": "344"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):345",
+        "line_number": "345"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):348",
+        "line_number": "348"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):349",
+        "line_number": "349"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):350",
+        "line_number": "350"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):352",
+        "line_number": "352"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer",
+        "rest": "#optimize(org.apache.commons.math.analysis.DifferentiableMultivariateVectorialFunction,double[],double[],double[]):354",
+        "line_number": "354"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():160",
+        "line_number": "160"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():163",
+        "line_number": "163"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():166",
+        "line_number": "166"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():167",
+        "line_number": "167"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():168",
+        "line_number": "168"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():169",
+        "line_number": "169"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#LevenbergMarquardtOptimizer():171",
+        "line_number": "171"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setInitialStepBoundFactor(double):183",
+        "line_number": "183"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setInitialStepBoundFactor(double):184",
+        "line_number": "184"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setCostRelativeTolerance(double):193",
+        "line_number": "193"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setCostRelativeTolerance(double):194",
+        "line_number": "194"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setParRelativeTolerance(double):204",
+        "line_number": "204"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setParRelativeTolerance(double):205",
+        "line_number": "205"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setOrthoTolerance(double):215",
+        "line_number": "215"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#setOrthoTolerance(double):216",
+        "line_number": "216"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():224",
+        "line_number": "224"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():225",
+        "line_number": "225"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():226",
+        "line_number": "226"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():227",
+        "line_number": "227"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():228",
+        "line_number": "228"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():229",
+        "line_number": "229"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():232",
+        "line_number": "232"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():233",
+        "line_number": "233"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():234",
+        "line_number": "234"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():235",
+        "line_number": "235"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():236",
+        "line_number": "236"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():237",
+        "line_number": "237"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():238",
+        "line_number": "238"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():239",
+        "line_number": "239"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():242",
+        "line_number": "242"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():245",
+        "line_number": "245"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():246",
+        "line_number": "246"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():249",
+        "line_number": "249"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():252",
+        "line_number": "252"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():253",
+        "line_number": "253"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():256",
+        "line_number": "256"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():260",
+        "line_number": "260"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():261",
+        "line_number": "261"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():262",
+        "line_number": "262"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():265",
+        "line_number": "265"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():269",
+        "line_number": "269"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():270",
+        "line_number": "270"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():271",
+        "line_number": "271"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():272",
+        "line_number": "272"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():275",
+        "line_number": "275"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():276",
+        "line_number": "276"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():277",
+        "line_number": "277"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():279",
+        "line_number": "279"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():282",
+        "line_number": "282"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():287",
+        "line_number": "287"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():288",
+        "line_number": "288"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():289",
+        "line_number": "289"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():290",
+        "line_number": "290"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():291",
+        "line_number": "291"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():292",
+        "line_number": "292"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():293",
+        "line_number": "293"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():294",
+        "line_number": "294"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():295",
+        "line_number": "295"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():297",
+        "line_number": "297"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():301",
+        "line_number": "301"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():307",
+        "line_number": "307"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():308",
+        "line_number": "308"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():312",
+        "line_number": "312"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():315",
+        "line_number": "315"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():316",
+        "line_number": "316"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():317",
+        "line_number": "317"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():319",
+        "line_number": "319"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():320",
+        "line_number": "320"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():321",
+        "line_number": "321"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():322",
+        "line_number": "322"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():325",
+        "line_number": "325"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():328",
+        "line_number": "328"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():329",
+        "line_number": "329"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():330",
+        "line_number": "330"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():331",
+        "line_number": "331"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():332",
+        "line_number": "332"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():333",
+        "line_number": "333"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():334",
+        "line_number": "334"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():336",
+        "line_number": "336"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():339",
+        "line_number": "339"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():340",
+        "line_number": "340"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():344",
+        "line_number": "344"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():347",
+        "line_number": "347"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():348",
+        "line_number": "348"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():349",
+        "line_number": "349"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():350",
+        "line_number": "350"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():355",
+        "line_number": "355"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():356",
+        "line_number": "356"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():357",
+        "line_number": "357"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():358",
+        "line_number": "358"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():359",
+        "line_number": "359"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():360",
+        "line_number": "360"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():363",
+        "line_number": "363"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():364",
+        "line_number": "364"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():365",
+        "line_number": "365"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():367",
+        "line_number": "367"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():368",
+        "line_number": "368"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():369",
+        "line_number": "369"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():370",
+        "line_number": "370"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():371",
+        "line_number": "371"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():374",
+        "line_number": "374"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():377",
+        "line_number": "377"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():378",
+        "line_number": "378"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():380",
+        "line_number": "380"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():381",
+        "line_number": "381"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():383",
+        "line_number": "383"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():384",
+        "line_number": "384"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():385",
+        "line_number": "385"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():386",
+        "line_number": "386"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():387",
+        "line_number": "387"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():391",
+        "line_number": "391"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():393",
+        "line_number": "393"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():394",
+        "line_number": "394"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():395",
+        "line_number": "395"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():396",
+        "line_number": "396"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():397",
+        "line_number": "397"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():399",
+        "line_number": "399"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():402",
+        "line_number": "402"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():403",
+        "line_number": "403"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():404",
+        "line_number": "404"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():405",
+        "line_number": "405"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():407",
+        "line_number": "407"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():408",
+        "line_number": "408"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():409",
+        "line_number": "409"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():415",
+        "line_number": "415"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():419",
+        "line_number": "419"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():424",
+        "line_number": "424"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():429",
+        "line_number": "429"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():434",
+        "line_number": "434"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():440",
+        "line_number": "440"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#doOptimize():442",
+        "line_number": "442"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):473",
+        "line_number": "473"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):474",
+        "line_number": "474"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):476",
+        "line_number": "476"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):479",
+        "line_number": "479"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):480",
+        "line_number": "480"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):481",
+        "line_number": "481"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):482",
+        "line_number": "482"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):483",
+        "line_number": "483"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):485",
+        "line_number": "485"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):490",
+        "line_number": "490"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):491",
+        "line_number": "491"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):492",
+        "line_number": "492"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):493",
+        "line_number": "493"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):494",
+        "line_number": "494"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):495",
+        "line_number": "495"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):497",
+        "line_number": "497"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):498",
+        "line_number": "498"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):499",
+        "line_number": "499"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):500",
+        "line_number": "500"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):501",
+        "line_number": "501"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):508",
+        "line_number": "508"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):509",
+        "line_number": "509"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):510",
+        "line_number": "510"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):511",
+        "line_number": "511"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):512",
+        "line_number": "512"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):514",
+        "line_number": "514"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):515",
+        "line_number": "515"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):516",
+        "line_number": "516"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):517",
+        "line_number": "517"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):518",
+        "line_number": "518"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):519",
+        "line_number": "519"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):521",
+        "line_number": "521"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):522",
+        "line_number": "522"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):523",
+        "line_number": "523"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):525",
+        "line_number": "525"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):529",
+        "line_number": "529"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):530",
+        "line_number": "530"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):531",
+        "line_number": "531"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):532",
+        "line_number": "532"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):533",
+        "line_number": "533"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):534",
+        "line_number": "534"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):536",
+        "line_number": "536"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):537",
+        "line_number": "537"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):539",
+        "line_number": "539"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):540",
+        "line_number": "540"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):541",
+        "line_number": "541"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):548",
+        "line_number": "548"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):549",
+        "line_number": "549"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):553",
+        "line_number": "553"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):556",
+        "line_number": "556"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):559",
+        "line_number": "559"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):560",
+        "line_number": "560"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):561",
+        "line_number": "561"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):562",
+        "line_number": "562"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):564",
+        "line_number": "564"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):566",
+        "line_number": "566"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):567",
+        "line_number": "567"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):568",
+        "line_number": "568"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):569",
+        "line_number": "569"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):570",
+        "line_number": "570"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):571",
+        "line_number": "571"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):573",
+        "line_number": "573"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):574",
+        "line_number": "574"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):575",
+        "line_number": "575"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):579",
+        "line_number": "579"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):581",
+        "line_number": "581"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):585",
+        "line_number": "585"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):586",
+        "line_number": "586"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):587",
+        "line_number": "587"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):589",
+        "line_number": "589"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):590",
+        "line_number": "590"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):591",
+        "line_number": "591"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):592",
+        "line_number": "592"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):593",
+        "line_number": "593"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):594",
+        "line_number": "594"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):597",
+        "line_number": "597"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):598",
+        "line_number": "598"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):599",
+        "line_number": "599"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):600",
+        "line_number": "600"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):602",
+        "line_number": "602"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):605",
+        "line_number": "605"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):607",
+        "line_number": "607"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):608",
+        "line_number": "608"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMParameter(double[],double,double[],double[],double[],double[]):612",
+        "line_number": "612"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):642",
+        "line_number": "642"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):643",
+        "line_number": "643"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):644",
+        "line_number": "644"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):645",
+        "line_number": "645"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):647",
+        "line_number": "647"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):648",
+        "line_number": "648"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):652",
+        "line_number": "652"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):656",
+        "line_number": "656"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):657",
+        "line_number": "657"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):658",
+        "line_number": "658"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):659",
+        "line_number": "659"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):661",
+        "line_number": "661"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):666",
+        "line_number": "666"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):667",
+        "line_number": "667"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):668",
+        "line_number": "668"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):672",
+        "line_number": "672"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):676",
+        "line_number": "676"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):677",
+        "line_number": "677"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):678",
+        "line_number": "678"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):679",
+        "line_number": "679"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):680",
+        "line_number": "680"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):681",
+        "line_number": "681"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):682",
+        "line_number": "682"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):683",
+        "line_number": "683"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):684",
+        "line_number": "684"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):689",
+        "line_number": "689"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):690",
+        "line_number": "690"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):691",
+        "line_number": "691"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):692",
+        "line_number": "692"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):695",
+        "line_number": "695"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):696",
+        "line_number": "696"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):697",
+        "line_number": "697"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):698",
+        "line_number": "698"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):699",
+        "line_number": "699"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):707",
+        "line_number": "707"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):708",
+        "line_number": "708"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):714",
+        "line_number": "714"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):715",
+        "line_number": "715"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):716",
+        "line_number": "716"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):719",
+        "line_number": "719"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):723",
+        "line_number": "723"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):724",
+        "line_number": "724"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):725",
+        "line_number": "725"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):726",
+        "line_number": "726"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):727",
+        "line_number": "727"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):728",
+        "line_number": "728"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):730",
+        "line_number": "730"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):735",
+        "line_number": "735"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):736",
+        "line_number": "736"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#determineLMDirection(double[],double[],double[],double[]):739",
+        "line_number": "739"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():766",
+        "line_number": "766"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():767",
+        "line_number": "767"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():768",
+        "line_number": "768"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():769",
+        "line_number": "769"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():770",
+        "line_number": "770"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():771",
+        "line_number": "771"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():773",
+        "line_number": "773"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():777",
+        "line_number": "777"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():780",
+        "line_number": "780"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():781",
+        "line_number": "781"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():782",
+        "line_number": "782"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():783",
+        "line_number": "783"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():784",
+        "line_number": "784"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():785",
+        "line_number": "785"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():786",
+        "line_number": "786"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():788",
+        "line_number": "788"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():793",
+        "line_number": "793"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():794",
+        "line_number": "794"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():795",
+        "line_number": "795"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():798",
+        "line_number": "798"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():802",
+        "line_number": "802"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():803",
+        "line_number": "803"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():804",
+        "line_number": "804"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():807",
+        "line_number": "807"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():808",
+        "line_number": "808"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():809",
+        "line_number": "809"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():810",
+        "line_number": "810"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():813",
+        "line_number": "813"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():814",
+        "line_number": "814"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():817",
+        "line_number": "817"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():818",
+        "line_number": "818"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():819",
+        "line_number": "819"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():820",
+        "line_number": "820"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():822",
+        "line_number": "822"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():823",
+        "line_number": "823"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():824",
+        "line_number": "824"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():830",
+        "line_number": "830"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qrDecomposition():832",
+        "line_number": "832"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):840",
+        "line_number": "840"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):841",
+        "line_number": "841"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):842",
+        "line_number": "842"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):843",
+        "line_number": "843"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):844",
+        "line_number": "844"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):846",
+        "line_number": "846"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):847",
+        "line_number": "847"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):848",
+        "line_number": "848"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer",
+        "rest": "#qTy(double[]):851",
+        "line_number": "851"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.SimpleVectorialValueChecker",
+        "rest": "#SimpleVectorialValueChecker():50",
+        "line_number": "50"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.SimpleVectorialValueChecker",
+        "rest": "#SimpleVectorialValueChecker():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.SimpleVectorialValueChecker",
+        "rest": "#SimpleVectorialValueChecker():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.SimpleVectorialValueChecker",
+        "rest": "#SimpleVectorialValueChecker():53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.VectorialPointValuePair",
+        "rest": "#VectorialPointValuePair(double[],double[]):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.VectorialPointValuePair",
+        "rest": "#VectorialPointValuePair(double[],double[]):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.VectorialPointValuePair",
+        "rest": "#VectorialPointValuePair(double[],double[]):48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.VectorialPointValuePair",
+        "rest": "#VectorialPointValuePair(double[],double[]):49",
+        "line_number": "49"
+    },
+    {
+        "class_name": "org.apache.commons.math.optimization.VectorialPointValuePair",
+        "rest": "#getPointRef():77",
+        "line_number": "77"
+    }
+]

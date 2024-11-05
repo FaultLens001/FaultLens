@@ -1,0 +1,198 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "AbstractIntegerDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 100,
+        "end_line": 143,
+        "name": "inverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 157,
+        "end_line": 177,
+        "name": "solveInverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java",
+        "start_line": 192,
+        "end_line": 194,
+        "name": "sample",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 61,
+        "end_line": 64,
+        "name": "HypergeometricDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 79,
+        "end_line": 111,
+        "name": "HypergeometricDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 160,
+        "end_line": 162,
+        "name": "getNumberOfSuccesses",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 169,
+        "end_line": 171,
+        "name": "getPopulationSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 178,
+        "end_line": 180,
+        "name": "getSampleSize",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 267,
+        "end_line": 269,
+        "name": "getNumericalMean",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 278,
+        "end_line": 284,
+        "name": "getNumericalVariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 291,
+        "end_line": 296,
+        "name": "calculateNumericalVariance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 307,
+        "end_line": 310,
+        "name": "getSupportLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/HypergeometricDistribution.java",
+        "start_line": 320,
+        "end_line": 322,
+        "name": "getSupportUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 40,
+        "end_line": 42,
+        "name": "BitsStreamGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 89,
+        "end_line": 93,
+        "name": "nextDouble",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 194,
+        "end_line": 196,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 71,
+        "end_line": 73,
+        "name": "AbstractWell",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 94,
+        "end_line": 122,
+        "name": "AbstractWell",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 152,
+        "end_line": 170,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/AbstractWell.java",
+        "start_line": 177,
+        "end_line": 180,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "Well19937c",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/Well19937c.java",
+        "start_line": 83,
+        "end_line": 113,
+        "name": "next",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataImpl.java",
+        "start_line": 114,
+        "end_line": 116,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataGenerator.java",
+        "start_line": 132,
+        "end_line": 133,
+        "name": "RandomDataGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 384,
+        "end_line": 386,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3428,
+        "end_line": 3430,
+        "name": "min",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3496,
+        "end_line": 3498,
+        "name": "max",
+        "failing_tests_count": 1
+    }
+]

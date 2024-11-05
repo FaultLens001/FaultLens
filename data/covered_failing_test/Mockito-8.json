@@ -1,0 +1,107 @@
+[
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 66,
+        "end_line": 84,
+        "name": "registerTypeVariablesOn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 86,
+        "end_line": 90,
+        "name": "registerTypeParametersOn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 92,
+        "end_line": 97,
+        "name": "registerTypeVariableIfNotPresent",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 104,
+        "end_line": 109,
+        "name": "boundsOf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 181,
+        "end_line": 189,
+        "name": "getActualTypeArgumentFor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 199,
+        "end_line": 214,
+        "name": "resolveGenericReturnType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 228,
+        "end_line": 238,
+        "name": "inferFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/Checks.java",
+        "start_line": 13,
+        "end_line": 18,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 254,
+        "end_line": 263,
+        "name": "FromClassGenericMetadataSupport",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 265,
+        "end_line": 272,
+        "name": "superClassOf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 274,
+        "end_line": 280,
+        "name": "readActualTypeParametersOnDeclaringClass",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 519,
+        "end_line": 521,
+        "name": "TypeVarBoundedType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 362,
+        "end_line": 369,
+        "name": "TypeVariableReturnType",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 371,
+        "end_line": 373,
+        "name": "readTypeParameters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/reflection/GenericMetadataSupport.java",
+        "start_line": 375,
+        "end_line": 380,
+        "name": "readTypeVariables",
+        "failing_tests_count": 1
+    }
+]

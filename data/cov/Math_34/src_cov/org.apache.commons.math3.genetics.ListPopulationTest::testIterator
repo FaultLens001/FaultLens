@@ -1,0 +1,167 @@
+[
+    {
+        "class_name": "org.apache.commons.math3.genetics.Chromosome",
+        "rest": "#Chromosome():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.Chromosome",
+        "rest": "#Chromosome():33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.AbstractListChromosome",
+        "rest": "#AbstractListChromosome(java.util.List):42",
+        "line_number": "42"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.AbstractListChromosome",
+        "rest": "#AbstractListChromosome(java.util.List):43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.AbstractListChromosome",
+        "rest": "#AbstractListChromosome(java.util.List):44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.AbstractListChromosome",
+        "rest": "#AbstractListChromosome(java.util.List):45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#BinaryChromosome(java.util.List):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#BinaryChromosome(java.util.List):40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#checkValidity(java.util.List):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#checkValidity(java.util.List):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#checkValidity(java.util.List):63",
+        "line_number": "63"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#checkValidity(java.util.List):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#randomBinaryRepresentation(int):73",
+        "line_number": "73"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#randomBinaryRepresentation(int):74",
+        "line_number": "74"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#randomBinaryRepresentation(int):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.BinaryChromosome",
+        "rest": "#randomBinaryRepresentation(int):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.GeneticAlgorithm",
+        "rest": "#<clinit>():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.GeneticAlgorithm",
+        "rest": "#getRandomGenerator():104",
+        "line_number": "104"
+    },
+    {
+        "class_name": "org.apache.commons.math3.random.JDKRandomGenerator",
+        "rest": "#JDKRandomGenerator():28",
+        "line_number": "28"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(int):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(int):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):65",
+        "line_number": "65"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):68",
+        "line_number": "68"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):75",
+        "line_number": "75"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#ListPopulation(java.util.List,int):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#addChromosomes(java.util.Collection):108",
+        "line_number": "108"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#addChromosomes(java.util.Collection):112",
+        "line_number": "112"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#addChromosomes(java.util.Collection):113",
+        "line_number": "113"
+    },
+    {
+        "class_name": "org.apache.commons.math3.genetics.ListPopulation",
+        "rest": "#iterator():209",
+        "line_number": "209"
+    }
+]

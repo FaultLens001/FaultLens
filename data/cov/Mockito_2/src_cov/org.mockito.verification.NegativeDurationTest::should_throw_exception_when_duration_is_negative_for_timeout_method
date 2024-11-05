@@ -1,0 +1,502 @@
+[
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#MockUtil():22",
+        "line_number": "22"
+    },
+    {
+        "class_name": "org.mockito.internal.util.MockUtil",
+        "rest": "#<clinit>():24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.Plugins",
+        "rest": "#<clinit>():11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.Plugins",
+        "rest": "#getMockMaker():27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():7",
+        "line_number": "7"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():10",
+        "line_number": "10"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#PluginRegistry():16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginRegistry",
+        "rest": "#getMockMaker():33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#PluginLoader(org.mockito.plugins.PluginSwitch):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#PluginLoader(org.mockito.plugins.PluginSwitch):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#PluginLoader(org.mockito.plugins.PluginSwitch):18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadPlugin(java.lang.Class,java.lang.String):24",
+        "line_number": "24"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadPlugin(java.lang.Class,java.lang.String):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadPlugin(java.lang.Class,java.lang.String):33",
+        "line_number": "33"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):46",
+        "line_number": "46"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):47",
+        "line_number": "47"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):59",
+        "line_number": "59"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginLoader",
+        "rest": "#loadImpl(java.lang.Class):64",
+        "line_number": "64"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.DefaultPluginSwitch",
+        "rest": "#DefaultPluginSwitch():5",
+        "line_number": "5"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginFinder",
+        "rest": "#PluginFinder(org.mockito.plugins.PluginSwitch):14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginFinder",
+        "rest": "#PluginFinder(org.mockito.plugins.PluginSwitch):15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginFinder",
+        "rest": "#PluginFinder(org.mockito.plugins.PluginSwitch):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginFinder",
+        "rest": "#findPluginClass(java.lang.Iterable):19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.configuration.plugins.PluginFinder",
+        "rest": "#findPluginClass(java.lang.Iterable):39",
+        "line_number": "39"
+    },
+    {
+        "class_name": "org.mockito.internal.util.collections.Iterables",
+        "rest": "#toIterable(java.util.Enumeration):16",
+        "line_number": "16"
+    },
+    {
+        "class_name": "org.mockito.internal.util.collections.Iterables",
+        "rest": "#toIterable(java.util.Enumeration):17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.util.collections.Iterables",
+        "rest": "#toIterable(java.util.Enumeration):20",
+        "line_number": "20"
+    },
+    {
+        "class_name": "org.mockito.internal.creation.cglib.CglibMockMaker",
+        "rest": "#CglibMockMaker():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.exceptions.stacktrace.DefaultStackTraceCleanerProvider",
+        "rest": "#DefaultStackTraceCleanerProvider():9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Timer",
+        "rest": "#Timer(long):9",
+        "line_number": "9"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Timer",
+        "rest": "#Timer(long):7",
+        "line_number": "7"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Timer",
+        "rest": "#Timer(long):10",
+        "line_number": "10"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Timer",
+        "rest": "#Timer(long):11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.internal.util.Timer",
+        "rest": "#<clinit>():4",
+        "line_number": "4"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#ThreadSafeMockingProgress():15",
+        "line_number": "15"
+    },
+    {
+        "class_name": "org.mockito.internal.progress.ThreadSafeMockingProgress",
+        "rest": "#<clinit>():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.exceptions.Reporter",
+        "rest": "#Reporter():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.Matchers",
+        "rest": "#<clinit>():100",
+        "line_number": "100"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():975",
+        "line_number": "975"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():986",
+        "line_number": "986"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1018",
+        "line_number": "1018"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1031",
+        "line_number": "1031"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1118",
+        "line_number": "1118"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#<clinit>():1152",
+        "line_number": "1152"
+    },
+    {
+        "class_name": "org.mockito.Mockito",
+        "rest": "#timeout(long):2163",
+        "line_number": "2163"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():41",
+        "line_number": "41"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():44",
+        "line_number": "44"
+    },
+    {
+        "class_name": "org.mockito.internal.MockitoCore",
+        "rest": "#MockitoCore():45",
+        "line_number": "45"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):76",
+        "line_number": "76"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):77",
+        "line_number": "77"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#Answers(java.lang.String,int,org.mockito.stubbing.Answer):78",
+        "line_number": "78"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():34",
+        "line_number": "34"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():62",
+        "line_number": "62"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():71",
+        "line_number": "71"
+    },
+    {
+        "class_name": "org.mockito.Answers",
+        "rest": "#<clinit>():26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.GloballyConfiguredAnswer",
+        "rest": "#GloballyConfiguredAnswer():19",
+        "line_number": "19"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls",
+        "rest": "#ReturnsSmartNulls():36",
+        "line_number": "36"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls",
+        "rest": "#ReturnsSmartNulls():40",
+        "line_number": "40"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues",
+        "rest": "#ReturnsMoreEmptyValues():48",
+        "line_number": "48"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues",
+        "rest": "#ReturnsMoreEmptyValues():51",
+        "line_number": "51"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues",
+        "rest": "#ReturnsEmptyValues():54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues",
+        "rest": "#ReturnsEmptyValues():57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues",
+        "rest": "#ReturnsEmptyValues():58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.internal.util.ObjectMethodsGuru",
+        "rest": "#ObjectMethodsGuru():13",
+        "line_number": "13"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():14",
+        "line_number": "14"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():17",
+        "line_number": "17"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsMocks",
+        "rest": "#ReturnsMocks():18",
+        "line_number": "18"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs",
+        "rest": "#ReturnsDeepStubs():43",
+        "line_number": "43"
+    },
+    {
+        "class_name": "org.mockito.internal.stubbing.answers.CallsRealMethods",
+        "rest": "#CallsRealMethods():35",
+        "line_number": "35"
+    },
+    {
+        "class_name": "org.mockito.verification.VerificationWrapper",
+        "rest": "#VerificationWrapper(org.mockito.verification.VerificationMode):10",
+        "line_number": "10"
+    },
+    {
+        "class_name": "org.mockito.verification.VerificationWrapper",
+        "rest": "#VerificationWrapper(org.mockito.verification.VerificationMode):11",
+        "line_number": "11"
+    },
+    {
+        "class_name": "org.mockito.verification.VerificationWrapper",
+        "rest": "#VerificationWrapper(org.mockito.verification.VerificationMode):12",
+        "line_number": "12"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationModeFactory",
+        "rest": "#times(int):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.Times",
+        "rest": "#Times(int):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.Times",
+        "rest": "#Times(int):27",
+        "line_number": "27"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.Times",
+        "rest": "#Times(int):30",
+        "line_number": "30"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.Times",
+        "rest": "#Times(int):31",
+        "line_number": "31"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean):37",
+        "line_number": "37"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean):38",
+        "line_number": "38"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):52",
+        "line_number": "52"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):53",
+        "line_number": "53"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):54",
+        "line_number": "54"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):55",
+        "line_number": "55"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):56",
+        "line_number": "56"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):57",
+        "line_number": "57"
+    },
+    {
+        "class_name": "org.mockito.internal.verification.VerificationOverTimeImpl",
+        "rest": "#VerificationOverTimeImpl(long,long,org.mockito.verification.VerificationMode,boolean,org.mockito.internal.util.Timer):58",
+        "line_number": "58"
+    },
+    {
+        "class_name": "org.mockito.verification.Timeout",
+        "rest": "#Timeout(long,org.mockito.verification.VerificationMode):25",
+        "line_number": "25"
+    },
+    {
+        "class_name": "org.mockito.verification.Timeout",
+        "rest": "#Timeout(long,org.mockito.verification.VerificationMode):26",
+        "line_number": "26"
+    },
+    {
+        "class_name": "org.mockito.verification.Timeout",
+        "rest": "#Timeout(long,long,org.mockito.verification.VerificationMode):32",
+        "line_number": "32"
+    },
+    {
+        "class_name": "org.mockito.verification.Timeout",
+        "rest": "#Timeout(long,long,org.mockito.verification.VerificationMode):33",
+        "line_number": "33"
+    }
+]

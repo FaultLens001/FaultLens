@@ -1,0 +1,149 @@
+[
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractDistribution.java",
+        "start_line": 37,
+        "end_line": 39,
+        "name": "AbstractDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "AbstractContinuousDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/AbstractContinuousDistribution.java",
+        "start_line": 59,
+        "end_line": 110,
+        "name": "inverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 48,
+        "end_line": 53,
+        "name": "FDistributionImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 70,
+        "end_line": 83,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 98,
+        "end_line": 107,
+        "name": "inverseCumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 118,
+        "end_line": 120,
+        "name": "getDomainLowerBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 131,
+        "end_line": 133,
+        "name": "getDomainUpperBound",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 143,
+        "end_line": 149,
+        "name": "getInitialDomain",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 157,
+        "end_line": 163,
+        "name": "setNumeratorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 169,
+        "end_line": 171,
+        "name": "getNumeratorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 179,
+        "end_line": 185,
+        "name": "setDenominatorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/distribution/FDistributionImpl.java",
+        "start_line": 191,
+        "end_line": 193,
+        "name": "getDenominatorDegreesOfFreedom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 56,
+        "end_line": 60,
+        "name": "regularizedBeta",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 121,
+        "end_line": 162,
+        "name": "regularizedBeta",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Beta.java",
+        "start_line": 192,
+        "end_line": 205,
+        "name": "logBeta",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 50,
+        "end_line": 52,
+        "name": "ContinuedFraction",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/util/ContinuedFraction.java",
+        "start_line": 130,
+        "end_line": 179,
+        "name": "evaluate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/special/Gamma.java",
+        "start_line": 87,
+        "end_line": 107,
+        "name": "logGamma",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/analysis/UnivariateRealSolverUtils.java",
+        "start_line": 125,
+        "end_line": 130,
+        "name": "bracket",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/java/org/apache/commons/math/analysis/UnivariateRealSolverUtils.java",
+        "start_line": 166,
+        "end_line": 208,
+        "name": "bracket",
+        "failing_tests_count": 1
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 116,
+        "end_line": 120,
+        "name": "DirectSearchOptimizer",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 138,
+        "end_line": 155,
+        "name": "setStartConfiguration",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 219,
+        "end_line": 221,
+        "name": "setMaxIterations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 229,
+        "end_line": 231,
+        "name": "setMaxEvaluations",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 244,
+        "end_line": 246,
+        "name": "getEvaluations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 249,
+        "end_line": 251,
+        "name": "setConvergenceChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 259,
+        "end_line": 311,
+        "name": "optimize",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 317,
+        "end_line": 322,
+        "name": "incrementIterationsCounter",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 343,
+        "end_line": 350,
+        "name": "evaluate",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 357,
+        "end_line": 381,
+        "name": "buildSimplex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/DirectSearchOptimizer.java",
+        "start_line": 388,
+        "end_line": 403,
+        "name": "evaluateSimplex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/MultiDirectional.java",
+        "start_line": 45,
+        "end_line": 48,
+        "name": "MultiDirectional",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/MultiDirectional.java",
+        "start_line": 60,
+        "end_line": 99,
+        "name": "iterateSimplex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/direct/MultiDirectional.java",
+        "start_line": 110,
+        "end_line": 134,
+        "name": "evaluateNewSimplex",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/SimpleScalarValueChecker.java",
+        "start_line": 50,
+        "end_line": 53,
+        "name": "SimpleScalarValueChecker",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/SimpleScalarValueChecker.java",
+        "start_line": 64,
+        "end_line": 68,
+        "name": "SimpleScalarValueChecker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/SimpleScalarValueChecker.java",
+        "start_line": 71,
+        "end_line": 79,
+        "name": "converged",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java",
+        "start_line": 48,
+        "end_line": 51,
+        "name": "RealPointValuePair",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java",
+        "start_line": 60,
+        "end_line": 64,
+        "name": "RealPointValuePair",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java",
+        "start_line": 69,
+        "end_line": 71,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java",
+        "start_line": 78,
+        "end_line": 80,
+        "name": "getPointRef",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/RealPointValuePair.java",
+        "start_line": 85,
+        "end_line": 87,
+        "name": "getValue",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 58,
+        "end_line": 75,
+        "name": "translate",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 84,
+        "end_line": 86,
+        "name": "buildMessage",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 165,
+        "end_line": 167,
+        "name": "getMessage",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 170,
+        "end_line": 173,
+        "name": "getLocalizedMessage",
+        "failing_tests_count": 2
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 105,
+        "end_line": 109,
+        "name": "MathException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MathException.java",
+        "start_line": 118,
+        "end_line": 122,
+        "name": "MathException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergenceException.java",
+        "start_line": 44,
+        "end_line": 46,
+        "name": "ConvergenceException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/ConvergenceException.java",
+        "start_line": 52,
+        "end_line": 54,
+        "name": "ConvergenceException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/optimization/OptimizationException.java",
+        "start_line": 49,
+        "end_line": 51,
+        "name": "OptimizationException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/MaxIterationsExceededException.java",
+        "start_line": 42,
+        "end_line": 45,
+        "name": "MaxIterationsExceededException",
+        "failing_tests_count": 1
+    }
+]

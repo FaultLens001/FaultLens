@@ -1,0 +1,310 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 44,
+        "end_line": 47,
+        "name": "MannWhitneyUTest",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 71,
+        "end_line": 82,
+        "name": "ensureDataConformance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 89,
+        "end_line": 96,
+        "name": "concatenateSamples",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 126,
+        "end_line": 156,
+        "name": "mannWhitneyU",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 168,
+        "end_line": 184,
+        "name": "calculateAsymptoticPValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/inference/MannWhitneyUTest.java",
+        "start_line": 218,
+        "end_line": 232,
+        "name": "mannWhitneyUTest",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 128,
+        "end_line": 133,
+        "name": "NaturalRanking",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 190,
+        "end_line": 249,
+        "name": "rank",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 386,
+        "end_line": 395,
+        "name": "restoreNaNs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 403,
+        "end_line": 411,
+        "name": "getNanPositions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/RandomDataImpl.java",
+        "start_line": 168,
+        "end_line": 169,
+        "name": "RandomDataImpl",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 374,
+        "end_line": 376,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 817,
+        "end_line": 932,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1095,
+        "end_line": 1097,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1105,
+        "end_line": 1325,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1419,
+        "end_line": 1577,
+        "name": "pow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3019,
+        "end_line": 3021,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3331,
+        "end_line": 3352,
+        "name": "floor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3358,
+        "end_line": 3377,
+        "name": "ceil",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3534,
+        "end_line": 3552,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6141,
+        "end_line": 6143,
+        "name": "loadExpIntA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6149,
+        "end_line": 6151,
+        "name": "loadExpIntB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6157,
+        "end_line": 6159,
+        "name": "loadExpFracA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6165,
+        "end_line": 6167,
+        "name": "loadExpFracB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 160,
+        "end_line": 163,
+        "name": "ResizableDoubleArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 300,
+        "end_line": 309,
+        "name": "addElement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 431,
+        "end_line": 440,
+        "name": "contract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 525,
+        "end_line": 543,
+        "name": "expand",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 598,
+        "end_line": 603,
+        "name": "getElements",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 754,
+        "end_line": 764,
+        "name": "setInitialCapacity",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ResizableDoubleArray.java",
+        "start_line": 799,
+        "end_line": 805,
+        "name": "shouldContract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/ArithmeticUtils.java",
+        "start_line": 298,
+        "end_line": 307,
+        "name": "factorial",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 432,
+        "end_line": 435,
+        "name": "IntDoublePair",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 444,
+        "end_line": 446,
+        "name": "compareTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 452,
+        "end_line": 454,
+        "name": "getValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 460,
+        "end_line": 462,
+        "name": "getPosition",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/stat/ranking/NaturalRanking.java",
+        "start_line": 326,
+        "end_line": 364,
+        "name": "resolveTie",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/AbstractRealDistribution.java",
+        "start_line": 53,
+        "end_line": 53,
+        "name": "AbstractRealDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java",
+        "start_line": 59,
+        "end_line": 62,
+        "name": "NormalDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java",
+        "start_line": 74,
+        "end_line": 83,
+        "name": "NormalDistribution",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/distribution/NormalDistribution.java",
+        "start_line": 136,
+        "end_line": 142,
+        "name": "cumulativeProbability",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Erf.java",
+        "start_line": 66,
+        "end_line": 72,
+        "name": "erf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/special/Gamma.java",
+        "start_line": 148,
+        "end_line": 187,
+        "name": "regularizedGammaP",
+        "failing_tests_count": 1
+    }
+]

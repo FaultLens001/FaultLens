@@ -1,0 +1,58 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 47,
+        "end_line": 51,
+        "name": "WeightedObservedPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 63,
+        "end_line": 65,
+        "name": "getX",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/WeightedObservedPoint.java",
+        "start_line": 70,
+        "end_line": 72,
+        "name": "getY",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+        "start_line": 195,
+        "end_line": 202,
+        "name": "ParameterGuesser",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+        "start_line": 214,
+        "end_line": 219,
+        "name": "guess",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+        "start_line": 224,
+        "end_line": 246,
+        "name": "sortObservations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+        "start_line": 257,
+        "end_line": 329,
+        "name": "guessAOmega",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/optimization/fitting/HarmonicFitter.java",
+        "start_line": 334,
+        "end_line": 357,
+        "name": "guessPhi",
+        "failing_tests_count": 1
+    }
+]

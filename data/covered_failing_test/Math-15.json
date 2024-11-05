@@ -1,0 +1,401 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 176,
+        "end_line": 178,
+        "name": "DfpField",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 191,
+        "end_line": 245,
+        "name": "DfpField",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 250,
+        "end_line": 252,
+        "name": "getRadixDigits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 268,
+        "end_line": 270,
+        "name": "getRoundingMode",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 330,
+        "end_line": 332,
+        "name": "setIEEEFlagsBits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 402,
+        "end_line": 404,
+        "name": "getZero",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 529,
+        "end_line": 572,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 577,
+        "end_line": 601,
+        "name": "computeStringConstants",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 609,
+        "end_line": 644,
+        "name": "computePi",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 651,
+        "end_line": 672,
+        "name": "computeExp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/DfpField.java",
+        "start_line": 734,
+        "end_line": 756,
+        "name": "computeLn",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 201,
+        "end_line": 203,
+        "name": "Dfp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 209,
+        "end_line": 250,
+        "name": "Dfp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 322,
+        "end_line": 328,
+        "name": "Dfp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 334,
+        "end_line": 533,
+        "name": "Dfp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 594,
+        "end_line": 606,
+        "name": "newInstance",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 634,
+        "end_line": 636,
+        "name": "getField",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 641,
+        "end_line": 643,
+        "name": "getRadixDigits",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 648,
+        "end_line": 650,
+        "name": "getZero",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 668,
+        "end_line": 674,
+        "name": "shiftLeft",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 680,
+        "end_line": 686,
+        "name": "shiftRight",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 696,
+        "end_line": 747,
+        "name": "align",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 753,
+        "end_line": 772,
+        "name": "lessThan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 778,
+        "end_line": 797,
+        "name": "greaterThan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 878,
+        "end_line": 880,
+        "name": "isNaN",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 901,
+        "end_line": 915,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 930,
+        "end_line": 936,
+        "name": "unequal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 944,
+        "end_line": 996,
+        "name": "compare",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1229,
+        "end_line": 1245,
+        "name": "complement",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1251,
+        "end_line": 1394,
+        "name": "add",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1399,
+        "end_line": 1403,
+        "name": "negate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1409,
+        "end_line": 1411,
+        "name": "subtract",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1417,
+        "end_line": 1490,
+        "name": "round",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1496,
+        "end_line": 1596,
+        "name": "multiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1677,
+        "end_line": 1885,
+        "name": "divide",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1892,
+        "end_line": 1950,
+        "name": "divide",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1960,
+        "end_line": 2051,
+        "name": "sqrt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 2056,
+        "end_line": 2073,
+        "name": "toString",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 2159,
+        "end_line": 2227,
+        "name": "dfp2string",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 2236,
+        "end_line": 2293,
+        "name": "dotrap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 2306,
+        "end_line": 2308,
+        "name": "trap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/dfp/Dfp.java",
+        "start_line": 1044,
+        "end_line": 1128,
+        "name": "trunc",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 35,
+        "end_line": 37,
+        "name": "BitsStreamGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/BitsStreamGenerator.java",
+        "start_line": 164,
+        "end_line": 166,
+        "name": "clear",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 131,
+        "end_line": 134,
+        "name": "MersenneTwister",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 141,
+        "end_line": 155,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 164,
+        "end_line": 207,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/random/MersenneTwister.java",
+        "start_line": 214,
+        "end_line": 217,
+        "name": "setSeed",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 840,
+        "end_line": 955,
+        "name": "exp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1128,
+        "end_line": 1352,
+        "name": "log",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 1441,
+        "end_line": 1599,
+        "name": "pow",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMath.java",
+        "start_line": 3486,
+        "end_line": 3488,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6141,
+        "end_line": 6143,
+        "name": "loadExpIntA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6149,
+        "end_line": 6151,
+        "name": "loadExpIntB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6157,
+        "end_line": 6159,
+        "name": "loadExpFracA",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6165,
+        "end_line": 6167,
+        "name": "loadExpFracB",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/util/FastMathLiteralArrays.java",
+        "start_line": 6173,
+        "end_line": 6175,
+        "name": "loadLnMant",
+        "failing_tests_count": 1
+    }
+]

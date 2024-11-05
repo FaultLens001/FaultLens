@@ -1,0 +1,65 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/AbstractListChromosome.java",
+        "start_line": 42,
+        "end_line": 45,
+        "name": "AbstractListChromosome",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java",
+        "start_line": 38,
+        "end_line": 40,
+        "name": "BinaryChromosome",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java",
+        "start_line": 55,
+        "end_line": 64,
+        "name": "checkValidity",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/BinaryChromosome.java",
+        "start_line": 71,
+        "end_line": 78,
+        "name": "randomBinaryRepresentation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/GeneticAlgorithm.java",
+        "start_line": 103,
+        "end_line": 105,
+        "name": "getRandomGenerator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/ListPopulation.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "ListPopulation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/ListPopulation.java",
+        "start_line": 64,
+        "end_line": 78,
+        "name": "ListPopulation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/ListPopulation.java",
+        "start_line": 107,
+        "end_line": 113,
+        "name": "addChromosomes",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math3/genetics/ListPopulation.java",
+        "start_line": 208,
+        "end_line": 210,
+        "name": "iterator",
+        "failing_tests_count": 1
+    }
+]

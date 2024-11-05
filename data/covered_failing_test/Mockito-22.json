@@ -1,0 +1,422 @@
+[
+    {
+        "file": "src/org/mockito/MockitoAnnotations.java",
+        "start_line": 89,
+        "end_line": 109,
+        "name": "initMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/MockitoAnnotations.java",
+        "start_line": 111,
+        "end_line": 117,
+        "name": "scanDeprecatedWay",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/GlobalConfiguration.java",
+        "start_line": 29,
+        "end_line": 34,
+        "name": "GlobalConfiguration",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/GlobalConfiguration.java",
+        "start_line": 25,
+        "end_line": 27,
+        "name": "getIt",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/GlobalConfiguration.java",
+        "start_line": 36,
+        "end_line": 44,
+        "name": "createConfig",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/GlobalConfiguration.java",
+        "start_line": 46,
+        "end_line": 48,
+        "name": "validate",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/GlobalConfiguration.java",
+        "start_line": 54,
+        "end_line": 56,
+        "name": "getAnnotationEngine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/configuration/DefaultMockitoConfiguration.java",
+        "start_line": 38,
+        "end_line": 40,
+        "name": "getAnnotationEngine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 70,
+        "end_line": 88,
+        "name": "loadConfiguration",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 96,
+        "end_line": 98,
+        "name": "getMockMaker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "findPlatformMockMaker",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 113,
+        "end_line": 116,
+        "name": "findPlatformStackTraceCleanerProvider",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 118,
+        "end_line": 133,
+        "name": "findPluginImplementation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/ClassPathLoader.java",
+        "start_line": 139,
+        "end_line": 170,
+        "name": "loadImplementations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/InjectingAnnotationEngine.java",
+        "start_line": 54,
+        "end_line": 57,
+        "name": "process",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/InjectingAnnotationEngine.java",
+        "start_line": 59,
+        "end_line": 65,
+        "name": "processInjectMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/InjectingAnnotationEngine.java",
+        "start_line": 67,
+        "end_line": 77,
+        "name": "processIndependentAnnotations",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/InjectingAnnotationEngine.java",
+        "start_line": 89,
+        "end_line": 101,
+        "name": "injectMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/DefaultAnnotationEngine.java",
+        "start_line": 32,
+        "end_line": 36,
+        "name": "DefaultAnnotationEngine",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/DefaultAnnotationEngine.java",
+        "start_line": 57,
+        "end_line": 59,
+        "name": "registerAnnotationProcessor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/DefaultAnnotationEngine.java",
+        "start_line": 61,
+        "end_line": 79,
+        "name": "process",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/SpyAnnotationEngine.java",
+        "start_line": 45,
+        "end_line": 75,
+        "name": "process",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/Sets.java",
+        "start_line": 19,
+        "end_line": 21,
+        "name": "newMockSafeHashSet",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java",
+        "start_line": 36,
+        "end_line": 52,
+        "name": "iterator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java",
+        "start_line": 123,
+        "end_line": 125,
+        "name": "addAll",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java",
+        "start_line": 131,
+        "end_line": 139,
+        "name": "asWrappedMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java",
+        "start_line": 145,
+        "end_line": 147,
+        "name": "of",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/collections/HashCodeAndEqualsSafeSet.java",
+        "start_line": 149,
+        "end_line": 157,
+        "name": "of",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/InjectMocksScanner.java",
+        "start_line": 29,
+        "end_line": 31,
+        "name": "InjectMocksScanner",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/InjectMocksScanner.java",
+        "start_line": 39,
+        "end_line": 41,
+        "name": "addTo",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/InjectMocksScanner.java",
+        "start_line": 48,
+        "end_line": 59,
+        "name": "scan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/MockScanner.java",
+        "start_line": 32,
+        "end_line": 35,
+        "name": "MockScanner",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/MockScanner.java",
+        "start_line": 46,
+        "end_line": 48,
+        "name": "addPreparedMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/scanner/MockScanner.java",
+        "start_line": 55,
+        "end_line": 67,
+        "name": "scan",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/Checks.java",
+        "start_line": 13,
+        "end_line": 18,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/util/Checks.java",
+        "start_line": 20,
+        "end_line": 26,
+        "name": "checkItemsNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/DefaultInjectionEngine.java",
+        "start_line": 19,
+        "end_line": 26,
+        "name": "injectMocksOnFields",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 47,
+        "end_line": 49,
+        "name": "onFields",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 65,
+        "end_line": 68,
+        "name": "OngoingMockInjection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 70,
+        "end_line": 73,
+        "name": "withMocks",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 75,
+        "end_line": 78,
+        "name": "tryConstructorInjection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 80,
+        "end_line": 83,
+        "name": "tryPropertyOrFieldInjection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 85,
+        "end_line": 88,
+        "name": "handleSpyAnnotation",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjection.java",
+        "start_line": 90,
+        "end_line": 95,
+        "name": "apply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjectionStrategy.java",
+        "start_line": 19,
+        "end_line": 25,
+        "name": "nop",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/MockInjectionStrategy.java",
+        "start_line": 40,
+        "end_line": 47,
+        "name": "thenTry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/ConstructorInjection.java",
+        "start_line": 42,
+        "end_line": 42,
+        "name": "ConstructorInjection",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter.java",
+        "start_line": 16,
+        "end_line": 18,
+        "name": "TypeBasedCandidateFilter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter.java",
+        "start_line": 18,
+        "end_line": 20,
+        "name": "NameBasedCandidateFilter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/matchers/Equality.java",
+        "start_line": 12,
+        "end_line": 20,
+        "name": "areEqual",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/matchers/Equality.java",
+        "start_line": 22,
+        "end_line": 25,
+        "name": "areArraysEqual",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/matchers/Equality.java",
+        "start_line": 27,
+        "end_line": 29,
+        "name": "areArrayLengthsEqual",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/matchers/Equality.java",
+        "start_line": 31,
+        "end_line": 36,
+        "name": "areArrayElementsEqual",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/matchers/Equality.java",
+        "start_line": 38,
+        "end_line": 40,
+        "name": "isArray",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+        "start_line": 21,
+        "end_line": 26,
+        "name": "threadSafely",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/ThreadSafeMockingProgress.java",
+        "start_line": 48,
+        "end_line": 50,
+        "name": "validateState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+        "start_line": 68,
+        "end_line": 77,
+        "name": "validateState",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+        "start_line": 79,
+        "end_line": 91,
+        "name": "validateMostStuff",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/MockingProgressImpl.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "getArgumentMatcherStorage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/org/mockito/internal/progress/ArgumentMatcherStorageImpl.java",
+        "start_line": 111,
+        "end_line": 117,
+        "name": "validateState",
+        "failing_tests_count": 1
+    }
+]

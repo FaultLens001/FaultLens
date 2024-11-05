@@ -1,0 +1,79 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 40,
+        "end_line": 42,
+        "name": "KMeansPlusPlusClusterer",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 53,
+        "end_line": 78,
+        "name": "cluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 87,
+        "end_line": 93,
+        "name": "assignPointsToClusters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 104,
+        "end_line": 141,
+        "name": "chooseInitialCenters",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/KMeansPlusPlusClusterer.java",
+        "start_line": 151,
+        "end_line": 163,
+        "name": "getNearestCluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 43,
+        "end_line": 45,
+        "name": "EuclideanIntegerPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "getPoint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/EuclideanIntegerPoint.java",
+        "start_line": 56,
+        "end_line": 58,
+        "name": "distanceFrom",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/Cluster.java",
+        "start_line": 45,
+        "end_line": 48,
+        "name": "Cluster",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/stat/clustering/Cluster.java",
+        "start_line": 70,
+        "end_line": 72,
+        "name": "getCenter",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 1623,
+        "end_line": 1630,
+        "name": "distance",
+        "failing_tests_count": 1
+    }
+]

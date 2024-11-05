@@ -1,0 +1,268 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 90,
+        "end_line": 96,
+        "name": "BaseAbstractUnivariateRealSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 109,
+        "end_line": 111,
+        "name": "getMin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 115,
+        "end_line": 117,
+        "name": "getMax",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 121,
+        "end_line": 123,
+        "name": "getStartValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 127,
+        "end_line": 129,
+        "name": "getAbsoluteAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 133,
+        "end_line": 135,
+        "name": "getRelativeAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 139,
+        "end_line": 141,
+        "name": "getFunctionValueAccuracy",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 151,
+        "end_line": 155,
+        "name": "computeObjectiveValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 168,
+        "end_line": 182,
+        "name": "setup",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 185,
+        "end_line": 191,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 265,
+        "end_line": 269,
+        "name": "verifySequence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BaseAbstractUnivariateRealSolver.java",
+        "start_line": 292,
+        "end_line": 298,
+        "name": "incrementEvaluationCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/AbstractUnivariateRealSolver.java",
+        "start_line": 56,
+        "end_line": 60,
+        "name": "AbstractUnivariateRealSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java",
+        "start_line": 119,
+        "end_line": 130,
+        "name": "BracketingNthOrderBrentSolver",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java",
+        "start_line": 142,
+        "end_line": 345,
+        "name": "doSolve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java",
+        "start_line": 361,
+        "end_line": 380,
+        "name": "guessX",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/BracketingNthOrderBrentSolver.java",
+        "start_line": 390,
+        "end_line": 395,
+        "name": "solve",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 51,
+        "end_line": 53,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 60,
+        "end_line": 68,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 77,
+        "end_line": 81,
+        "name": "Incrementor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 90,
+        "end_line": 92,
+        "name": "setMaximalCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 149,
+        "end_line": 153,
+        "name": "incrementCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Incrementor.java",
+        "start_line": 158,
+        "end_line": 160,
+        "name": "resetCount",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/MathUtils.java",
+        "start_line": 255,
+        "end_line": 260,
+        "name": "checkNotNull",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java",
+        "start_line": 334,
+        "end_line": 340,
+        "name": "verifyInterval",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/analysis/solvers/UnivariateRealSolverUtils.java",
+        "start_line": 351,
+        "end_line": 356,
+        "name": "verifySequence",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/Precision.java",
+        "start_line": 276,
+        "end_line": 291,
+        "name": "equals",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3004,
+        "end_line": 3006,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3022,
+        "end_line": 3024,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3537,
+        "end_line": 3555,
+        "name": "max",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+        "start_line": 44,
+        "end_line": 48,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+        "start_line": 68,
+        "end_line": 70,
+        "name": "MathIllegalStateException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+        "start_line": 73,
+        "end_line": 75,
+        "name": "getContext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MathIllegalStateException.java",
+        "start_line": 84,
+        "end_line": 87,
+        "name": "getLocalizedMessage",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+        "start_line": 41,
+        "end_line": 43,
+        "name": "MaxCountExceededException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+        "start_line": 51,
+        "end_line": 56,
+        "name": "MaxCountExceededException",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/MaxCountExceededException.java",
+        "start_line": 61,
+        "end_line": 63,
+        "name": "getMax",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/exception/TooManyEvaluationsException.java",
+        "start_line": 36,
+        "end_line": 39,
+        "name": "TooManyEvaluationsException",
+        "failing_tests_count": 1
+    }
+]

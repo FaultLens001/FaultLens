@@ -1,0 +1,317 @@
+[
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealVector.java",
+        "start_line": 62,
+        "end_line": 67,
+        "name": "checkVectorDimensions",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/AbstractRealVector.java",
+        "start_line": 75,
+        "end_line": 81,
+        "name": "checkIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 74,
+        "end_line": 78,
+        "name": "OpenMapRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 179,
+        "end_line": 183,
+        "name": "OpenMapRealVector",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 207,
+        "end_line": 209,
+        "name": "getEntries",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 219,
+        "end_line": 221,
+        "name": "isDefaultValue",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 367,
+        "end_line": 376,
+        "name": "ebeMultiply",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 421,
+        "end_line": 423,
+        "name": "getDimension",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 478,
+        "end_line": 481,
+        "name": "getEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/linear/OpenMapRealVector.java",
+        "start_line": 662,
+        "end_line": 669,
+        "name": "setEntry",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 102,
+        "end_line": 104,
+        "name": "OpenIntToDoubleHashMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 119,
+        "end_line": 127,
+        "name": "OpenIntToDoubleHashMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 133,
+        "end_line": 145,
+        "name": "OpenIntToDoubleHashMap",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 152,
+        "end_line": 162,
+        "name": "computeCapacity",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 178,
+        "end_line": 201,
+        "name": "get",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 208,
+        "end_line": 231,
+        "name": "containsKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 240,
+        "end_line": 242,
+        "name": "iterator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 258,
+        "end_line": 260,
+        "name": "findInsertionIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 270,
+        "end_line": 317,
+        "name": "findInsertionIndex",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 352,
+        "end_line": 375,
+        "name": "remove",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 384,
+        "end_line": 386,
+        "name": "containsKey",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 393,
+        "end_line": 401,
+        "name": "doRemove",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 409,
+        "end_line": 430,
+        "name": "put",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 468,
+        "end_line": 470,
+        "name": "shouldGrowTable",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 477,
+        "end_line": 480,
+        "name": "hashOf",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1011,
+        "end_line": 1038,
+        "name": "slowexp",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1045,
+        "end_line": 1055,
+        "name": "split",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1061,
+        "end_line": 1074,
+        "name": "resplit",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1081,
+        "end_line": 1087,
+        "name": "splitMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1094,
+        "end_line": 1099,
+        "name": "splitAdd",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1119,
+        "end_line": 1147,
+        "name": "splitReciprocal",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1154,
+        "end_line": 1201,
+        "name": "quadMult",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1208,
+        "end_line": 1246,
+        "name": "expint",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1742,
+        "end_line": 1784,
+        "name": "slowLog",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1792,
+        "end_line": 1826,
+        "name": "slowSin",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1834,
+        "end_line": 1869,
+        "name": "slowCos",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 1873,
+        "end_line": 1965,
+        "name": "buildSinCosTables",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3409,
+        "end_line": 3411,
+        "name": "abs",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3721,
+        "end_line": 3742,
+        "name": "floor",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/FastMath.java",
+        "start_line": 3748,
+        "end_line": 3767,
+        "name": "ceil",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 498,
+        "end_line": 511,
+        "name": "Iterator",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 517,
+        "end_line": 519,
+        "name": "hasNext",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 527,
+        "end_line": 536,
+        "name": "key",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 544,
+        "end_line": 553,
+        "name": "value",
+        "failing_tests_count": 1
+    },
+    {
+        "file": "src/main/java/org/apache/commons/math/util/OpenIntToDoubleHashMap.java",
+        "start_line": 560,
+        "end_line": 582,
+        "name": "advance",
+        "failing_tests_count": 1
+    }
+]
