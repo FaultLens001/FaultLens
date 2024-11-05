@@ -211,6 +211,8 @@ if __name__ == "__main__":
     print(f"Top-3: {len(top_3)}")
     print(f"Top-5: {len(top_5)}")
 
+    if not os.path.exists(os.path.dirname(args.output_file)):
+        os.makedirs(os.path.dirname(args.output_file))
     with open(args.output_file, "w") as f:
         json.dump(evaluate_bugs,f,indent=4)
 
