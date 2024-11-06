@@ -68,7 +68,7 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
 
                 try:
                     task_main(r-1, temperature, model_type, bug, bug_info, codebase_path, try_count, output)
-                    # print(f"agent_{n+1}: Finish {bug}")
+                    # print(f"agent_{n}: Finish {bug}")
                     break
 
                 except TaskMainNormalExit as e:
@@ -77,9 +77,9 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
                     break
                 except TaskMainErrorExit as e:
                     print(e)
-                    error_info = f"agent_{n+1}: Error in {bug} : {e}"
+                    error_info = f"Error in {bug} : {e}"
                     with open(os.path.join(output_dir, "fail_bug_list.txt"), "a+") as f:
-                        f.write(f"agent_{n+1}:" + error_info + "\n")
+                        f.write(f"agent_{n}:" + error_info + "\n")
                     delete_temp_directory(temp_dir)
                     break
 
@@ -88,7 +88,7 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
                     if (("Connection error" in str(e)) or ("Request timed out" in str(e)) or ("request contained invalid JSON: Expecting value:" in str(e))) and try_count < 3:
                         time.sleep(30)
                         with open(os.path.join(output_dir, "fail_bug_list.txt"), "a+") as f:
-                            f.write(f"agent_{n+1}: Retry {bug}: {e}\n")
+                            f.write(f"agent_{n}: Retry {bug}: {e}\n")
                         try_count += 1
 
                         continue
@@ -96,7 +96,7 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
 
                         bug_info = f"Error in {bug} : {e}"
                         with open(os.path.join(output_dir, "fail_bug_list.txt"), "a+") as f:
-                            f.write(f"agent_{n+1}:" + bug_info + "\n")
+                            f.write(f"agent_{n}:" + bug_info + "\n")
                         delete_temp_directory(temp_dir)
                         break
             time.sleep(5)
