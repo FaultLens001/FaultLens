@@ -92,6 +92,8 @@ def main(meta_path, agent_number, model_type, temperature, r, output_dir):
                         with open(os.path.join(output_dir, "fail_bug_list.txt"), "a+") as f:
                             f.write(f"agent_{n}: Retry {bug}: {e}\n")
                         try_count += 1
+                        if try_count == 3:
+                            delete_temp_directory(temp_dir)
 
                         continue
                     else:
