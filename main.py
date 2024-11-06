@@ -41,6 +41,8 @@ def task_main(r, temperature, model_type, bug,bug_info,codebase_path,try_count,o
     clean_error_info = bug_info["trigger_test"][first_trigger_test]["clean_error_msg"]
     trigger_test_info = {"src":trigger_test_src,"path":trigger_test_path,"clean_error_info":clean_error_info}
     parsed_dir = os.path.join(os.path.dirname(codebase_path), "parsed")
+    # location_extraction_flag: Indicates whether location extraction validation is enabled (default=True).
+    # If set to False, use -v 0 when running evaluate.py, as evaluation steps differ slightly.
     run(parsed_dir, r, temperature, model_type, bug, str(bug_output), trigger_test_info, codebase_path, trigger_test=first_trigger_test,
         advanced_identification=True, re_check=True, partial_save=True, issue_analysis=True, review_result=True, location_extraction_flag=True)
 
